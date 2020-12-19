@@ -24,6 +24,9 @@ venv.bak/
 # jetbrains
 .idea/
 
+# vscode
+.vscode/
+
 # other
 tmp/
 temp/
