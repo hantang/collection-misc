@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Kentucky</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   
+<p><br />
+<font face="Arial"><strong>Kentucky</strong></font><br />
+<br />
+AEC Southern Ohio College (Ft. Mitchell)<br />
+Alice Lloyd College (Pippa Passes)<br />
+Appalachian Beauty School (South Williamson)<br />
+Asbury College (Wilmore)<br />
+Asbury Theological Seminary (Wilmore)<br />
+Ashland Community College (Ashland)<br />
+Ashland School of Beauty Culture (Ashland)<br />
+Ashland Technical College (Ashland)<br />
+Barrett and Company School of Hair Design (Nicholasville)<br />
+Beckfield College (Florence)<br />
+Bellarmine University (Louisville)<br />
+Bellefonte Academy of Beauty (Russell)<br />
+Berea College (Berea)<br />
+Bowling Green Technical College (Bowling Green)<br />
+Bowling Green Technical College - Branch Campus (Bowling Green)<br />
+Bowling Green Technical College - Branch Campus (Glasgow)<br />
+Brescia University (Owensboro)<br />
+Brighton Center - Center for Employment Training (Newport)<br />
+Campbellsville University (Campbellsville)<br />
+Carl D. Perkins Job Corps Center (Prestonsburg)<br />
+Central Kentucky Technical College - Branch Campus (Burgin)<br />
+Central Kentucky Technical College - Branch Campus (Danville)<br />
+Central Kentucky Technical College - Branch Campus (Lawrenceburg)<br />
+Central Kentucky Technical College - Branch Campus (Lexington)<br />
+Central Kentucky Technical College (Lexington)<br />
+Centre College (Danville)<br />
+Clear Creek Baptist Bible College (Pineville)<br />
+Collins School of Cosmetology (Middlesboro)<br />
+Cumberland College (Williamsburg)<br />
+Daymar College (Louisville)<br />
+Daymar College (Owensboro)<br />
+Decker College (Louisville)<br />
+Donta School of Beauty Culture (Louisville)<br />
+Draughons Junior College (Bowling Green)<br />
+Earle C. Clements Job Corps Academy (Morganfield)<br />
+Eastern Kentucky University (Richmond)<br />
+Elizabethtown Beauty School (Elizabethtown)<br />
+Elizabethtown Community College (Elizabethtown)<br />
+Elizabethtown Technical College (Elizabethtown)<br />
+Ezell's Cosmetology School (Murray)<br />
+Federal Medical Center - Lexington (Lexington)<br />
+Frontier School of Midwifery and Family Nursing (Hyden)<br />
+Gateway Community and Technical College - Branch Campus (Edgewood)<br />
+Gateway Community and Technical College - Branch Campus (Highland Heights)<br />
+Gateway Community and Technical College (Covington)<br />
+Georgetown College (Georgetown)<br />
+The Hair Design School (Florence)<br />
+The Hair Design School (Louisville)<br />
+The Hair Design School (Radcliff)<br />
+Hazard Community College (Hazard)<br />
+Head's West Kentucky Beauty College (Madisonville)<br />
+Health Institute of Louisville - Branch Campus (San Antonio)<br />
+Health Institute of Louisville - Branch Campus (St. Petersburg)<br />
+Health Institute of Louisville (Louisville)<br />
+Henderson Community College (Henderson)<br />
+Hopkinsville Community College (Hopkinsville)<br />
+Interactive College of Technology - Branch Campus (Florence)<br />
+ITT Technical Institute (Louisville)<br />
+J & M Academy of Cosmetology, Inc. (Frankfort)<br />
+Jefferson Community College (Louisville)<br />
+Jefferson Technical College - Branch Campus (LaGrange)<br />
+Jefferson Technical College - Branch Campus (Pewee Valley)<br />
+Jefferson Technical College (Louisville)<br />
+Jenny Lea Academy of Cosmetology (Harlan)<br />
+Jenny Lea Academy of Cosmetology (Whitesburg)<br />
+Kaufman Beauty School (Lexington)<br />
+Kentucky Christian College (Grayson)<br />
+Kentucky Mountain Bible College (Vancleve)<br />
+Kentucky State University (Frankfort)<br />
+Kentucky Wesleyan College (Owensboro)<br />
+Laurel Technical College (London)<br />
+Lexington Community College (Lexington)<br />
+Lexington Theological Seminary (Lexington)<br />
+Lindsey Wilson College (Columbia)<br />
+Louisville Presbyterian Theological Seminary (Louisville)<br />
+Louisville Technical Institute (Louisville)<br />
+Madisonville Community College (Madisonville)<br />
+Mayo Technical College - Branch Campus (Pikeville)<br />
+Mayo Technical College (Paintsville)<br />
+Maysville Community College (Maysville)<br />
+Mid-Continent College (Mayfield)<br />
+Midway College (Midway)<br />
+Morehead State University (Morehead)<br />
+Motif Beauty Academy (Winchester)<br />
+Mr. Jim's Beauty College (Owensboro)<br />
+Murray State University (Murray)<br />
+National College of Business and Technology (Danville)<br />
+National College of Business and Technology (Florence)<br />
+National College of Business and Technology (Lexington)<br />
+National College of Business and Technology (Louisville)<br />
+National College of Business and Technology (Pikeville)<br />
+National College of Business and Technology (Richmond)<br />
+Northern Kentucky University (Highland Heights)<br />
+Nu-Tek Academy of Beauty (Mt. Sterling)<br />
+Owensboro Community and Technical College (Owensboro)<br />
+Paducah Technical College (Paducah)<br />
+Pat Wilson Beauty College, Inc. (Henderson)<br />
+Pikeville College (Pikeville)<br />
+PJ's College of Cosmetology (Bowling Green)<br />
+PJ's College of Cosmetology (Glasgow)<br />
+Prestonsburg Community College (Prestonsburg)<br />
+Regency School of Hair Design (Prestonsburg)<br />
+RETS Institute of Technology (Hopkinsville)<br />
+RETS Institute of Technology (Louisville)<br />
+Rowan Technical College - Branch Campus (West Liberty)<br />
+Rowan Technical College (Morehead)<br />
+Saint Catharine College (St. Catharine)<br />
+Somerset Community College (Somerset)<br />
+Somerset Technical College (Somerset)<br />
+Southeast Community College (Cumberland)<br />
+Southeast School of Cosmetology (Manchester)<br />
+The Southern Baptist Theological Seminary (Louisville)<br />
+Southwestern College of Business (Crestview Hills)<br />
+Spalding University (Louisville)<br />
+Spencerian College (Lexington)<br />
+Spencerian College (Louisville)<br />
+Sullivan University (Louisville)<br />
+Thomas More College (Crestview Hills)<br />
+Transylvania University (Lexington)<br />
+Trend Setters' Academy of Beauty Culture (Elizabethtown)<br />
+Trend Setter's Academy of Beauty Culture (Louisville)<br />
+Tri-State Beauty Academy (Morehead)<br />
+Union College (Barbourville)<br />
+University of Kentucky (Lexington)<br />
+University of Louisville (Louisville)<br />
+West Kentucky Community and Technical College (Paducah)<br />
+West Kentucky Technical College - Branch Campus (Eddyville)<br />
+West Kentucky Technical College - Branch Campus (Fredonia)<br />
+West Kentucky Technical College (Paducah)<br />
+Western Kentucky University (Bowling Green)<br />
+William F. Lea & Associates, Inc. (Louisville)</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

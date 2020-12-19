@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>摩纳哥</h1></div><div style="text-align:center;padding-top:5px;">2019年03月06日</div><div class="gwCon"><div class="gw"><div class="tit2"><span>1</span><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>摩纳哥公国高等教育是在摩纳哥内政部的监管下，由国家教育、青年和运动处来管辖。摩纳哥的基础教育体系是参照法国教育部章程来建立的，因此，该国共有两种提供高等教育的机构：专门提供高等教育的公立或私立机构和提供高等教育的中学，该国所有高等教育学位证书由摩纳哥政府亲自设立与授予。</p><p>摩纳哥公国不是欧洲博洛尼亚进程（Bologna Process）的成员国，也未加入1997年4月11日欧洲理事会与联合国教科文组织的《关于欧洲地区相互承认高等教育资格公约》（简称《里斯本公约》）。</p><p>摩纳哥公国是欧洲信息中心网络（ENIC）合作成员，该网络汇集了欧洲地区各个国家的信息中心（联合国教科文组织定义国家成员有：欧洲国家、美国、加拿大、澳大利亚、新西兰、以色列和土耳其）。摩纳哥国家教育信息中心（Centre d’information de l’éducationnationale）承担ENIC摩纳哥中心的任务。ENIC摩纳哥中心遵循《里斯本公约》所制定的原则。</p><p>ENIC摩纳哥的任务包括：1. 调查关于外国教育体系和文凭、欧洲高等教育立法、公国监管职业的准入；2. 学历在其他国家认证的程序和颁发国外获得文凭的认证证明，认证这些文凭目的是为了便利其在公国就业；3. 向主管部门或其他申请人以及ENIC-NARIC网络（欧洲信息中心网络/欧盟国家学术承认信息中心网络）的各个中心传达认证专家意见。</p><p>ENIC摩纳哥中心认证在国外获得的文凭并颁发证明。所颁发的证明没有法律效用，不能在摩纳哥境外使用。目的是为了帮助公国高等教育机构、雇主或管理部门了解其在原籍国的教育经历与水平。这些证明仅适用于学术或就业方面，包含两个要求：1. 仅限于高等教育水平，或准备接受高等教育的水平；2.最短持续时间为6个月或相当于至少60个ECTS学分。根据《里斯本公约》制定的两项资格标准，对文凭的评估作出了如下规定：1.颁发文凭国家教育系统对学位的认证；2. 文凭颁发学校在获得国家的地位。此外，给予认证时需要考虑以下因素：1. 培训时长；2.预计获得的ECTS学分；3.培训的先决条件和机会；4. 外部机构对培训的评估。</p><p>摩纳哥国际大学是摩纳哥公国唯一的大学，成立于1986年，为一所私立高等商业和管理专业方向的大学。</p></div></div>&nbsp; &nbsp;<div class="gw"><div class="tit2"><span>2</span><h2>名单</h2></div><div class="gwList"><p class="not">&nbsp;&nbsp; 英文（或源语言）校名：International University of Monaco</p><p>中文校名：摩纳哥国际大学</p><p>官方网址：https://www.monaco.edu/</p><p>备注：</p></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12133"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

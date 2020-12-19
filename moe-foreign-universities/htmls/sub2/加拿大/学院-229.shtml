@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>加拿大学校名单：学院 ( College)</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><strong>学院 ( College)</strong></p><p><strong>Alberta</strong></p><p><br/></p><p><strong>专业学院</strong></p><p>学校名称：Northern Alberta Institute of Technology<br/>中文译名：北阿尔伯塔理工学院<br/>官方网址：http://www.nait.ca/ <br/>备注：<br/><br/>学校名称：Southern Alberta Institute of Technology<br/>中文译名：南阿尔伯塔理工学院<br/>官方网址：http://www.sait.ca/ <br/>备注：<strong><br/></strong><br/></p><p><strong>学院</strong></p><p>学校名称：Alberta College of Art and Design<br/>中文译名：阿尔伯塔省艺术与设计学院<br/>官方网址：https://www.acad.ca/ <br/>备注：<br/><br/>学校名称：Bow Valley College<br/>中文译名：博瓦立学院<br/>官方网址：https://bowvalleycollege.ca/ <br/>备注：<br/><br/>学校名称：Grande Prairie Regional College<br/>中文译名：大草原城地区学院<br/>官方网址：https://www.gprc.ab.ca/ <br/>备注：<br/><br/>学校名称：Keyano College<br/>中文译名：克亚诺学院<br/>官方网址：http://www.keyano.ca/ <br/>备注：<br/><br/>学校名称：Lakeland College<br/>中文译名：雷克兰德学院<br/>官方网址：https://www.lakelandcollege.ca/ <br/>备注：<br/><br/>学校名称：Lethbridge College<br/>中文译名：莱斯布里奇学院<br/>官方网址：https://lethbridgecollege.ca/ <br/>备注：<br/><br/>学校名称：Medicine Hat College<br/>中文译名：梅迪辛哈特学院<br/>官方网址：https://www.mhc.ab.ca/ <br/>备注：<br/><br/>学校名称：NorQuest College<br/>中文译名：诺奎斯特学院<br/>官方网址：https://www.norquest.ca/home.aspx <br/>备注：<br/><br/>学校名称：Northern Lakes College<br/>中文译名：北湖学院<br/>官方网址：https://www.northernlakescollege.ca/ <br/>备注：<br/><br/>学校名称：Olds College<br/>中文译名：奥兹学院<br/>官方网址：https://www.oldscollege.ca/index.html <br/>备注：<br/><br/>学校名称：Portage College<br/>中文译名：波特治学院<br/>官方网址：http://www.portagecollege.ca/ <br/>备注：主要服务加拿大原住民<br/><br/>学校名称：Red Deer College<br/>中文译名：红鹿学院<br/>官方网址：http://rdc.ab.ca/ <br/>备注：<br/><br/></p><p><strong>British Columbia</strong></p><p><strong>专业学院</strong></p><p>学校名称：British Columbia Institute of Technology<br/>中文译名：不列颠哥伦比亚省理工学院<br/>官方网址：https://www.bcit.ca/ <br/>备注：<br/><br/>学校名称：Justice Institute of British Columbia<br/>中文译名：不列颠哥伦比亚省司法学院<br/>官方网址：https://www.jibc.ca/ <br/>备注：</p><p><br/>学校名称：Nicola Valley Institute of Technology<br/>中文译名：尼古拉谷理工学院<br/>官方网址：http://www.nvit.ca/ <br/>备注：主要服务加拿大原住民</p><p><br/></p><p><strong>学院及社区学院</strong></p><p>学校名称：Camosun College<br/>中文译名：卡莫森学院<br/>官方网址：http://camosun.ca/ <br/>备注：<br/><br/>学校名称：College of New Caledonia<br/>中文译名：新卡里多尼亚学院<br/>官方网址：http://www.cnc.bc.ca/ <br/>备注：<br/><br/>学校名称：College of the Rockies<br/>中文译名：落基山学院<br/>官方网址：http://www.cotr.bc.ca/ <br/>备注：<br/><br/>学校名称：Douglas College<br/>中文译名：道格拉斯学院<br/>官方网址：https://www.douglascollege.ca/ <br/>备注：<br/><br/>学校名称：Langara College<br/>中文译名：兰加拉学院<br/>官方网址：https://langara.ca/ <br/>备注：&nbsp;&nbsp; &nbsp;<br/><br/>学校名称：North Island College<br/>中文译名：北岛学院<br/>官方网址：https://www.nic.bc.ca/ <br/>备注：<br/><br/>学校名称：Northern Lights College<br/>中文译名：北极光学院<br/>官方网址：http://www.nlc.bc.ca/ <br/>备注：<br/><br/>学校名称：Northwest Community College<br/>中文译名：西北社区学院<br/>官方网址：http://www.nwcc.bc.ca/ <br/>备注：&nbsp;&nbsp; &nbsp;<br/><br/>学校名称：Okanagan College<br/>中文译名：奥肯那根学院<br/>官方网址：http://www.okanagan.bc.ca/<br/>备注：<br/><br/>学校名称：Selkirk College<br/>中文译名：塞尔扣克学院<br/>官方网址：http://selkirk.ca/ <br/>备注：<br/><br/>学校名称：Vancouver Community College<br/>中文译名：温哥华社区学院<br/>官方网址：http://www.vcc.ca/<br/>备注：<br/><br/>学校名称：Acsenda School of Management（私立）<br/>中文校名：阿克森达管理学院<br/>官方网址：https://www.acsenda.com<br/>备注：</p><p>&nbsp;</p><p><strong>Manitoba</strong></p><p><strong>大学学院</strong></p><p>The College Universtaire de Saint-Boniface</p><p><strong>学院及社区学院</strong></p><p>Assiniboine Community College</p><p>Keewatin Community College</p><p>Providence College</p><p>Red River College</p><p>Steinbach Bible College</p><p>外文校名：Manitoba Institute of Trades and Technology</p><p>中文译名：曼尼托巴贸易与技术学院</p><p>官方网址：http://mitt.ca/</p><p>备注：学校于2014年6月12日更名，学校名字变更前为：Winnipeg Technical College</p><p>&nbsp;</p><p><strong>New Brunswick</strong></p><p><strong>社区学院</strong></p><p>New Brunswick Community College</p><p>Newfoundland & Labrador</p><p><strong>学院</strong></p><p>College of the North Atlantic</p><p>&nbsp;</p><p><strong>Northwest Territories</strong></p><p><strong>学院</strong></p><p>Aurora College</p><p>&nbsp;</p><p><strong>Nova Scotia</strong></p><p><strong>大学学院</strong></p><p>Universit&eacute; Sainte-Anne - Coll&egrave;ge de l&#39;Acadie</p><p>University of King&#39;s College</p><p>&nbsp;</p><p><strong>学院及社区学院</strong></p><p>Nova Scotia Agricultural College</p><p>Nova Scotia Community College</p><p>&nbsp;</p><p><strong>Nunavut</strong></p><p><strong>学院</strong></p><p>Nunavut Arctic College</p><p>&nbsp;</p><p><strong>Ontario</strong></p><p><strong>大学学院</strong></p><p>Brescia University College</p><p>Huron University College</p><p>King&#39;s University College at The University of Western Ontario</p><p>Redeemer University College</p><p>University of St. Michael&#39;s College</p><p>University of Trinity College</p><p><strong>学院及社区学院</strong></p><p><span class="normal105"></span></p><p>Algonquin College of Applied Arts and Technology</p><p>Cambrian College of Applied Arts and Technology</p><p>Canadore College of Applied Arts and Technology</p><p>Centennial College of Applied Arts and Technology</p><p>Collège Boréal</p><p>Collège dominicain de philosophie et de théologie</p><p>Conestoga College Institute of Technology and Advanced Learning</p><p>Confederation College of Applied Arts and Technology</p><p>Durham College of Applied Arts and Technology</p><p>Fanshawe College of Applied Arts and Technology</p><p>George Brown College of Applied Arts and Technology</p><p>Georgian College of Applied Arts and Technology</p><p>Humber College Institute of Technology and Advanced Learning</p><p>La Cité collégiale</p><p>Lambton College of Applied Arts and Technology</p><p>Loyalist College of Applied Arts and Technology</p><p>Mohawk College of Applied Arts and Technology</p><p>Niagara College of Applied Arts and Technology</p><p>Northern College of Applied Arts and Technology</p><p>Sault College of Applied Arts and Technology</p><p>Seneca College of Applied Arts and Technology</p><p>Sheridan College Institute of Technology and Advanced Learning</p><p>Sir Sandford Fleming College of Applied Arts and Technology</p><p>St. Clair College of Applied Arts and Technology</p><p>St. Lawrence College of Applied Arts and Technology</p><p><br/></p><p><br/></p><p><strong>Prince Edward Island</strong></p><p><strong>学院</strong></p><p>Holland College</p><p>&nbsp;</p><p><strong>Quebec</strong></p><p><strong>学院及社区学院</strong></p><p><span class="normal105"></span></p><p>Cégep André-Laurendeau</p><p>Cégep de Drummondville</p><p>Cégep de Jonquière</p><p>Cégep de la Gaspésie et des Îles</p><p>Cégep de l&#39;Abitibi-Témiscamingue</p><p>Cégep de Limoilou</p><p>Cégep de Matane</p><p>Cégep de Rivière-du-loup</p><p>Cégep de Saint-Hyacinthe</p><p>Cégep de Saint-Laurent</p><p>Cégep de Sept-Iles</p><p>Cégep de Sorel-Tracy</p><p>Cégep de Trois-Rivières</p><p>Cégep du Vieux-Montréal</p><p>Cégep Marie-Victorin</p><p>Cégep régional de Lanaudière</p><p>Cégep Saint-Jean-sur-Richelieu</p><p>Champlain Regional College</p><p>Collège Ahuntsic</p><p>Collège de Bois-de-Boulogne</p><p>Collège de l&#39;Outaouais</p><p>Collège de Maisonneuve</p><p>Collège de Rosemont</p><p>Collège de Sherbrooke</p><p>Collège édouard-Montpetit</p><p>Collège François-Xavier-Garneau</p><p>Collège Gérald-Godin</p><p>Collège Laflèche</p><p>Collège LaSalle</p><p>Collège Lionel-Groulx</p><p>Collège Mérici</p><p>Collège Shawinigan</p><p>Dawson College</p><p>Heritage College</p><p>Institut de technologie agroalimentaire de La Pocatière</p><p>Institut de technologie agroalimentaire de Saint-Hyacinthe</p><p>Institut du Tourisme & d&#39;Hôtellerie du Québec</p><p>John Abbott College</p><p>Marianopolis College</p><p>Vanier College</p><p>&nbsp;</p><p><strong>Saskatchewan</strong></p><p><strong>学院及社区学院</strong></p><p>Campion College</p><p>Luther College</p><p>St. Thomas More College</p><p>英文（或者源语言）校名：Saskatchewan Polytechnic<br/>中文校名：萨斯卡彻温理工学院<br/>官方网址：https://saskpolytech.ca<br/>备注：&nbsp;&nbsp; &nbsp;公立职业教育院校</p><p>&nbsp;</p><p><strong>Yukon</strong></p><p><strong>学院</strong></p><p>Yukon College</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

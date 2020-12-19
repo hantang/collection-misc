@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Oklahoma</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><br/> <span style="font-family:Arial"><strong>Oklahoma</strong></span><br/> <br/> Academy of Cosmetology (Chickasha)<br/> American Beauty Institute (McAlester)<br/> American Broadcasting School (Oklahoma City)<br/> American Christian College and Seminary (Oklahoma City)<br/> American Christian Seminary (Oklahoma City)<br/> Bacone College (Muskogee)<br/> Beauty Technical College (Tahlequah)<br/> Broken Arrow Beauty College, Inc. (Broken Arrow)<br/> Cameron University (Lawton)<br/> Career Point Institute (Tulsa)<br/> Carl Albert State College (Poteau)<br/> CC&#39;s Cosmetology College (Oklahoma City)<br/> CC&#39;s Cosmetology College (Tulsa)<br/> Central State Beauty Academy (Oklahoma City)<br/> City College, Inc. (Moore)<br/> Claremore Beauty College (Claremore)<br/> Community Care College (Tulsa)<br/> Connors State College (Warner)<br/> DeMarge College, Inc. (Oklahoma City)<br/> East Central University (Ada)<br/> Eastern Oklahoma State College (Wilburton)<br/> Enid Beauty College, Inc. (Enid)<br/> Eve&#39;s College of Hairstyling (Lawton)<br/> Family of Faith College (Shawnee)<br/> Heritage College (Oklahoma City)<br/> Hillsdale Free Will Baptist College (Moore)<br/> Hollywood Cosmetology Center (Oklahoma City)<br/> Institute of Hair Design (Shawnee)<br/> Jenks Beauty College (Jenks)<br/> Langston University (Langston)<br/> The Language Company (Oklahoma City)<br/> Metropolitan College (Oklahoma City)<br/> Metropolitan College (Tulsa)<br/> Mid-America Christian University (Oklahoma City)<br/> Murray State College (Tishomingo)<br/> NEC-Spartan School of Aeronautics (Tulsa)<br/> Northeastern Oklahoma A &amp; M College (Miami)<br/> Northeastern State University (Tahlequah)<br/> Northern Oklahoma College (Tonkawa)<br/> Northwestern Oklahoma State University (Alva)<br/> Oklahoma Baptist University (Shawnee)<br/> Oklahoma Christian University (Oklahoma City)<br/> Oklahoma City Community College (Oklahoma City)<br/> Oklahoma City University (Oklahoma City)<br/> Oklahoma Health Academy (Moore)<br/> Oklahoma Health Academy (Tulsa)<br/> Oklahoma Panhandle State University (Goodwell)<br/> Oklahoma School of Photography (Moore)<br/> Oklahoma State University-Oklahoma City (Oklahoma City)<br/> Oklahoma State University Institute of Technology-Okmulgee (Okmulgee)<br/> Oklahoma State University (Stillwater)<br/> Oklahoma Wesleyan University (Bartlesville)<br/> Oral Roberts University School of Theology (Tulsa)<br/> Oral Roberts University (Tulsa)<br/> Phillips Theological Seminary (Tulsa)<br/> Platt College (Lawton)<br/> Platt College (Okahoma City)<br/> Platt College (Oklahoma City)<br/> Platt College (Tulsa)<br/> Ponca City Beauty College (Ponca City)<br/> Poteau Beauty College (Poteau)<br/> Pryor Beauty College (Pryor)<br/> Redlands Community College (El Reno)<br/> Rogers State University (Claremore)<br/> Ron Moore &amp; Associates, Inc. (Oklahoma City)<br/> Rose State College (Midwest City)<br/> Saint Gregory&#39;s University (Shawnee)<br/> Sand Springs Beauty College (Sand Springs)<br/> School of Hair Design (Hugo)<br/> School of Hair Design (Idabel)<br/> Seminole State College (Seminole)<br/> Shawnee Beauty College (Shawnee)<br/> Southeastern Oklahoma State University (Durant)<br/> Southern Nazarene University (Bethany)<br/> Southern School of Beauty (Durant)<br/> Southwestern Christian University (Bethany)<br/> 英文校名：Southwestern Oklahoma State University-Sayre<br/>中文校名：西南俄克拉荷马州立大学赛尔校区<br/>官方网址：https://www.swosu.edu/sayre/index.aspx<br/>备注：</p><p>英文校名：Southwestern Oklahoma State University<br/>中文校名：西南俄克拉荷马州立大学<br/>官方网址：https://www.swosu.edu/<br/>备注：西南俄克拉荷马州立大学有两个校区，其主校区为威德福校区Southwestern
+ Oklahoma State University-Weatherford，另有分校区赛尔校区Southwestern Oklahoma 
+State University-Sayre。</p><p>&nbsp;Stanton Beauty College Inc. (ADA)<br/> State Barber and Hair Design College (Oklahoma City)<br/> Stillwater Beauty Academy (Stillwater)</p><p>Technical Institute of Cosmetology Arts &amp; Sciences (Tulsa)<br/> Tulsa Community College (Tulsa)<br/> Tulsa Welding School (Tulsa)<br/> University of Central Oklahoma (Edmond)<br/> University of Oklahoma (Norman)<br/> University of Science and Arts of Oklahoma (Chickasha)<br/> University of Tulsa (Tulsa)<br/> U.S. Army Ordnance Munitions and Electronics Maintenance School - Branch Campus (Ft. Sill)<br/> Vatterott College (Oklahoma City)<br/> Vatterott College (Tulsa)<br/> Vatterott College-Tulsa (Tulsa)<br/> Virgil&#39;s Beauty College (Muskogee)<br/> Western Oklahoma State College (Altus)<br/> Woodward Beauty College (Woodward)<br/> Wright Business School (Oklahoma City)<br/> Yukon Beauty College (Yukon)</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

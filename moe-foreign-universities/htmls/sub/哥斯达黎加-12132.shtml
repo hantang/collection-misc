@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>哥斯达黎加</h1></div><div style="text-align:center;padding-top:5px;">2019年2月19日</div><div class="gwCon"><div class="gw"><div class="tit2"><span>1</span><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>哥斯达黎加高等教育公立与私立并行，由“国家校长委员会”（CONARE）和“国家私立高等教育委员会”（CONESUP）分别协调管理。哥斯达黎加大学学制为2 至10 年，包括：专科教育、本科、硕士、博士四种。通常哥国家的学位与我大学类似，在大学学位中，学士学位为大学正常毕业学位，拥有学士学位后可以再读硕士、博士。特殊之处在于在本科与硕士之间，一些专业拥有类似从业资格证的高本学位。</p><p>一、公立高等教育、“国家校长委员会”及“高等教育规划处”（以下简称“高教处”）</p><p>哥斯达黎加公立大学高度自治，目前全国共有5 所公立大学，分别为“哥斯达黎加大学”、“哥斯达黎加国立大学”、“哥斯达黎加理工大学”、“国家远程教育大学”和“国立技术大学”，由“国家校长委员会”协调管理。</p><p>1974 年11 月4 日通过了《哥斯达黎加国立高等教育协调协议》（以下简称《协议》），并在此基础上成立“国家校长委员会”及其常设秘书处“高教处”，以集中协调公立大学在各个领域行使其自治权。</p><p>“国家校长委员会”的成员为签署《协议》的所有公立大学校长，其主要职能如下：</p><p>- 向“高教处”提出制定《公立高等教育计划》的指导方针；</p><p>- 在征求《协议》签署高校的意见后通过《公立高等教育计划》；</p><p>- 落实《公立高等教育计划》，按照《协议》的相关规定分配国家对公立高等教育的预算投入；</p><p>- 直接领导“高教处”，决定并规范其组织结构；</p><p>- 为“高教处”制定补充机制及协调程序，以保证公立高等教育的正常运作；</p><p>- 促进和加强《协议》签署高校下设规划部门之间的协调工作；</p><p>- 根据《协议》的相关规定，对《协议》签署高校的专业进行评估、审批或取消。</p><p>“高教处”是“国家校长委员会”的技术和咨询机构，其处长、管理人员及技术人员均由“国家校长委员会”任命，其工作受《协议》规范，其主要体职能如下：</p><p>- 根据现行的《国家发展计划》制定《公立高等教育计划》，《公立高等教育计划》的有效期为5 年，且每年要进行评估；</p><p>- 对信息库及其他资源随时保持更新；</p><p>- 作为常设秘书处为“国家校长委员会”提供所需的全部辅助服务；</p><p>- 就教育政策、教育项目等向“国家校长委员会”提出方案，以促进公立高等教育的发展；</p><p>- 与相关公立高校协作，对“国家校长委员会”通过的计划和项目进行制定、监督及评估。</p><p>二、私立高等教育及“国家私立高等教育委员会”</p><p>目前哥斯达黎加共有53 所在“国家私立高等教育委员会”注册的私立高校，但是总体投资和实力还不是很强，主要以单科实力突出的模式为主。此外，如INCAE 商学院、和平大学等知名度较高的私立大学由于不是哥斯达黎加的本土大学，所以并未在“国家私立高等教育委员会”注册，但是哥斯达黎加官方承认其学历及学位。</p><p>“国家私立高等教育委员会”隶属于哥斯达黎加公共教育部，负责对私立大学进行监管和监督，其主要职能如下：</p><p>- 按照相关法律规定，授权私立大学的创建和运作；</p><p>- 审批私立大学的章程和学术规定及其相应调整；</p><p>- 根据“高等教育规划处”的调研结果，对私立大学所开设的专</p><p>业进行审批。</p></div></div><div class="gw"><div class="tit2"><span>2</span><h2>名单</h2></div><div class="gwList"><p class="not">&nbsp; &nbsp; 英文（或者源语言）校名：University for Peace</p><p>中文校名：联合国和平大学</p><p>官方网址：http://www.upeace.org/&nbsp;&nbsp; &nbsp;&nbsp; <br/></p><p>备注：</p></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12132"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Minnesota</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><br/><span style="font-family:Arial"><strong>Minnesota</strong></span><br/><br/>Academy College (Bloomington)<br/>Alexandria Technical College (Alexandria)<br/>Alfred Adler Graduate School (Hopkins)<br/>Anoka-Ramsey Community College (Coon Rapids)<br/>Anoka Technical College (Anoka)<br/>The Art Institutes International Minnesota (Minneapolis)<br/>Augsburg College (Minneapolis)<br/>Aveda Institute Inc. (Minneapolis)<br/>Bemidji State University (Bemidji)<br/>Bethany Lutheran College (Mankato)<br/>Bethel College (St. Paul)<br/>Bethel Theological Seminary (St. Paul)<br/>Brown College (Brooklyn Center)<br/>Brown College (Mendota Heights)<br/>Capella University (Minneapolis)<br/>Carleton College (Northfield)<br/>Central Lakes College (Brainerd)<br/>Century Community and Technical College (White Bear Lake)<br/>College of Saint Benedict (Saint Joseph)<br/>College of Saint Catherine (St. Paul)<br/>College of Saint Scholastica (Duluth)<br/>College of Visual Arts (St. Paul)<br/>Concordia College (Moorhead)<br/>Concordia University, St. Paul (St. Paul)<br/>Cosmetology Careers Unltd. - Duluth (Duluth)<br/>Cosmetology Careers UnLTD - Hibbing (Hibbing)<br/>Crossroads College (Rochester)<br/>Crown College (Saint Bonifacius)<br/>Crown College (St. Bonifacius)<br/>Dakota County Technical College (Rosemount)<br/>Duluth Business University (Duluth)<br/>Dunwoody College of Technology (Minneapolis)<br/>Fond du Lac Tribal and Community College (Cloquet)<br/>Global Language Institute (St. Paul)<br/>Globe College (Oakdale)<br/>Gustavus Adolphus College (Saint Peter)<br/>Hamline University (St. Paul)<br/>Hennepin Technical College (Brooklyn Park)<br/>Herzing College (Crystal)<br/>Hibbing Community College (Hibbing)<br/>High-Tech Institute (Brooklyn Center)<br/>Inver Hills Community College (Inver Grove Heights)<br/>Itasca Community College (Grand Rapids)<br/>Lake Superior College (Duluth)<br/>Luther Seminary (St. Paul)<br/>Macalester College (St. Paul)<br/>Martin Luther College (New Ulm)<br/>Mayo Foundation (Rochester)<br/>Mesabi Range Community & Technical College (Virginia)<br/>Metropolitan State University (St. Paul)<br/>Miami Ad School - Branch Campus (Minneapolis)<br/>Minneapolis Business College (Roseville)<br/>Minneapolis College of Art and Design (Minneapolis)<br/>Minneapolis Community and Technical College (Minneapolis)<br/>Minneapolis School of Massage (Minneapolis)<br/>Minnesota Cosmetology Education Center, Inc. (South St. Paul)<br/>Minnesota Institute of Technologies (Minneapolis)<br/>Minnesota School of Business (Brooklyn Center)<br/>Minnesota School of Business (Plymouth)<br/>Minnesota School of Business (Richfield)<br/>Minnesota State College-Southeast Technical (Winona)<br/>Minnesota State Community and Technical College (Fergus Falls)<br/>Minnesota State University, Mankato (Mankato)<br/>Minnesota State University Moorhead (Moorhead)<br/>Minnesota West Community and Technical College (Granite Falls)<br/>Model College of Hair Design (St. Cloud)<br/>National Technological University (Minneapolis)<br/>NEI College of Technology (Columbia Heights)<br/>Norman & Associates (Edina)<br/>Normandale Community College (Bloomington)<br/>North Central University (Minneapolis)<br/>North Hennepin Community College (Brooklyn Park)<br/>Northland Community and Technical College (Thief River Falls)<br/>Northwest Technical College (Perham)<br/>Northwest Technical Institute (Eden Prairie)<br/>Northwestern College (Saint Paul)<br/>Northwestern Health Sciences University (Bloomington)<br/>Oak Hills Christian College (Bemidji)<br/>Pillsbury Baptist Bible College (Owatonna)<br/>Pine Technical College (Pine City)<br/>Rainy River Community College (International Falls)<br/>Rasmussen College Eagan (Eagan)<br/>Rasmussen College Mankato (Mankato)<br/>Rasmussen College Minnetonka (Minnetonka)<br/>Rasmussen College (Roseville)<br/>Rasmussen College St. Cloud (St. Cloud)<br/>Regency Beauty Institute (Blaine)<br/>Regency Beauty Institute (Burnsville)<br/>Regency Beauty Institute (St. Cloud)<br/>Ridgewater College (Willmar)<br/>Rita&#39;s Moorhead Beauty College (Moorhead)<br/>Riverland Community College (Austin)<br/>Rochester Community and Technical College (Rochester)<br/>St. Cloud State University (St. Cloud)<br/>Saint Cloud Technical College (St. Cloud)<br/>Saint John&#39;s University (Collegeville)<br/>St. John&#39;s University School of Theology - Seminary (Collegeville)<br/>Saint Mary&#39;s University of Minnesota (Winona)<br/>Saint Olaf College (Northfield)<br/>Saint Paul College-A Community & Technical College (Saint Paul)<br/>Saint Paul Seminary School of Divinity of the University of St. Thomas (St. Paul)<br/>Scot Lewis School - Paul Mitchell Partner School (Bloomington)<br/>Scot Lewis Schools - Paul Mitchell Partner School (Plymouth)<br/>Sister Rosalind Gefre Schools and (West St. Paul)<br/>South Central Technical College (North Mankato)<br/>Southwest Minnesota State University (Marshall)<br/>Spa ~ A School (New Hope)<br/>United Theological Seminary of the Twin Cities (New Brighton)<br/>University of Minnesota-Crookston (Crookston)<br/>University of Minnesota-Duluth (Duluth)<br/>University of Minnesota-Morris (Morris)<br/>University of Minnesota-Twin Cities (Minneapolis)<br/>英文（或者源语言）校名:University of Northwestern - St.Paul&nbsp; <br/></p><p>中文校名:圣保罗西北大学</p>官方网址：http://unwsp.edu<table width="1044" cellspacing="0" cellpadding="0"><tbody><tr style="height: 13.5pt;" class="firstRow"><td class="xl78" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; vertical-align: middle; white-space: nowrap; color: rgb(0, 0, 255); font-size: 11pt; font-weight: 400; font-style: normal; text-decoration: underline; font-family: 宋体; border-style: none solid none none; border-right-width: 1pt; border-right-color: windowtext;"><br/></td></tr></tbody></table><p>University of Saint Thomas (St. Paul)<br/>Vermilion Community College (Ely)<br/>Walden University (Minneapolis)<br/>Winona State University (Winona)</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

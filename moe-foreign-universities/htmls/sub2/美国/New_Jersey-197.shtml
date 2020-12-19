@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：New Jersey</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><br /><font face="Arial"><strong>New Jersey</strong></font><br /><br />Academy of Computer Careers (Hammonton)<br />American Business Academy (Hackensack)<br />The Artistic Academy of Hair Design (Morris Plains)<br />Assumption College for Sisters (Mendham)<br />Atlantic Cape Community College (Mays Landing)<br />Atlantic County Vocational School (Mays Landing)<br />Berdan Institute (Totowa)<br />Bergen Community College (Paramus)<br />Bergen County Technical Schools (Hackensack)<br />Berkeley College (West Paterson)<br />Berlitz Language Centers (Princeton)<br />Best Care Training Institute (East Orange)<br />Beth Medrash Govoha (Lakewood)<br />Bloomfield College (Bloomfield)<br />Brick Computer Science Institute (Brick)<br />Brookdale Community College (Lincroft)<br />Burlington County College (Pemberton)<br />Business Training Institute (Rochelle Park)<br />Caldwell College (Caldwell)<br />Camden County College (Blackwood)<br />Capri Institute of Hair Design (Bricktown)<br />Capri Institute of Hair Design (Clifton)<br />Capri Institute of Hair Design (Kenilworth)<br />Capri Institute of Hair Design (Paramus)<br />Capri Institute of Hair Design (Succasunna)<br />Centenary College (Hackettstown)<br />Central Career Schools (South Plainfield)<br />Chubb Institute (Cherry Hill)<br />The Chubb Institute (Jersey City)<br />The Chubb Institute (North Brunswick)<br />The Chubb Institute (Parsippany)<br />Cittone Institute (Edison)<br />Cittone Institute (Mt. Laurel)<br />Cittone Institute (Paramus)<br />The College of New Jersey (Ewing)<br />College of Saint Elizabeth (Morristown)<br />Concorde School of Hair Design (Bloomfield)<br />Concorde School of Hair Design, Inc. (New Jersey)<br />County College of Morris (Randolph)<br />Creative Networking Concepts (Sussex)<br />Cumberland County College (Vineland)<br />Dale Carnegie Training of Central (Kendall Park)<br />Dale Carnegie Training of Southern New Jersey (Cherry Hill)<br />Divers Academy International (Camden)<br />Dover Business College (Dover)<br />Dover Business College (Paramus)<br />Drake College of Business (Elizabeth)<br />Drew University (Madison)<br />Drew University Theological School (Madison)<br />du Cret School of Art (Plainfield)<br />ELS Language Centers (Princeton)<br />Empire Beauty School (Cherry Hill)<br />Empire Beauty School (Laurel Springs)<br />Empire Beauty School (Lawrenceville)<br />Engine City Technical Institute (Union)<br />Essex County College (Newark)<br />European Academy of Cosmetology, Inc. (Union)<br />Fairleigh Dickinson University (Teaneck)<br />Felician College (Lodi)<br />G. Mitchell Hartman & Associates, Inc. (Wayne)<br />General Technical Institute (Linden)<br />Georgian Court College (Lakewood)<br />Gibbs College (Montclair)<br />Gloucester County College (Sewell)<br />Harris School of Business (Cherry Hill)<br />Harrison Career Institute (Clifton)<br />Harrison Career Institute (Delran)<br />Harrison Career Institute (Deptford)<br />Harrison Career Institute (Ewing)<br />Harrison Career Institute (Jersey City)<br />Harrison Career Institute (Oakhurst)<br />Harrison Career Institute (South Orange)<br />Harrison Career Institute (Vineland)<br />Health Careers Center of Mercer County Technical Schools (Trenton)<br />Healthcare Training Institute (Union)<br />Helma Institute of Massage Therapy (Saddle Brook)<br />HoHoKus School of Business and Medical Sciences (Ramsey)<br />Hudson County Community College (Jersey City)<br />Hudson Electrical Institute, Inc. (Jersey City)<br />Immaculate Conception Seminary Seton Hall University (South Orange)<br />The Institute for Health Education (Fairfield)<br />Joe Kubert School of Cartoon (Dover)<br />Joy's School of Hair Design (East Orange)<br />Katharine Gibbs School (Piscataway)<br />Kean University (Union)<br />KeySkills Learning (Clifton)<br />Lincoln Technical Institute (Mahwah)<br />Lincoln Technical Institute (Union)<br />McEllis Training Institute (Newark)<br />Mercer County Community College (Trenton)<br />Merit Technical Institute (Newark)<br />Metro Auto Electronics Training Institute, Inc. (Kenilworth)<br />Micro Tech Training Center (Jersey City)<br />Micropower Computer Institute - Branch Campus (Elmhurst)<br />Micropower Computer Institute - Branch Campus (Mineola)<br />Micropower Computer Institute - Branch Campus (West Haven)<br />Micropower Computer Institute (Linden)<br />Middlesex County College (Edison)<br />Monmouth County Vocational Center - Branch Campus (Long Branch)<br />Monmouth County Vocational Center (Neptune)<br />Monmouth University (W. Long Branch)<br />Montclair State University (Upper Montclair)<br />Morris County Vocational School (Denville)<br />Natural Motion Institute of Hair Design (Jersey City)<br />New Brunswick Theological Seminary (New Brunswick)<br />New Community Workforce Development Center (Newark)<br />New Concept Beauty School #2, Inc. (Elizabeth)<br />New Horizons Beauty School (West New York)<br />New Jersey City University (Jersey City)<br />New Jersey Institute of Technology (Newark)<br />New Jersey School of Locksmithing (Jersey City)<br />Ocean County College (Toms River)<br />Ocean County Vocational-Technical School - Branch Campus (Brick)<br />Ocean County Vocational-Technical School - Branch Campus (Jackson)<br />Ocean County Vocational-Technical School - Branch Campus (Lakehurst)<br />Ocean County Vocational-Technical School - Branch Campus (Waretown)<br />Ocean County Vocational-Technical School (Toms River)<br />Omega Institute (Pennsauken)<br />P. B. Cosmetology Education Centre (Gloucester)<br />Parisian Beauty Academy (Hackensack)<br />Passaic County Community College (Paterson)<br />PC AGE, I (Parsippany)<br />PC AGE, II (Edison)<br />Pennco Tech (Blackwood)<br />Performance Training (Toms River)<br />Plaza School of Technology (Paramus)<br />Princeton Theological Seminary (Princeton)<br />Princeton University (Princeton)<br />Rabbi Jacob Joseph School (Edison)<br />Rabbinical College of America (Morristown)<br />Ramapo College of New Jersey (Mahwah)<br />Raritan Valley Community College (Somerville)<br />Reignbow Beauty Academy, Inc. (Perth Amboy)<br />Reignbow Hair Fashion Institute (North Plainfield)<br />RETS Institute (Nutley)<br />Richard Stockton College of New Jersey The (Pomona)<br />Rider University (Lawrenceville)<br />Rizzieri Aveda School for Beauty & Wellness (Marlton)<br />Roman Academy of Beauty Culture (Hawthorne)<br />Rowan University (Glassboro)<br />Rutgers, The State University of New Jersey<br />Saint Peter`s College (Jersey City)<br />Salem Community College (Carneys Point)<br />Seton Hall University (South Orange)<br />Shore Academy (Point Pleasant)<br />Shore Beauty School (Pleasantville)<br />Software Sense Computer Learning Center,Inc. (Totowa)<br />Somerset Christian College (Zarephath)<br />Somerset County Technical Institute (Bridgewater)<br />Somerset School of Massage Therapy (Piscataway)<br />Star Technical Institute (Edison)<br />Star Technical Institute (Egg Harbor Township)<br />Star Technical Institute (Lakewood)<br />Star Technical Institute (Stratford)<br />StenoTech Career Institute (Fairfield)<br />Stevens Institute of Technology (Hoboken)<br />The Stuart School (Wall)<br />Sussex County Community College (Newton)<br />Talmudical Academy of New Jersey (Adelphia)<br />Target Training Center (Kenilworth)<br />Teterboro School of Aeronautics (Teterboro)<br />Thomas Edison State College (Trenton)<br />Ultrasound Diagnostic School (Iselin)<br />Ultrasound Diagnostic School - Iselin (Iselin)<br />Union County College (Cranford)<br />Union County Vocational-Technical School (Scotch Plains)<br />University of Medicine/Dentistry of New Jersey (Newark)<br />US PC Tech Learning Center (Jersey City)<br />Warren County Community College (Washington)<br />William Paterson University of New Jersey (Wayne)<br />Worldwide Educational Services (Jersey City)</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+  <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+  </div>
+  <div class="blank15"></div>
+  <div class="list left">
+    <div class="article left">
+	   <h1>韩国</h1>
+   <h4>
+      2018&#24180;11&#26376;01&#26085;
+          </h4>
+    <div class="article-nr left" id="Zoom">
+      <p>&nbsp;</p><p><strong>一、基本情况</strong></p><p>&nbsp;&nbsp; 韩国的基础教育包括小学6年，初中3年，高中3年共12年；高等教育专科2—3年；本科一般4年，医科（含韩医、牙医）6年；研究生教育分硕士和博士两个阶段：硕士一般为2年，博士一般为3年。韩国实行四级学位制：专门学士学位、学士学位、硕士学位、博士学位。</p><p>专科毕业发毕业证书，同时授予专门学士学位；4年制本科毕业后发毕业证书，同时授予学士学位；医科6年毕业后发毕业证书，也授予学士学位，但可以申请攻读博士学位。</p><p>&nbsp;&nbsp; 韩国实行专科教育的机构称“专门大学”；实行本科教育的机构为“大学校”（一般为综合性大学）或者“大学”；实行研究生教育的机构为“大学院”，“大学院”多数设在大学校里，也有单独设立的“大学院”。</p><p>&nbsp;&nbsp; 韩国的高等教育机构根据设立形式和经费来源渠道，分为国立、公立、私立三种，除个别公立学校可以由设立的地方政府自行批准外，都必须经教育科学技术部批准，国家认可的高等教育机构都必须接受教育科学技术部的监督和管理。</p><p>&nbsp;&nbsp; 韩国高等教育机构的授课语言通常使用韩语，也有少数课程的授课语言为英语。</p><p>&nbsp;&nbsp; 韩国共有认可的专科大学（韩语称“专门大学”，英语名称一般使用College）140所，提供本科和本科以上教育的四年制大学178所，单独设立的只授予硕士、博士学位的大学院23所。</p><p>&nbsp;&nbsp; 韩国的“学院”(韩语称“学院”，英语名称一般使用Institute 或College )主要是由社会力量创办的非学历教育机构。</p><p><strong>二、名单</strong></p><p><br/><!-----------分类目录------------------------------------------></p><table width="91%" border="1" align="center"><tbody><tr class="firstRow"><td><a class="title3" target="_blank" href="/news/1/226.shtml">专科大学（可授予副学士学位，相当于专科学历）</a>&nbsp;</td><td><a class="title3" target="_blank" href="/news/1/225.shtml">单独设立的“大学院”（只授予硕士、博士学位）</a>&nbsp;</td></tr><tr><td><a class="title3" target="_blank" href="/news/1/224.shtml">四年制大学（可授予学士及学士以上的学位）</a>&nbsp;</td><td><br/></td></tr></tbody></table>
+    </div>
+    </div>
+  </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12035"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

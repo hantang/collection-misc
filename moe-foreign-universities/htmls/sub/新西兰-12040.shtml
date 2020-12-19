@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>新西兰</h1></div><div style="text-align:center;padding-top:5px;">2019年08月30日</div><div class="gwCon"><div class="gw"><div class="tit2">1<h2>高等教育体制简介</h2></div><div class="gwTxt"><p>新西兰高等教育特指中学后教育，高等教育机构包括大学（8所）、理工学院（15所）、私立教育机构（约550所）、毛利大学（毛利语：Wānanga）（3所）以及行业培训机构（12所）。新西兰大学、理工学院和毛利大学为公立院校，按1989年颁布的《教育法》设立；行业培训机构按1992年颁布的《行业培训法》设立。更多有关新西兰教育的信息请浏览新西兰教育国际推广局(Education New Zealand)官方中文网站：www.studyinnewzealand.govt.nz/cn。</p><p>在新西兰，高等教育和行业培训是由新西兰教育部、新西兰学历资格认证局（NZQA，网址：www.nzqa.govt.nz）和新西兰大学委员会（Universities New Zealand，网址：www.universitiesnz.ac.nz）主管。新西兰学历资格认证局负责管理新西兰资历框架（NZQF）。新西兰资历框架是教育机构质量是否获得保障的权威信息来源，该框架是以学习成果为导向，规定不同的资历持有者应具备的知识、技能和经验。资历共分十个等级，等级的划分以学习内容的复杂程度为基础，一到十级复杂程度逐级提高。学士、硕士及博士学位分列在资历框架的第七级至第十级。</p><p>新西兰学历资格认证局作为质量监管部门，通过制定质量保障总体规则，对高等教育机构实施监督、管理和评估。规则的具体实施则由新西兰学历资格认证局和新西兰大学委员会具体执行，分别对非大学的高等教育机构和大学有效。</p><p>新西兰政府于2002年颁布了《关于留学生指导与照顾的行业规则》，旨在保障留学生权益。该规则为服务新西兰境内留学生制定了准则，设定了指导与照顾的最低标准,适用于所有招收国际留学生的各级院校及中介机构。2016年7月1日，新西兰政府正式开始实施《关于留学生指导与照顾的行业规则》，进一步完善了规则内容。</p></div></div><div class="gw"><div class="tit2">2<h2>名单</h2></div><div style="margin: 20px 0px 0px 50px; font-size: 14px; font-weight: bold;">公立大学（8所）</div><div class="gwList"><p>学校名称：Auckland University of Technology (AUT University)</p><p>中文译名：奥克兰理工大学</p><p>官方网址：http://www.aut.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Lincoln University</p><p>中文译名：林肯大学</p><p>官方网址：http://www.lincoln.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Massey University</p><p>中文译名：梅西大学</p><p>官方网址：http://www.massey.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：The University of Auckland</p><p>中文译名：奥克兰大学</p><p>官方网址：https://www.auckland.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：The University of Waikato</p><p>中文译名：怀卡托大学</p><p>官方网址：http://www.waikato.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：University of Canterbury</p><p>中文译名：坎特伯雷大学</p><p>官方网址：http://www.canterbury.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：University of Otago</p><p>中文译名：奥塔哥大学</p><p>官方网址：http://www.otago.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Victoria University of Wellington</p><p>中文译名：惠灵顿维多利亚大学</p><p>官方网址：http://www.victoria.ac.nz/</p><p>备注:</p></div><div style="margin: 20px 0px 0px 50px; font-size: 14px; font-weight: bold;">理工学院 （15所）</div><div class="gwList"><p>学校名称：Ara Institute of Canterbury</p><p>中文译名： Ara坎特伯雷理工学院</p><p>官方网址：http://www.ara.ac.nz</p><p>备注：2016年由Aoraki Polytechnic、Christchurch Polytechnic Institute of Technology合并。</p></div><div class="gwList"><p>学校名称：Eastern Institute of Technology (EIT)</p><p>中文译名：新西兰东部理工学院</p><p>官方网址：http://www.eit.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Manukau Institute of Technology (MIT)</p><p>中文译名：马努卡理工学院</p><p>官方网址：https://www.manukau.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Nelson Marlborough Institute of Technology (NMIT)</p><p>中文译名：尼尔森马尔伯勒理工学院</p><p>官方网址：https://www.nmit.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Northland Polytechnic (NorthTec)</p><p>中文译名：北方理工学院</p><p>官方网址：http://www.northtec.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Otago Polytechnic</p><p>中文译名：奥塔哥理工学院</p><p>官方网址：https://www.op.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Southern Institute of Technology (SIT)</p><p>中文译名：南方理工学院</p><p>官方网址：https://www.sit.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Tai Poutini Polytechnic</p><p>中文译名：泰普迪尼理工学院</p><p>官方网址：https://tpp.ac.nz/</p><p>备注：新西兰学历资格认证局(NZQA)已将该校降级为3类学校，暂不推荐中国学生赴该校”的备注信息。</p></div><div class="gwList"><p>学校名称：Institute of Technology（Unitec）</p><p>中文译名：新西兰理工学院 (Unitec)</p><p>官方网址：https://www.unitec.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Universal College of Learning (UCOL)</p><p>中文译名：国立联合学院</p><p>官方网址：https://www.ucol.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称： Toi Ohomai Institute of Technology<br/></p><p>中文译名：新西兰国立中部理工学院</p><p>官方网址：http://toiohomai.ac.nz/</p><p>备注：2016年由Bay of Plenty Polytechnic、Waiariki Institute of Technology合并。</p></div><div class="gwList"><p>学校名称：Waikato Institute of Technology (Wintec)</p><p>中文译名：怀卡托理工学院</p><p>官方网址：https://www.wintec.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Wellington Institute of Technology (WelTec)</p><p>中文译名：惠灵顿理工学院</p><p>官方网址：http://www.weltec.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Western Institute of Technology at Taranaki (WITT)</p><p>中文译名：塔拉纳基西部理工学院</p><p>官方网址：http://www.witt.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Whitireia Community Polytechnic</p><p>中文译名：维特利亚理工学院</p><p>官方网址：https://www.whitireia.ac.nz</p><p>备注：</p></div><div style="margin: 20px 0px 0px 50px; font-size: 14px; font-weight: bold;">私立院校（18所）</div><div class="gwList"><p>学校名称：Auckland Institute of Studies （AIS）</p><p>中文译名：奥克兰商学院</p><p>官方网址：http://www.ais.ac.nz/</p><p>备注：原名称为Auckland Institute of Studies at St Helens, 2013年10月更为现名</p></div><div class="gwList"><p>学校名称：Institute of the Pacific United New Zealand (IPU New Zealand)</p><p>中文译名：新西兰IPU国际学院</p><p>官方网址：http://www.ipu.ac.nz/</p><p>备注：原名称为International Pacific College, New Zealand (IPC)</p></div><div class="gwList"><p>学校名称：Media Design School (MDS)</p><p>中文译名：媒体设计学院</p><p>官方网址：http://mediadesignschool.com/</p><p>备注：</p></div><div class="gwList"><p>学校名称：New Zealand College of Chinese Medicine (NZCCM)</p><p>中文译名：新西兰中医学院</p><p>官方网址：http://chinesemedicine.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：New Zealand College of Chiropractic (NZCC)</p><p>中文译名：新西兰脊椎神经学院</p><p>官方网址：http://chiropractic.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：New Zealand School of Acupuncture and Traditional Chinese Medicine (NZSATCM)</p><p>中文译名：新西兰中医针灸学院</p><p>官方网址：http://www.acupuncture.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：New Zealand Tertiary College (NZTC)</p><p>中文译名：新西兰高等教育学院</p><p>官方网址：https://www.nztertiarycollege.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：Pacific International Hotel Management School (PIHMS)</p><p>中文译名：新西兰太平洋国际酒店管理学院</p><p>官方网址：http://pihms.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：SAE Institute</p><p>中文译名：SAE学院</p><p>官方网址：http://auckland.sae.edu/</p><p>备注：</p></div><div class="gwList"><p>学校名称：South Pacific College of Natural Medicine (SPCNM)</p><p>中文译名：南太平洋自然疗法医学院</p><p>官方网址：https://www.spcnm.ac.nz</p><p>备注：新增</p></div><div class="gwList"><p>学校名称：Te Kura Toi Whakaari O Aotearoa: New Zealand Drama School</p><p>中文译名：新西兰演艺学院</p><p>官方网址：http://www.toiwhakaari.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：The New Zealand College of Massage (NZCM)</p><p>中文译名：新西兰健康理疗学院</p><p>官方网址：https://www.massagecollege.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：UUNZ Institute of Business</p><p>中文译名：新西兰UUNZ学院</p><p>官方网址：https://www.uunz.ac.nz</p><p>备注：新西兰学历资格认证局(NZQA)已将该校降级为3类学校，暂不推荐中国学生赴该校”的备注信息。</p></div><div class="gwList"><p>学校名称：Wellpark College of Natural Therapies</p><p>中文译名：温尔帕克自然医科学院</p><p>官方网址：http://wellpark.co.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Whitecliffe College of Arts and Design</p><p>中文译名：怀特克利夫艺术设计学院</p><p>官方网址：http://www.whitecliffe.ac.nz/</p><p>备注：</p></div><div class="gwList"><p>学校名称：Te Rito Maioha Early Childhood New Zealand Incorporated</p><p>中文译名： 新西兰幼儿教育师范学院<br/></p><p>官方网址：www.ecnz.ac.nz</p><p>备注：</p></div><div class="gwList"><p>学校名称：ICL Graduate Business School</p><p>中文译名： 新西兰ICL商业研究生学院<br/></p><p>官方网址：www.icl.ac.nz</p><p>备注：隶属于新西兰ICL教育集团（part of ICL Education Group）</p></div><div class="gwList"><p>学校名称：Yoobee Colleges</p><p>中文译名： Yoobee创意科技学院<br/></p><p>官方网址：http://www.animationcollege.co.nz/</p><p>备注：</p></div><p><br/></p></div><p><br/></p></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12040"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

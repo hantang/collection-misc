@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Illinois</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><br/></p><p><span style="font-family:Arial"><span style="font-family:Arial"><strong>Illinois</strong></span></span></p><p>AAAAA Beauty Academy (Peoria)<br/>Adler School of Professional Psychology (Chicago)<br/>Alvareita&#39;s College of Cosmetology (Belleville)<br/>Alvareita&#39;s College of Cosmetology (Edwardsville)<br/>Alvareita&#39;s College of Cosmetology (Godfrey)<br/>American Academy of Art (Chicago)<br/>American Career College of Hair Design Inc. (Berwyn)<br/>American Institute for Paralegal Studies Inc. (Oakbrook Terrace)<br/>Argosy University (Chicago)<br/>Augustana College (Rock Island)<br/>Aurora University (Aurora)<br/>Bell Mar Beauty College (Cicero)<br/>Benedictine University (Lisle)<br/>Black Hawk College (Moline)<br/>Blackburn College (Carlinville)<br/>Blessing-Rieman College of Nursing (Quincy)<br/>Bradley University (Peoria)<br/>Bureau of Medicine and Surgery - Branch Campus (Great Lakes)<br/>Cain&#39;s Barber College (Chicago)<br/>Cameo Beauty Academy (Oak Lawn)<br/>Cannella School of Hair Design (Blue Island)<br/>Cannella School of Hair Design (Chicago)<br/>Cannella School of Hair Design (Elgin)<br/>Cannella School of Hair Design (Elmhurst)<br/>Capri Garfield Ridge School of Beauty Culture (Chicago)<br/>Capri Oak Forest College of Beauty Culture (Oak Forest)<br/>Career Colleges of Chicago (Chicago)<br/>Carl Sandburg College (Galesburg)<br/>Catholic Theological Union (Chicago)<br/>Chicago School of Massage Therapy (Chicago)<br/>Chicago School of Professional Psychology (Chicago)<br/>Chicago State University (Chicago)<br/>Chicago Theological Seminary (Chicago)<br/>Chicago Urban League Computer Training Center (Chicago)<br/>Christian Life College (Mount Prospect)<br/>The Chubb Institute (Villa Park)<br/>City Colleges of Chicago-Harold Washington College (Chicago)<br/>City Colleges of Chicago-Harry S Truman College (Chicago)<br/>City Colleges of Chicago-Kennedy-King College (Chicago)<br/>City Colleges of Chicago-Malcolm X College (Chicago)<br/>City Colleges of Chicago-Olive-Harvey College (Chicago)<br/>City Colleges of Chicago-Richard J. Daley College (Chicago)<br/>City Colleges of Chicago-Wilbur Wright College (Chicago)<br/>College of DuPage (Glen Ellyn)<br/>College of Lake County (Grayslake)<br/>The College of Office Technology (Chicago)<br/>Columbia College Chicago (Chicago)<br/>Commonwealth Business College (Moline)<br/>Concept College of Cosmetology (Danville)<br/>Concept College of Cosmetology (Urbana)<br/>Concordia University (River Forest)<br/>Cooking and Hospitality Institute (Chicago)<br/>Cosmetology Research Center (Chicago)<br/>The Cosmetology & Spa Institute (McHenry)<br/>Coyne American Institute (Chicago)<br/>Danville Area Community College (Danville)<br/>DePaul University (Chicago)<br/>DeVry University (Oakbrook Terrace)<br/>Dominican University (River Forest)<br/>The Don Adams Corporation (Downers Grove)<br/>DROS School of Cosmetology (North Chicago)<br/>DuQuoin Beauty College (DuQuoin)<br/>East-West University (Chicago)<br/>Eastern Illinois University (Charleston)<br/>Educators of Beauty (La Salle)<br/>Educators of Beauty (Rockford)<br/>Educators of Beauty (Sterling)<br/>Elgin Community College (Elgin)<br/>Elmhurst College (Elmhurst)<br/>Environmental Technical (Blue Island)<br/>Environmental Technical Institute (Itasca)<br/>Erikson Institute (Chicago)<br/>Eureka College (Eureka)<br/>First Institute, Inc. (Crystal Lake)<br/>Fox College (Oak Lawn)<br/>Garrett-Evangelical Theological Seminary (Evanston)<br/>Gem City College (Quincy)<br/>Governors State University (University Park)<br/>Greater West Town Training Partnership (Chicago)<br/>Greenville College (Greenville)<br/>Hair Professionals Academy of Cosmetology (West Dundee)<br/>Hair Professionals Academy of Cosmetology (Wheaton)<br/>Hair Professionals Career College, Inc. (Sycamore)<br/>Hair Professionals Career College (Palos Hills)<br/>Hair Professionals School of Cosmetology, Inc. (Oswego)<br/>Hairmasters Institute of Cosmetology, Inc. (Bloomington)<br/>Hanover Park College of Beauty Culture, Inc. (Hanover Park)<br/>Heartland Community College (Normal)<br/>Hebrew Theological College (Skokie)<br/>Herman M. Finch University of Health Sciences/The Chicago Medical School (North Chicago)<br/>Highland Community College (Freeport)<br/>Illinois Center for Broadcasting (Lombard)<br/>Illinois Central College (East Peoria)<br/>Illinois College (Jacksonville)<br/>Illinois College of Optometry (Chicago)<br/>Illinois Eastern Community Colleges (Olney)<br/>The Illinois Institute of Art - Chicago (Chicago)<br/>The Illinois Institute of Art (Schaumburg)<br/>Illinois Institute of Technology (Chicago)<br/>Illinois School of Health Careers (Chicago)<br/>Illinois State University (Normal)<br/>Illinois Valley Community College (Oglesby)<br/>Illinois Welding School (Bartonville)<br/>Illinois Wesleyan University (Bloomington)<br/>Institute for Clinical Social Work (Chicago)<br/>International Academy of Design and Technology (Chicago)<br/>ITT Technical Institute (Burr Ridge)<br/>ITT Technical Institute (Matteson)<br/>ITT Technical Institute (Mount Prospect)<br/>John A. Logan College (Carterville)<br/>John Amico&#39;s School of Hair Design (Oak Forest)<br/>John Marshall Law School (Chicago)<br/>John Wood Community College (Quincy)<br/>Joliet Junior College (Joliet)<br/>Judson College (Elgin)<br/>Kankakee Academy of Hair Design (Chicago)<br/>Kankakee Community College (Kankakee)<br/>Kaskaskia College (Centralia)<br/>Kendall College (Evanston)<br/>Kishwaukee College (Malta)<br/>Knowledge Systems Institute (Skokie)<br/>Knox College (Galesburg)<br/>La&#39; James International College (East Moline)<br/>Lake Forest College (Lake Forest)<br/>Lake Forest Graduate School of Management (Lake Forest)<br/>Lake Land College (Mattoon)<br/>Lakeview College of Nursing (Danville)<br/>LaMont&#39;s International School of Cosmetology (Canton)<br/>Lewis and Clark Community College (Godfrey)<br/>Lewis University (Romeoville)<br/>Lexington College (Chicago)<br/>Lincoln Christian University (Lincoln)<br/>Lincoln Christian University and Seminary (Lincoln)<br/>Lincoln Christian Seminary (Lincoln)<br/>Lincoln College (Lincoln)<br/>Lincoln Land Community College (Springfield)<br/>Lincoln Technical Institute (Melrose Park)<br/>Loyola University of Chicago (Chicago)<br/>Loyola University Chicago Institute of Pastoral Studies (Chicago)<br/>Lutheran School of Theology at Chicago (Chicago)<br/>Mac Daniel&#39;s Beauty School (Chicago)<br/>MacCormac College (Chicago)<br/>MacMurray College (Jacksonville)<br/>McCormick Theological Seminary (Chicago)<br/>McHenry County College (Crystal Lake)<br/>McKendree College (Lebanon)<br/>Meadville Lombard Theological School (Chicago)<br/>Midstate College (Peoria)<br/>Midwest Technical Institute (Lincoln)<br/>Midwestern University (Downers Grove)<br/>Millikin University (Decatur)<br/>Monmouth College (Monmouth)<br/>Moody Bible Institute (Chicago)<br/>Moraine Valley Community College (Palos Hills)<br/>Morrison Institute of Technology (Morrison)<br/>Morton College (Cicero)<br/>Mr. John&#39;s School of Cosmetology Esthetics & Nails (Decatur)<br/>Mr. John&#39;s School of Cosmetology (Urbana)<br/>Mr. John&#39;s Schools of Cosmetology & Nails (Jacksonville)<br/>Ms. Robert&#39;s Academy of Beauty Culture (Villa Park)<br/>Ms. Roberts Academy (Hillside)<br/>NAES College (Chicago)<br/>National-Louis University (Chicago)<br/>National University of Health Sciences (Lombard)<br/>Niles School of Beauty Culture (Niles)<br/>North Central College (Naperville)<br/>North Park Theological Seminary (Chicago)<br/>North Park University (Chicago)<br/>Northeastern Illinois University (Chicago)<br/>Northern Baptist Theological Seminary (Lombard)<br/>Northern Illinois University (DeKalb)<br/>Northwestern Business College (Chicago)<br/>Northwestern University (Evanston)<br/>Oakton Community College (Des Plaines)<br/>Oehrlein School of Cosmetology, Inc. (East Peoria)<br/>Olivet Nazarene University (Bourbonnais)<br/>Olympia College (Burr Ridge)<br/>Olympia College (Chicago)<br/>Olympia College (Skokie)<br/>Parkland College (Champaign)<br/>Pivot Point Int. Cosmetology Research Center (Bloomingdale)<br/>Pivot Point Int. Cosmetology Research Center (Chicago)<br/>Prairie State College (Chicago Heights)<br/>Principia College (Elsah)<br/>Professional&#39;s Choice Hair Design Academy (Joliet)<br/>Pyramid Career Institute (Chicago)<br/>Quincy University (Quincy)<br/>Rend Lake College (Ina)<br/>Richland Community College (Decatur)<br/>Robert Morris College (Chicago)<br/>Rock Valley College (Rockford)<br/>Rockford Business College (Rockford)<br/>英文（或者源语言）校名：Rockford University<br/>中文校名：罗克福德大学<br/>官方网址：www.rockford.edu<br/>备注：该校已由罗克福德学院（Rockford College）改为罗克福德大学（Rockford Univesity）<br/>Roosevelt University (Chicago)<br/>Rosel School of Cosmetology (Chicago)<br/>Rush University (Chicago)<br/>Saint Anthony College of Nursing (Rockford)<br/>Saint Augustine College (Chicago)<br/>Saint Francis Medical Center College of Nursing (Peoria)<br/>St. John&#39;s College (Springfield)<br/>Saint Xavier University (Chicago)<br/>Sanford-Brown College (Granite City)<br/>Sauk Valley Community College (Dixon)<br/>School of the Art Institute of Chicago (Chicago)<br/>Seabury-Western Theological Seminary (Evanston)<br/>SER Business & Technical Institute (Chicago)<br/>Shawnee Community College (Ullin)<br/>Shimer College (Waukegan)<br/>S.J. Grant and Associates, Inc. (Peoria)<br/>South Suburban College of Cook County (South Holland)<br/>Southeastern Illinois College (Harrisburg)<br/>Southern Illinois University Carbondale (Carbondale)<br/>Southern Illinois University Edwardsville (Edwardsville)<br/>Southwestern Illinois College (Belleville)<br/>Spanish Coalition for Jobs, Inc. (Chicago)<br/>Sparks College (Shelbyville)<br/>Spertus Institute of Jewish Studies (Chicago)<br/>Spoon River College (Canton)<br/>Springfield College in Illinois (Springfield)<br/>Taylor Business Institute (Chicago)<br/>Telshe Yeshiva - Chicago (Chicago)<br/>Training Support Center (Great Lakes)<br/>Trend Beauty College (Marion)<br/>Trend Setters College of Cosmetology (Bradley)<br/>Trend Setters College of Cosmetology (Mokena)<br/>Tri-County Beauty Academy (Litchfield)<br/>Trinity Christian College (Palos Heights)<br/>Trinity College of Nursing (Rock Island)<br/>Trinity Evangelical Divinity School of Trinity International University (Deerfield)<br/>Trinity International University (Deerfield)<br/>Triton College (River Grove)<br/>UCPA Employment & Training (Chicago)<br/>Universal Technical Institute (Glendale Heights)<br/>University of Chicago (Chicago)<br/>University of Chicago Divinity School (Chicago)<br/>University of Illinois at Chicago (Chicago)<br/>University of Illinois at Springfield (Springfield)<br/>University of Illinois at Urbana-Champaign (Champaign)<br/>University of St. Francis (Joliet)<br/>University of St. Mary of the Lake Mundelein Seminary (Mundelein)<br/>University of Spa and Cosmetology Arts (Springfield)<br/>VanderCook College of Music (Chicago)<br/>Vatterott College (Quincy)<br/>Vee&#39;s School of Beauty Culture (East St. Louis)<br/>Waubonsee Community College (Sugar Grove)<br/>West Suburban College of Nursing (Oak Park)<br/>Western Illinois University (Macomb)<br/>Westwood Col of Technology-O&#39;Hare Campus (Schiller Park)<br/>Westwood College of Technology-Chicago Loop (Chicago)<br/>Westwood College of Technology - DuPage (Woodridge)<br/>Westwood College of Technology - O&#39;Hare Airport (Schiller Park)<br/>Westwood College of Technology-River Oaks (Calumet City)<br/>Wheaton College (Wheaton)<br/>William Rainey Harper College (Palatine)<br/>Your School of Beauty Culture (Chicago)</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+  <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+  </div>
+  <div class="blank15"></div>
+  <div class="list left">
+    <div class="article left">
+	   <h1>荷兰</h1>
+   <h4>
+      2016&#24180;12&#26376;14&#26085;
+          </h4>
+    <div class="article-nr left" id="Zoom">
+      <p>&nbsp;</p><p><strong>一、基本情况</strong></p><p>　　荷兰的高等教育机构主要包括研究型大学、高等专业教育学院、国际教育研究机构。</p><p>　　研究型大学（WO）, 以教学和科研为主。 目前，全荷兰共有14所研究型大学。</p><p>　　高等专业教育学院（HBO）,以培养应用型人才为主，学生经四年的专业学习，可取得学士学位。一些高等专业教育学院还设置硕士学位课程，一般使用英语授课，学制一年左右，国外申请者一般要求具有学士学位或相当水平的学位。</p><p>　　国际教育研究机构（Institutions for International Education），招生对象主要为外国学生，一般用英语授课，主要开设硕士研究生课程，学习期限为一至两年。要求申请者具有学士学位或同等学历。有些国际教育研究机构与荷兰的大学合作，为获得硕士学位后的学生提供继续攻读博士学位的机会。</p><p>　　荷兰对外国学生入学通常都要求具备良好的英文基础。荷兰的英语语言中心很少，学费比较昂贵。外国学生也可以先攻读荷兰语，然后选择以荷兰语开设的课程。</p><p>　　荷兰高等教育体系中没有预科。所有预科班都不是进入大学的直接渠道。</p><p>　&nbsp;&nbsp; 经批准，外国学生在荷兰学习期间可以有条件打工，在当年9月到次年6月上课期间，学生每周打工时间不得超过10小时。<br/>&nbsp;</p><p><strong>二、名单</strong></p><blockquote><p><br/><strong>研究型大学</strong><br/>1. &nbsp;Erasmus University Rotterdam, EUR<br/>2. &nbsp;Radboud University Nijmegen<br/>3. &nbsp;Rijksuniversiteit Groningen, RuG<br/>4. &nbsp;Technische Universiteit Delft, TUD<br/>5. &nbsp;Technische Universiteit Eindhoven, TU/e<br/>6. &nbsp;Universiteit Leiden<br/>7. &nbsp;Universiteit Maastricht, UM<br/>8. &nbsp;Universiteit Twente, UT<br/>9. &nbsp;Universiteit Utrecht, UU<br/>10.&nbsp; Universiteit van Amsterdam, UvA<br/>11&nbsp;. Universiteit van Tilburg, UvT<br/>12. &nbsp;Vrije Universiteit Amsterdam, VU<br/>13. &nbsp;Wageningen Universiteit, WUR<br/>14. &nbsp;Nyenrode Business Universiteit</p><p><strong>高等专业教育学院</strong><a name="gzjy"></a><br/>1.&nbsp;&nbsp;ArtEZ Hogeschool voor de Kunsten<br/>2.&nbsp;&nbsp;Amsterdam School of Arts<br/>3.&nbsp;&nbsp;Christelijke Agrarische Hogeschool<br/>4.&nbsp;&nbsp;Christelijke Hogeschool Ede<br/>5.&nbsp;&nbsp;Stenden Hogeschool<br/>6.&nbsp;&nbsp;Christelijke Hogeschool Windesheim<br/>7.&nbsp;&nbsp;Design Academy Eindhoven<br/>8.&nbsp;&nbsp;Fontys Hogescholen<br/>9.&nbsp;&nbsp;Gerrit Rietveld Academie<br/>10.&nbsp;&nbsp;Haagse Hogeschool<br/>11.&nbsp;&nbsp;Hanzehogschool, Hogeschool van Groningen<br/>12.&nbsp;&nbsp;HAS den Bosch<br/>13.&nbsp;&nbsp;Hogeschool INHOLLAND<br/>14.&nbsp;&nbsp;Hogeschool Avans<br/>15.&nbsp;&nbsp;Saxion Hogescholen<br/>16.&nbsp;&nbsp;Hogeschool Leiden<br/>17.&nbsp;&nbsp;Hogeschool Zuyd<br/>18.&nbsp;&nbsp;Hogeschool Rotterdam, HRO<br/>19.&nbsp;&nbsp;Hogeschool van Amsterdam, HvA<br/>20.&nbsp;&nbsp;Hogeschool van Arnhem en Nijmegen, HAN<br/>21.&nbsp;&nbsp;Royal Academy of Art, The Hague<br/>22.&nbsp;&nbsp;Hogeschool van Utrecht, HU<br/>23.&nbsp;&nbsp;Hogeschool voor de Kunsten Utrecht, HvK<br/>24.&nbsp;&nbsp;TIO University of Applied Sciences<br/>25.&nbsp;&nbsp;Hogeschool Zeeland<br/>26.&nbsp;&nbsp;Codarts, Hogeschool voor de Kunsten<br/>27.&nbsp;&nbsp;Van Hall Larenstein<br/>28.&nbsp;&nbsp;NHTV Internationale Hogeschool Breda<br/>29.&nbsp;&nbsp;Noordelijke Hogeschool Leeuwarden, NHL<br/>30.&nbsp;&nbsp;STOAS<br/>31.&nbsp;&nbsp;学校名称： TIAS School for Business and Society&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br/>中文译名： 提亚斯商学院&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br/>官方网址： http://www.tias.edu&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br/>备注： 学校于2014年5月15日更名，原名为TiasNimbas Business School <br/>32.Business School Netherlands<br/>33.&nbsp;&nbsp;Business School Notenboom<br/>34.&nbsp;&nbsp;Driestar Hogeschool<br/>35.&nbsp;&nbsp;Europort Business School<br/>36.&nbsp;&nbsp;Fondation STC Group/Netherlands Maritime University<br/>37.&nbsp;&nbsp;Hogeschool Edith Stein<br/>38.&nbsp;&nbsp;Hogeschool Wittenborg<br/>39.&nbsp;&nbsp;Hotelschool the Hague<br/>40.&nbsp;&nbsp;Webster University, University of Applied Sciences<br/>41.&nbsp; 学校名称：Eurocollege Hogeschool<br/>中文译名：暂无<br/>官方网址：www.eurocollege.nl</p><p><strong>国际教育研究机构</strong><a id="gjjy" name="gjjy"></a><br/>1.&nbsp;&nbsp; UNESCO-IHE Institute for Water Education<br/>2.&nbsp;&nbsp; MSM (Maastricht School of Management)</p></blockquote>
+    </div>
+    </div>
+  </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12025"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

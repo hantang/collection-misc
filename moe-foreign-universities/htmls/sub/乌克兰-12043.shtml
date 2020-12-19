@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+  <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+  </div>
+  <div class="blank15"></div>
+  <div class="list left">
+    <div class="article left">
+	   <h1>乌克兰</h1>
+   <h4>
+      2020&#24180;09&#26376;07&#26085;
+          </h4>
+    <div class="article-nr left" id="Zoom">
+      <p><strong>一、基本情况</strong></p><p>&nbsp;&nbsp;乌克兰的高等教育分4个阶段，现有共179所高等教育机构。教学语言是乌克兰语和俄语。<br/>　　 进入高等学校学习需持有中学毕业证书并通过大学入学考试，各学校对入学考试的内容要求各有不同。<br/>　　 高等教育第一阶段或基础阶段是学士学位阶段。学生在大学、高等专科学校或学院里完成3.5-4年的课程学习并通过毕业考试后被授予学士学位。课程一般设有人文学科、基础学科及工艺学科几大类，便于学生将来继续攻读专业技术人员证书或硕士学位。<br/>　　 高等教育第二阶段是专业技术人员（如工程师、教师、医生等）任职资格证书阶段。在大学、高等专科学校、学院或者公立艺术学校学完全部课程后可获得这种文凭。对中学毕业生来说，学习年限为5－6年，这取决于学校的类型；而对学士学位持有者，学习年限则为1-2年。<br/>　　 第三阶段是硕士学位阶段。硕士阶段的课程由2－3个阶段组成，学生通过相应阶段的学习也可以获得学士学位或专业技术任职资格。学生必须通过毕业考试和国家学位评定委员会主持的某一专业领域的科研论文答辩，才能获得硕士学位。<br/>　　 最高阶段：在乌克兰的研究生教育体系中，高等教育机构也承担对从事科学或教育科学的人员的培训，可授予一些高级学位：科学副博士、科学博士学位。申请者经过3-4年独立的研究工作，完成论文，并通过由特别科学委员会组织的答辩后，可获得科学副博士学位。科学副博士由乌克兰最高证书委员会颁发。<br/>　　 高级科学博士学位是乌克兰的最高学位。它由特别科学委员会组织对申请人所独立从事的科学项目进行公开答辩，由乌克兰最高证书委员会认可。这一学位的培养形式之一是让学生在某一特定领域或学科进行全日制的博士课程学习，如教育学专业。申请者须以高级研究人员身份工作2年，但现在主要的方式是进行独立研究。</p><p><br/></p><p><strong>二、院校名单</strong></p><p>　　克里米亚自治共和国<br/>　　 1、 克里米亚环境保护与疗养建设学院<br/>　　 2、 克里米亚国立捷奥尔基夫斯基医科大学<br/>　　 3、 辛菲罗波尔国立大学<br/>　　 4、 克里米亚农业大学<br/>　　 5、 克里米亚医学院<br/>　　 6、 刻赤海洋技术大学</p><p><br/></p><p>　　文尼察州<br/>　　 8、文尼察国立医科大学<br/>　　 9、文尼察国立技术大学<br/>　　 10、文尼察国立师范大学<br/>　　 11、文尼察农业大学</p><p><br/></p><p>　　沃伦州<br/>　　 12、沃伦国立大学<br/>　　 13、鲁茨基国立工业大学</p><p><br/></p><p>　　第聂伯彼得罗夫斯克州<br/>　　 14、第聂伯彼得罗夫斯克国立铁路运输工业大学<br/>　　 15、克利瓦罗日斯基经济管理学院<br/>　　 16、乌克兰国立矿业大学<br/>　　 17、第聂伯彼得罗夫斯克国立医学院<br/>　　 18、第聂伯彼得罗夫斯克国立农业大学<br/>　　 19、第聂伯彼得罗夫斯克国立体育学院<br/>　　 20、第聂伯彼得罗夫斯克国立大学<br/>　　 21、第聂伯滨江国立建工学院<br/>　　 22、乌克兰国立冶金学院<br/>　　 23、乌克兰国立化工大学<br/>　　 24、克利瓦罗日斯基技术大学<br/>　　 25、第聂伯彼得罗夫斯克国立技术大学<br/>　　 26、克利瓦罗日斯基国立航空工业大学<br/>　　 27、克利瓦罗日斯基国立师范学院</p><p><br/></p><p>　　顿涅茨克州<br/>　　 28、顿涅茨克国立医科大学<br/>　　 29、顿涅茨克国立管理学院<br/>　　 30、顿涅茨克国立商学院<br/>　　 31、顿涅茨克国立大学<br/>　　 32、顿涅茨克国立技术大学<br/>　　 33、戈尔洛夫卡国立师范学院<br/>　　 34、顿巴斯国立建工学院<br/>　　 35、顿巴斯国立汽车制造学院<br/>　　 36、顿涅茨克国立马立波尔人文学院<br/>　　 37、斯拉维扬斯克国立师范学院<br/>　　 38、卡尔列夫国立外语师范学院<br/>　　 39、亚速海滨海国立技术大学<br/>　　 40、顿涅茨克国立布拉可夫耶夫音乐学院</p><p><br/></p><p>　　日托米尔州<br/>　　 41、日托米尔工程技术大学<br/>　　 42、乌克兰国立农学院<br/>　　 43、日托米尔国立师范大学<br/>　　 44、日托米尔国立师范学院</p><p><br/></p><p>　　外咯尔巴什州</p><p>　　45、乌日戈罗德国立大学</p><p><br/></p><p>　　扎波罗热州<br/>　　 46、扎波罗热国立医科大学<br/>　　 47、扎波罗热法学院<br/>　　 48、扎波罗热国立大学<br/>　　 49、扎波罗热国立工程学院<br/>　　 50、扎波罗热国立技术大学<br/>　　 51、别尔江斯克国立师范学院<br/>　　 52、塔夫里国立农艺大学</p><p><br/></p><p>　　伊万诺-弗兰科夫斯克州<br/>　　 53、伊万诺-弗兰科夫斯克国立石油天然气技术大学<br/>　　 54、伊万诺-弗兰科夫斯克国立医学院</p><p><br/></p><p>　　基辅州<br/>　　 55、基辅国立文化大学<br/>　　 56、基辅国立语言大学<br/>　　 57、巴卡莫列茨国立医科大学<br/>　　 58、乌克兰柴可夫斯基国立音乐学院<br/>　　 59、基辅国立工艺设计大学<br/>　　 60、基辅国立塔拉斯-舍甫琴科大学<br/>　　 61、乌克兰国立食品工艺大学<br/>　　 62、白教堂国立农业大学<br/>　　 63、乌曼国立农学院<br/>　　 64、乌曼国立师范学院<br/>　　 65、国立德拉孔曼诺夫师范大学<br/>　　 66、乌克兰国立交通大学<br/>　　 67、乌克兰艺术大学<br/>　　 68、基辅军事管理与通讯学院<br/>　　 69、基辅国立卡尔宾科-卡里戏剧学院<br/>　　 70、基辅军事学院<br/>　　 71、基辅防空学院<br/>　　 72、基辅陆军学院<br/>　　 73、基辅国立经贸大学<br/>　　 74、乌克兰民族大学<br/>　　 75、乌克兰国立技术大学<br/>　　 76、基辅国立建筑大学<br/>　　 77、国立航空大学<br/>　　 78、英文（或源语言）校名：Національний університет біоресурсів і природокористування України<br/>　　 中文校名：乌克兰国立生物资源与自然资源合理利用大学（原乌克兰国立农业大学）<br/>　　 官方网址：http://nubip.edu.ua<br/>　　 备注：</p><p>　　 79、乌克兰国立体育运动大学<br/>　　 80、乌克兰军事医学科学院<br/>　　 81、国立交通大学<br/>　　 82、乌克兰国立轻工学院<br/>　　 83、英文（或者源语言）校名：Київський університет імені Бориса Грінченка<br/>　　 中文校名：基辅鲍里斯格林琴科大学<br/>　　 官方网址：<a href="http://kubg.edu.ua/">http://kubg.edu.ua/</a><br/>　　 84、源语言校名：Державний Ун<span style="font-family:&#39;MS Mincho&#39;">і</span>верситет Телекомун<span style="font-family: &#39;MS Mincho&#39;">і</span>кац<span style="font-family:&#39;MS Mincho&#39;">і</span>й<br/>　　 中文校名：国立电信大学<br/>　　 官方网址：http://dut.edu.ua/<br/>　　 备注：国立大学,办学质量由乌克兰国家教育机构监察局监管<br/>　　 85、塔夫里维尔那茨基国立大学</p><p><br/></p><p>　　基洛夫格勒州<br/>　　 85、基洛夫格勒农机学院<br/>　　 86、基洛夫格勒国立维尼琴科师范学院<br/>　　 87、乌克兰国立飞行学院</p><p><br/></p><p>　　卢甘斯克州<br/>　　 88、卢甘斯克国立舍甫琴科师范大学<br/>　　 89、东乌克兰国立大学<br/>　　 90、卢甘斯克国立医科大学<br/>　　 91、卢甘斯克国立农业大学<br/>　　 92、卢甘斯克国立师范学院<br/>　　 93、卢甘斯克工学院<br/>　　 94、顿巴斯采矿冶金学院</p><p><br/></p><p>　　利沃夫州<br/>　　 95、利沃夫国立弗朗克大学<br/>　　 96、利沃夫国立立谢科音乐科学院<br/>　　 97、利沃夫国立戈日茨基兽医科学院<br/>　　 98、利沃夫卡利茨基医科大学<br/>　　 99、乌克兰印刷科学院<br/>　　 100、利沃夫国立理工大学<br/>　　 101、乌克兰国立林业工业大学（利沃夫市）<br/>　　 102、利沃夫商学院<br/>　　 103、利沃夫民族学院<br/>　　 104、利沃夫国立体育大学<br/>　　 105、利沃夫艺术大学<br/>　　 106、利沃夫国立农业大学<br/>　　 107、德罗戈贝奇国立师范大学</p><p><br/></p><p>　　尼古拉耶夫州<br/>　　 108、乌克兰国立海洋技术大学<br/>　　 109、尼古拉耶夫农学院<br/>　　 110、尼古拉耶夫国立师范学院</p><p><br/></p><p>　　敖德萨州<br/>　　 111、敖德萨国立涅日达诺夫音乐学院<br/>　　 112、敖德萨国立经济大学<br/>　　 113、敖德萨国立大学<br/>　　 114、乌克兰国立邮电学院<br/>　　 115、南乌克兰乌什基斯师范大学<br/>　　 116、敖德萨国立医科大学<br/>　　 117、敖德萨国立海洋大学<br/>　　 118、敖德萨波波夫国立通讯科学院<br/>　　 119、敖德萨国立食品工艺大学<br/>　　 120、敖德萨国立寒冷科学院<br/>　　 121、敖德萨国立建工学院<br/>　　 122、敖德萨国立海洋大学<br/>　　 123、敖德萨农业大学<br/>　　 124、敖德萨国立技术大学<br/>　　 125、敖德萨国立梅契尼可夫大学<br/>　　 126、敖德萨伊日玛国立师范学院<br/>　　 127、敖德萨水文气象学院<br/>　　 128、敖德萨陆军学院</p><p><br/></p><p>　　波尔塔瓦州<br/>　　 129、波尔塔瓦技术大学<br/>　　 130、波尔塔瓦国立柯罗连科师范大学<br/>　　 131、波尔塔瓦农学院<br/>　　 132、波尔塔瓦商贸大学<br/>　　 133、乌克兰口腔医学院</p><p><br/></p><p>　　苏梅州<br/>　　 134、苏梅国立农业大学<br/>　　 135、苏梅国立师范学院<br/>　　 136、苏梅国立大学<br/>　　 137、格卢霍夫国立师范大学</p><p><br/></p><p>　　捷尔诺波尔州<br/>　　 138、捷尔诺波尔国立戈尔巴乔夫医学科学院<br/>　　 139、捷尔诺波尔布柳仪器学院<br/>　　 140、捷尔诺波尔国民经济大学<br/>　　 141、捷尔诺波尔国立师范学院</p><p><br/></p><p>　　哈尔科夫州<br/>　　 142、哈尔科夫工艺美术大学<br/>　　 143、哈尔科夫国立汽车-道路大学<br/>　　 144、哈尔科夫国立经济大学<br/>　　 145、哈尔科夫国立体育大学<br/>　　 146、哈尔科夫国立农业大学<br/>　　 147、哈尔科夫国立城市规划学院<br/>　　 148、哈尔科夫建筑设计大学<br/>　　 149、哈尔科夫国立技术大学<br/>　　 150、哈尔科夫国立医科大学<br/>　　 151、哈尔科夫国立食品工业大学<br/>　　 152、哈尔科夫国立文化大学<br/>　　 153、乌克兰工程师范学院<br/>　　 154、哈尔科夫乌克兰防空学院<br/>　　 155、哈尔科夫国立铁路运输学院<br/>　　 156、哈尔科夫国立大学<br/>　　 157、乌克兰国立法学院<br/>　　 158、乌克兰国立医药大学<br/>　　 159、哈尔科夫国立无线电电子大学<br/>　　 160、哈尔科夫军事大学<br/>　　 161、哈尔科夫国立斯卡沃罗德师范大学<br/>　　 162、哈尔科夫国立茹可夫斯基航天航空大学<br/>　　 163、哈尔科夫农牧大学</p><p><br/></p><p>　　赫尔松州<br/>　　 164、赫尔松工学院<br/>　　 165、赫尔松国立师范学院<br/>　　 166、赫尔松农学院</p><p><br/></p><p>　　赫梅利尼茨基<br/>　　 167、波基良农学院<br/>　　 168、卡缅涅茨-波多利斯基国立师范学院<br/>　　 169、佩列亚斯拉夫-赫梅利尼茨基国立师范学院</p><p><br/></p><p>　　切尔卡瑟州<br/>　　 170、切尔卡瑟工程技术大学<br/>　　 171、切尔卡瑟国立工艺大学<br/>　　 172、切尔卡瑟国立赫梅利尼茨基大学</p><p><br/></p><p>　　切尔尼戈夫州<br/>　　 173、切尔尼戈夫工艺大学<br/>　　 174、切尔尼戈夫国立经济管理学院<br/>　　 175、涅任国立师范学院<br/>　　 176、切尔尼戈夫国立师范学院</p><p><br/></p><p>　　切尔诺维茨州<br/>　　 177、切尔诺维茨国立费奇可维奇大学<br/>　　 178、切尔诺维茨国立医学院</p><p><br/></p><p>　　塞瓦斯托波尔市<br/>　　 179、塞瓦斯托波尔国立技术大学</p>
+    </div>
+    </div>
+  </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12043"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

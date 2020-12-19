@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Washington</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><br/><span style="font-family:Arial"><strong>Washington</strong></span><br/><br/>The Academy of Hair Design (Wenatchee) <br/>ALPS Language School (Seattle) <br/>Apollo College (Spokane) <br/>Art Institute of Seattle (Seattle) <br/>Ashmead College (Seattle) <br/>B. J.&#39;s Beauty &amp; Barber College (Tacoma) <br/>Bastyr University (Kenmore) <br/>Bates Technical College (Tacoma) <br/>Bellevue Beauty School (Bellevue) <br/>Bellevue Community College (Bellevue) <br/>Bellingham Beauty School, Inc. (Bellingham) <br/>Bellingham Technical College (Bellingham) <br/>Big Bend Community College (Moses Lake) <br/>B.J.&#39;s Beauty &amp; Barber College (Puyallup) <br/>Brenneke School of Massage (Seattle) <br/>Bryman College (Lynnwood) <br/>Bryman College (Renton) <br/>Business Computer Training Institute (Everett) <br/>Cascadia Community College (Bothell) <br/>Central Washington University (Ellensburg) <br/>Centralia College (Centralia) <br/>Chetta&#39;s Academy of Hair &amp; Nails (Port Angeles) <br/>City University of Seattle（Seattle） <br/>Clare&#39;s Beauty College (Pasco) <br/>Clark College (Vancouver) <br/>Clover Park Technical College (Lakewood) <br/>Columbia Basin College (Pasco) <br/>Cornish College of the Arts (Seattle) <br/>Court Reporting Institute (Seattle) <br/>Crace, Inc. (Bellevue) <br/>Crown College (Tacoma) <br/>DigiPen Institute of Technology (Redmond) <br/>Divers Institute of Technology (Seattle) <br/>Eastern Washington University (Cheney) <br/>Edmonds Community College (Lynnwood) <br/>Emil Fries School of Piano Tuning &amp; (Vancouver) <br/>Eton Technical Institute (Everett) <br/>Eton Technical Institute (Federal Way) <br/>Eton Technical Institute, Inc. (Tacoma) <br/>Eton Technical Institute - Port Orchard (Port Orchard) <br/>Everett Beauty Academy (Everett) <br/>Everett Community College (Everett) <br/>Evergreen Cosmo Inc. (Everett) <br/>Evergreen State College (Olympia) <br/>Faith Evangelical Lutheran Seminary (Tacoma) <br/>Gene Juarez Academy of Beauty (Federal Way) <br/>Gene Juarez Academy of Beauty (Seattle) <br/>Glen Dow Academy of Hair Design Inc. (Spokane) <br/>Gonzaga University Department of Religious Studies (Spokane) <br/>Gonzaga University (Spokane) <br/>Grays Harbor College (Aberdeen) <br/>Green River Community College (Auburn) <br/>Greenwood Academy of Hair Design (Seattle) <br/>Henry Cogswell College (Everett) <br/>Heritage College (Toppenish) <br/>Highline Community College (DesMoines) <br/>Inland Northwest Heating, Ventilation and A/C Training Center (Spokane) <br/>Interface Computer School (Spokane) <br/>International Air Academy (Vancouver) <br/>ITT Technical Institute (Bothell) <br/>ITT Technical Institute (Seattle) <br/>ITT Technical Institute (Spokane) <br/>Kirkland Beauty School (Woodinville) <br/>英文（或者源语言）校名：Lake Washington Institute of Technology <br/>中文校名：华盛顿湖科技学院<br/>官方网址：http://www.lwtech.edu/<br/>备注：<br/>Lincoln Beauty School, Inc. (Tacoma) <br/>Lower Columbia College (Longview) <br/>Mars Hill Graduate School (Bothell) <br/>North Seattle Community College (Seattle) <br/>Northwest Aviation College (Auburn) <br/>Northwest Baptist Seminary (Tacoma) <br/>Northwest College of Art (Poulsbo) <br/>Northwest University (Kirkland) <br/>Northwest Graduate School of the Ministry (Seattle) <br/>Northwest Hair Academy (Everett) <br/>Northwest Hair Academy, Mount Vernon (Mount Vernon) <br/>Northwest Indian College (Bellingham) <br/>Northwest School of Wooden (Port Townsend) <br/>Olympic College (Bremerton) <br/>Pacific Lutheran University (Tacoma) <br/>Peninsula College (Port Angeles) <br/>Perry Technical Institute (Yakima) <br/>Phagans&#39; Orchards Beauty School (Vancouver) <br/>Pierce College (Puyallup) <br/>Pima Medical Institute (Seattle) <br/>Professional Beauty School (Sunnyside) <br/>Professional Beauty School (Yakima) <br/>Puget Sound Christian College (Mountlake Terrace) <br/>Renton Technical College (Renton) <br/>Saint Martin&#39;s College (Lacey) <br/>Sakie International College of Cosmetology (Yakima) <br/>Seattle Central Community College (Seattle) <br/>Seattle Pacific University (Seattle) <br/>Seattle University School of Theology and Ministry (Seattle) <br/>Seattle University (Seattle) <br/>Shoreline Community College (Seattle) <br/>Skagit Valley College (Mount Vernon) <br/>SkillSource Office &amp; Technology Center (Wenatchee) <br/>South Puget Sound Community College (Olympia) <br/>South Seattle Community College (Seattle) <br/>Spokane Community College (Spokane) <br/>Spokane Falls Community College (Spokane) <br/>Stylemasters College of Hair Design (Longview) <br/>Tacoma Community College (Tacoma) <br/>Total Cosmetology Training Center (Spokane) <br/>Trident Training Facility, Bangor (Silverdale) <br/>Trinity Lutheran College (Issaquah) <br/>University of Puget Sound (Tacoma) <br/>University of Washington (Seattle) <br/></p><p>英文（或者源语言）校名：University of Washington (Bothell)<br/>中文校名：华盛顿大学博塞尔校区<br/>官方网址：https://www.uwb.edu/<br/>备注：<br/></p><p>英文（或者源语言）校名：University of Washington (Tacoma)<br/>中文校名：华盛顿大学（塔科马校区）<br/>官方网址：http://www.tacoma.uw.edu/<br/>备注：无</p><p>Walla Walla College (College Place) <br/>Walla Walla Community College (Walla Walla) <br/>Washington State University (Pullman) <br/>Wenatchee Valley College (Wenatchee) <br/>Western Business College (Vancouver) <br/>Western Washington University (Bellingham) <br/>Whatcom Community College (Bellingham) Whitman College (Walla Walla) <br/>Whitworth College (Spokane) <br/>Yakima Valley Community College (Yakima)</p><p>英文校名：Northeastern University (Seattle)<br/>中文校名：东北大学（西雅图）<br/>官方网址：https://www.northeastern.edu/seattle/<br/>备注：&quot;东北大学经新英格兰高等教育机构委员会<br/>(New England Commission of Higher Education)认证。新英格兰高等教育机构委员会为地区性认证机构，此认证机构经美国高等教育认证委员会（CHEA）和美国教育部（USDE）认可。东北大学可颁发副学士、学士、硕士、博士学位。&quot;</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

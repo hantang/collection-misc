@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>立陶宛</h1></div><div style="text-align:center;padding-top:5px;">2019年04月01日</div><div class="gwCon"><div class="gw"><div class="tit2"><span>1</span><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>立陶宛高等教育体制包括两种类型的教育机构：第一种是大学（即大学（university）、学院（academy）或学校（seminary）），第二种是代表非大学高等教育部门的高等教育学院（称为高等教育学院（higher education college）或高等教育机构（higher education institution））。</p><p>第一种类型的院校提供三种等级的学位学习，即学士、硕士和博士学位，进行科研、实验开发及高水平艺术创作。也提供专业技术教学。</p><p>第二种类型的院校提供一种等级的学位学习，即专业学士学位，进行开发应用研究及创作专业艺术作品。</p><p>立陶宛高等教育机构均为国立或非国立。</p><p>立陶宛颁发以下高等教育学历：</p><p>第1级：专业学士（Professional Bachelor）或学士（Bachelor），符合欧洲资格架构（EQF）6级；</p><p>第2级：硕士（Master）， 对应于EQF7级；</p><p>第3级：理科博士（Doctor of Sciences）或文学博士（Doctor of Arts），对应于EQF 8级。</p><p>专业学士学位：学生通过专业技术学习获得学位并准备好独立完成专业作品。完成课程后，学校将颁发相应证书。</p><p>学分制用于计算学生在学习过程中的课程量。在2011年9月1日引入新的学分制后，一个学分对应一个ECTS学分（European Credit Transfer and Accumulation System，欧洲学分转让和累积系统）。 全日制学习的平均课程量为每学年60学分。2004年，立陶宛引入了文凭补充制，自2006年起已应用于本科及研究生毕业生。</p><p>立陶宛建立了国家高等教育质量保障体系。只有认证过的课程计划才能进行执行。经过认证的课程计划将纳入学习和培训计划资格登记中心，执行一段固定的时间。</p><p>高等教育机构和课程的质量是由高等教育质量评估中心（www.skvc.lt）——由ENQA（欧洲高等教育质量保障协会）认可的国家质量保障机构评估。立陶宛有两种与高等教育机构相关的认证：机构认证和课程认证。认证结果和结论是公开的，可在大学网站查看。</p><p><br/></p><div class="gw"><div class="tit2"><span>2</span><h2>名单</h2></div><div class="gwList"><p class="not">&nbsp;英文校名：Kaunas University of Technology</p><p>立陶宛语校名：Kauno technologijos universitetas</p><p>中文校名：考纳斯理工大学</p><p>官方网址：https://ktu.edu/</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Lithuanian Academy of Music and Theatre</p><p>立陶宛语校名：Lietuvos muzikos ir teatro akademija</p><p>中文校名：立陶宛音乐与戏剧学院</p><p>官方网址：http://lmta.lt</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Lithuanian University of Health Sciences</p><p>立陶宛语校名：Lietuvos sveikatos mokslų universitetas</p><p>中文校名：立陶宛健康科学大学</p><p>官方网址：http://www.lsmuni.lt/</p><p>备注： 公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Vilnius Gediminas Technical University</p><p>立陶宛语校名：Vilniaus Gedimino technikos universitetas</p><p>中文校名：维尔纽斯格迪米纳斯技术大学</p><p>官方网址：http://www.vgtu.lt</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Vilnius University</p><p>立陶宛语校名：Vilniaus universitetas</p><p>中文校名：维尔纽斯大学</p><p>官方网址：http://www.vu.lt</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Vytautas Magnus University</p><p>立陶宛语校名：Vytauto Didžiojo universitetas</p><p>中文校名：维陶塔斯马格纳斯大学</p><p>官方网址：http://www.vdu.lt</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Klaipeda University</p><p>立陶宛语校名：Klaipėdos universitetas</p><p>中文校名：克莱佩达大学</p><p>官方网址：http://www.ku.lt,</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Lithuanian Sports University</p><p>立陶宛语校名：Lietuvos sporto universitetas</p><p>中文校名：立陶宛体育大学</p><p>官方网址：http://www.lsu.lt</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：Mykolas Romeris University</p><p>立陶宛语校名：Mykolo Romerio universitetas</p><p>中文校名：米科拉斯•罗梅里斯大学</p><p>官方网址：https://www.mruni.eu</p><p>备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div><div class="gwList"><p class="not">&nbsp;英文校名：ISM University of Management and Economics</p><p>立陶宛语校名：ISM Vadybos ir ekonomikos universitetas</p><p>中文校名：ISM管理与经济大学</p><p>官方网址：http://www.ism.lt/</p><p>备注：私立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障</p></div></div></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12138"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

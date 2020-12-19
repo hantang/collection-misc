@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>克罗地亚</h1></div><div style="text-align:center;padding-top:5px;">2018年3月26日</div><div class="gwCon"><div class="gw"><div class="tit2"><span>1</span><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>克罗地亚高等教育由克科学教育部主管。克已加入博洛尼亚进程，高校普遍实行学士、硕士和博士三级学位制度及欧洲学分转换系统（ECTS）。</p><p>克高等教育分两种形式：学术教育(university study)和专业教育（professional study）。大学提供学术教育，并在国家高等教育委员会（National Council for Higher Education）许可前提下提供专业教育，培养学术人才和高素质劳动力；其他高等教育机构提供专业教育，培养高素质劳动力。学术教育第一阶段本科，学制3-4年；第二阶段硕士，学制1-2年；第三阶段博士，学制3年；大学也可开办学制1-2年的专业领域博士（postgraduate specialist study）。专业教育第一阶段学制2-3年；第二阶段专业硕士（specialist professional graduate study）学制1-2年。</p><p>克高等教育机构包括7所大学、16所公立高校（Public Polytechnics and Schools of Professional Higher Education）和28所私立高校（Private Polytechnics and Schools of Professional Higher Education）。</p><p>克科学活动与高等教育法(The Scientific Activity and Higher Education Act)及建立高等教育机构条例(the Regulation on the Measures and Criteria for Establishing Higher Education Institutions)对高等教育机构的设立标准、设立程序、学历学位证书的颁发以及高等教育质量保障框架和措施作了相关规定。克国家高等教育委员会负责对克高等教育机构的教学质量和课程设置进行监督。</p></div></div><div class="gw"><div class="tit2"><span>2</span><h2>名单</h2></div><div class="gwList"><p>英文（或者源语言）校名：University of Zagreb</p><p>中文校名：萨格勒布大学</p><p>官方网址：http：//www.unizg.hr/</p><p>备注：萨格勒布大学天主教神学学院有宗教背景</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Split</p><p>中文校名：斯普利特大学</p><p>官方网址： http://www.unist.hr/</p><p>备注： 斯普利特大学天主教神学学院有宗教背景</p></div><div class="gwList"><p>英文（或者源语言）校名：Josip Juraj Strossmayer University of Osijek</p><p>中文校名：奥西耶克约瑟夫.尤拉伊.斯托斯马耶尔大学</p><p>官方网址：http：//www.unios.hr/</p><p>备注：奥西耶克大爷天主教神学学院（贾科沃市）有宗教背景</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Rijeka</p><p>中文校名：里耶卡大学</p><p>官方网址：http：//www.uniri.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Juraj Dobrila University of Pula</p><p>中文校名：普拉尤拉伊.多布里拉大学</p><p>官方网址：http://www.unipu.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Zadar</p><p>中文校名：扎达尔大学</p><p>官方网址：http://www.unizd.hr/eng</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Dubrovnik</p><p>中文校名：杜布罗夫尼克大学</p><p>官方网址：http：//www.unidu.hr/index_eng.php</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University North</p><p>中文校名：北方大学</p><p>官方网址：http： //www.unin.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名： Libertas International University</p><p>中文校名：利伯塔国际大学</p><p>官方网址：http : //www.libertas.hr</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Catholic University of Croatia</p><p>中文校名：克罗地亚天主教大学</p><p>官方网址：http： //www.unicath.hr/</p><p>备注：有宗教背景</p></div><div class="gwList"><p>英文（或者源语言）校名：Polytechnic in Požega</p><p>中文校名：波热加理工学院</p><p>官方网址：http://www.vup.hr/index_en.aspx</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名： Marko Marulić Polytechnic of Knin</p><p>中文校名：克宁马尔科.马吕利奇理工学院</p><p>官方网址：http://www.veleknin.hr/veleknin/web/index.php/eng</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：College for Management in Tourism and Informatics in Virovitica</p><p>中文校名：维罗维蒂察旅游与信息管理学院</p><p>官方网址：http：//www.vsmti.hr/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Polytechnic of Šibenik</p><p>中文校名：希贝尼克理工学院</p><p>官方网址：http : //www.vus.hr/?page_id=7809&amp;lang=en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名： Polytechnic &#39;Nikola Tesla&#39; in Gospić</p><p>中文校名：戈斯皮奇“尼古拉•特斯拉”理工学院</p><p>官方网址：http : //www.velegs-nikolatesla.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Međimurje Polytechnic in Čakovec</p><p>中文校名：梅吉穆列（查科韦茨）理工学院</p><p>官方网址：http： //www.mev.hr/?lang=eng</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：College of Slavonski Brod</p><p>中文校名：斯拉沃尼亚布罗德学院</p><p>官方网址：https://www.vusb.hr/en/home/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Križevci College of Agriculture</p><p>中文校名：克里热维茨农业学院</p><p>官方网址：http : //www.vguk.hr</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名： Zagreb University of Applied Sciences</p><p>中文校名：萨格勒布应用科学大学</p><p>官方网址：http： //www.tvz.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：VERN&#39; University of Applied Sciences</p><p>中文校名：VERN应用科学大学</p><p>官方网址：http://www.vern.hr/english/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Zagreb School of Economics and Management</p><p>中文校名：萨格勒布经济与管理学院</p><p>官方网址：http：//www.zsem.hr/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Business School PAR</p><p>中文校名：PAR商学院</p><p>官方网址：http : //www.par.hr</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Edward Bernays College of Communication Management</p><p>中文校名：爱德华伯纳斯传播管理学院</p><p>官方网址：http： //www.bernays.hr</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University College Effectus - College for Finance and Law</p><p>中文校名：执行大学学院-金融法学院</p><p>官方网址：http://www.effectus-uciliste.net/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University College of Management and Design Aspira</p><p>中文校名：“Aspira”管理和设计大学学院</p><p>官方网址：http://www.aspira.hr/？lang=en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：RRiF College of financial Management</p><p>中文校名：RRiF财务管理学院</p><p>官方网址：http：//www.rvs.hr/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Dag Hammarskjöld - University College of International Relations and Diplomacy</p><p>中文校名：达格•哈马舍尔德国际关系和外交学院大学</p><p>官方网址： http://www.diplomacija.hr/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Baltazar University of Applied Sciences</p><p>中文校名：巴尔塔扎尔应用科学大学</p><p>官方网址：https://english.bak.hr</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：RIT Croatia</p><p>中文校名：克罗地亚RIT</p><p>官方网址：http：//www.croatia.rit.edu</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Algebra University College</p><p>中文校名：代数大学学院</p><p>官方网址：https://algebra.university/about-us/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Polytechnic Pula – College of Applied Sciences</p><p>中文校名：普拉理工学院-应用科学学院</p><p>官方网址：http://www.politehnika-pula.hr/english</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Applied Sciences Velika Gorica</p><p>中文校名：大戈里察应用科学大学</p><p>官方网址：http://www.vvg.hr/?lang=en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：College for Information Technologies (VSITE)</p><p>中文校名：信息技术学院</p><p>官方网址：https：//www.vsite.hr/?q=en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Technical College in Bjelovar</p><p>中文校名：别洛瓦尔技术学院</p><p>官方网址：http:en.vtsbj.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：College of Inspection and Personnel Management in Split</p><p>中文校名：斯普利特检验和人事管理学院</p><p>官方网址：http://hr.vsikmp.hr/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Zagreb School of Business</p><p>中文校名：萨格勒布商学院</p><p>官方网址：http：//www.vpsz.hr/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：College of Applied Sciences &quot;Lavoslav Ružička&quot; in Vukovar</p><p>中文校名：武科瓦尔应用科学学院</p><p>官方网址：http://www.vevu.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Applied Health Sciences</p><p>中文校名：健康应用科学大学</p><p>官方网址：http://www.zvu.hr/?lang=en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名： Polytechnic of Karlovac</p><p>中文校名：卡尔洛瓦茨理工学院</p><p>官方网址：http://www.vuka.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Polytechnic of Rijeka</p><p>中文校名：里耶卡理工学院</p><p>官方网址：http : //www.veleri.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：European Business School Zagreb</p><p>中文校名：萨格勒布欧洲商学院</p><p>官方网址：http://www.ebus.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Police College</p><p>中文校名：警察学院</p><p>官方网址：http : //www.policija.hr/6676.aspx</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Polytechnic Hrvatsko Zagorje in Krapina</p><p>中文校名：克拉皮纳克罗地亚扎戈列理工学院</p><p>官方网址：http : //www.vhzk.hr/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：College of Occupational Safety and Health</p><p>中文校名：职业安全与健康学院</p><p>官方网址：http://www.vss.hr/main.php?lang=en&amp;kategorija=16</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：AGORA University College</p><p>中文校名：AGORA大学学院</p><p>官方网址：http : //www.vsa.hr</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Evangelical Theological Seminary</p><p>中文校名：福音派神学院</p><p>官方网址：http://www.evtos.hr/en/home/</p><p>备注：有宗教背景</p></div><div class="gwList"><p>英文（或者源语言）校名：Faculty of Theology &quot;Matija Vlačić Ilirik&quot;</p><p>中文校名：马提亚.弗拉西斯.伊利里亚 神学院</p><p>官方网址：http：//www.tfmvi.hr/en/home/</p><p>备注：有宗教背景</p></div><div class="gwList"><p>英文（或者源语言）校名：College of Multimedia and Telecommunication Technology</p><p>中文校名：多媒体和电视传播技术学院</p><p>官方网址：http：//www.tv-akademija.com/en/index.php</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University College of Economics, Entrepreneurship and Management &quot;Nikola Šubić Zrinski“</p><p>中文校名：尼古拉.苏比克.兹林斯基大学学院</p><p>官方网址：http://www.zrinski.org/nikola-en/</p><p>备注：</p></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12130"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

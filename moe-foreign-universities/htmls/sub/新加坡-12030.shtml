@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+  <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+  </div>
+  <div class="blank15"></div>
+  <div class="list left">
+    <div class="article left">
+	   <h1>新加坡</h1>
+   <h4>
+      2017&#24180;08&#26376;03&#26085;
+          </h4>
+    <div class="article-nr left" id="Zoom">
+      <p>&nbsp;</p><p><strong>一、基本情况</strong></p><p>新加坡的大学和理工学院均属于高等教育机构系列。新加坡政府投资并负责经营的高等学校包括6所大学和5所理工学院。其中6所大学可以颁发学士学位以上（含学士学位）的文凭证书。5所理工学院可以颁发专业教育文凭。这些学校的课程、管理和水平被普遍认可。</p><p>新加坡大学的学位设置分为学士学位、硕士学位、博士学位。攻读学士学位一般需要3年，在攻读学士学位阶段学习成绩优秀者可多读1年取得荣誉学位。荣誉学位分等级而设，但它仍属于学士阶段教育。在新加坡攻读硕士学位通常需要1-2年；攻读博士学位通常需要3-5年。</p><p>在新加坡理工学院就读，一般是中学毕业学习3年后取得专业教育文凭。</p><p><strong>二、名单</strong></p><p>大学</p><table cellspacing="2" cellpadding="8" bordercolor="#660000" border="1" width="80%"><tbody><tr class="firstRow"><td>National University of Singapore （新加坡国立大学）</td></tr><tr><td>Nanyang Technological University （南洋理工大学）</td></tr><tr><td>Singapore Management University （新加坡管理大学）</td></tr><tr><td><p>Singapore University of Technology and Design（新加坡科技设计大学）</p></td></tr><tr><td>英文（或者源语言）校名：&nbsp;Singapore University of Social Sciences<br/>中文校名：新跃社科大学<br/>官方网址：http://www.suss.edu.sg<br/>联系电话：&nbsp;+65 62480188<br/>电子邮箱：uc@suss.edu.sg<br/>备注：</td></tr><tr><td>英文（或者源语言）校名：Singapore Institute of Technology中文校名：新加坡理工大学<br/>官方网址：https://www.singaporetech.edu.sg/<br/>联系电话： +65 65921136<br/>电子邮箱： Adm.Intl@SingaporeTech.edu.sg<br/>备注：</td></tr></tbody></table><p><br/></p><p>理工学院</p><table cellspacing="2" cellpadding="8" bordercolor="#660000" border="1" width="80%"><tbody><tr class="firstRow"><td>Singapore Polytechnic (新加坡理工学院)</td></tr><tr><td>NanYang Polytechnic （南洋理工学院）</td></tr><tr><td>Temasek Polytechnic （淡马锡理工学院）</td></tr><tr><td>Ngee An Polytechnic （义安理工学院）</td></tr><tr><td><p>Republic Polytechnic (共和理工学院)</p></td></tr></tbody></table>
+    </div>
+    </div>
+  </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12030"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+  <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+  </div>
+  <div class="blank15"></div>
+  <div class="list left">
+    <div class="article left">
+	   <h1>奥地利</h1>
+   <h4>
+      2019&#24180;04&#26376;11&#26085;
+          </h4>
+    <div class="article-nr left" id="Zoom">
+      <p><strong>一、基本情况<br/><br/>　　</strong>奥地利高等教育机构主要有大学和高等专业学院(Fachhochschule,
+ 
+Fachhochschulstudiengänge）。目前奥地利有22所国立大学（Universität），12所私立大学，20所高等专业学院（包括一所远程教育高等专业学院）及高等专业学院课程教学点。国立大学是奥地利高等教育的主体，由联邦政府举办。奥地利私立大学规模较小，举办私立大学须经奥地利国家认证理事会评估认证后，由联邦政府高等教育主管部门批准。高等专业学院出现于1993年后，目前开办的高等专业学院多为州政府和社会团体或个人举办，无联邦政府举办的。</p><p>随着博洛尼亚进程的发展，奥地利也开始引入了学士（Bakkalaureat）、硕士（Magister）和博士（Doktor）的三级学位制度，但部分大学（或学科）仍实行原来的二级学位制度，即大学毕业文凭（Diplom/Magister）和博士学位。奥地利大学和高等专业学院均可颁发学士学位和硕士学位证书以及大学毕业文凭，博士学位证书只有大学才有权颁发。</p><p>有关奥地利高等教育的其他情况，可参见奥地利联邦高教和科研部网页：http://www.bmwf.gv.at</p><p>与此前公布的名单相比，此次公布名单的主要变化是，修正了部分院校的中外文名称。</p><p><br/>　　二、<strong>部分高校名单</strong></p><p><strong>　　大学</strong></p><p>1.Universität Wien（维也纳大学）</p><p>2.Universität Graz（格拉茨大学）</p><p>3.Universität Innsbruck（因斯布鲁克大学）</p><p>4.Medizinische Universität Wien（维也纳医科大学）</p><p>5.Medininische Universität Graz（格拉茨医科大学）</p><p>6.Medizinische Universität Innsbruck（因斯布鲁克医科大学）</p><p>7.Universität Salzburg（萨尔茨堡大学）</p><p>8.Technische Universität Wien（维也纳技术大学）</p><p>9.Technische Universität Graz（格拉茨技术大学）</p><p>10. Montanuniversität Leoben（莱奥本矿业大学）</p><p>11. Universität für Bodenkultur Wien（维也纳农业大学）</p><p>12. Veterinärmedizinische Universität Wien（维也纳兽医大学）</p><p>13. Wirtschaftsuniversität Wien（维也纳经济大学）</p><p>14. Universität Linz（林茨大学）</p><p>15. Universität Klagenfurt（克拉根福大学）</p><p>16. Donau-Universität Krems（克莱姆斯多瑙大学，只开展继续教育）</p><p>17. Akademie der bildenden Künste Wien（维也纳美术学院）</p><p>18. Universität für angewandte Kunst Wien（维也纳应用艺术大学）</p><p>19. Universität für Musik und darstellende Kunst Wien（维也纳音乐与表演艺术大学）</p><p>20. Universität Mozarteum Salzburg（萨尔茨堡莫扎特音乐大学）</p><p>21. Universität für Musik und darstellende Kunst Graz（格拉茨音乐与表演艺术大学）</p><p>22. Universität für künstlerische und industrielle Gestaltung Linz（林茨艺术与工业设计大学）</p><p>23. Modul University Vienna（维也纳模都尔大学）</p><p>24. 英文校名：Musik und Kunst Privatuniversität der Stadt Wien<br/>&nbsp;&nbsp; 中文校名：维也纳音乐与艺术市立大学<br/>&nbsp;&nbsp; 官方网址：<a href="http://www.muk.ac.at" _src="http://www.muk.ac.at">http://www.muk.ac.at</a><br/></p><p>25. 英文校名：JAM MUSIC LAB-Privatuniversität für Jazz und Popularmusik Wien<br/>&nbsp;&nbsp; 中文校名：维也纳爵士流行音乐私立大学<br/>&nbsp;&nbsp; 官方网址：<a href="https://www.jammusiclab.com/de" _src="https://www.jammusiclab.com/de">https://www.jammusiclab.com/de</a></p><p>26. 外文校名：Privatuniversität Schloss Seeburg<br/>&nbsp;&nbsp; 中文校名：西伯格堡私立大学<br/>&nbsp;&nbsp; 官方网址：https://www.uni-seeburg.at<br/>&nbsp;&nbsp; 备注：2007年11月26日由奥地利国家认证委员会（Der Österreichische Akkreditierungsrat，简称ÖAR）认定为私立大学，办学质量由Die Agentur für Qualitätssicherung und Akkreditierung Austria (AQ Austria)监管。2014年9月15日，奥地利质量保证与认证机构同意西伯格堡私立大学认证延期的申请，认证有效期至2020年</p><p><br/></p><p><strong>高等专业学院</strong><strong>（</strong><strong>高等专业学院课程教学点</strong><strong>）</strong><strong>&nbsp;</strong>　　</p><p>1. Fachhochschule Vorarlberg （GmbH）（福拉尔贝格高等专业学院）</p><p>2. Fachhochschulstudiengänge Burgenland GmbH，（布尔根兰高等专业学院教学点）</p><p>3. FH Joanneum GmbH（约阿内高等专业学院）</p><p>4. Fachhochschule CAMPUS 02 Graz （格拉茨高等专业学院）</p><p>5. MCI-Management Center Innsbruck, Internationale Fachhochschulgesellschaft mbH（因斯布鲁克管理中心）</p><p>6. Fachhochschule IMC Krems.（克雷姆斯高等专业学院）</p><p>7. Fachhochschule Kufstein Tirol Bildungs GmbH （蒂罗尔州库夫施泰因高等专业学院）</p><p>8. Fachhochschule Salzburg （萨尔茨堡高等专业学院）</p><p>9. Fachhochschule St. Pölten （圣•帕尔藤高等专业学院）</p><p>10. Fachhochschule Technikum Kärnten（克恩藤技术高等专业学院）</p><p>11. Fachhochschul-Studiengänge Oberösterreich（上奥地利州高等专业学院）</p><p>12. FHW Fachhochschul-Studiengänge Betriebs-und Forschungseinrichtungen der Wiener Wirtschaft GmbH（维也纳经济高等专业学院）</p><p>13. Fachhochschule des bfi Wien（维也纳职业促进高等专业学院）</p><p>14. Fachhochschul Campus Wien (维也纳康普斯高等专业学院)</p><p>15. Fachhochschule Technikum Wien（维也纳技术高等专业学院）</p><p>16. Lauder Business School – Vienna Internationale College（劳德尔国际商务学校）</p><p>17. Fachhochschule Wiener Neustadt für Wirtschaft und Technik GmbH（维也纳新城经济与技术高等专业学院）</p><p>18. Theresianische Militärakademie, Fachhochschul- Diplomstudiengang „Militärische Führung”) ( 特雷西娅军事指挥学院)</p><p>19. FHG — Zentrum für Gesundheitsberufe Tirol GmbH (蒂罗尔卫生保健职业中心高等专业学院教学点)</p>
+    </div>
+    </div>
+  </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12047"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

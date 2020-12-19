@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>丹麦</h1></div><div style="text-align:center;padding-top:5px;">2018年02月27日</div><div class="gwCon"><div class="gw"><div class="tit2"><span>1</span><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>丹麦高等教育主要由丹麦科学、技术与创新部，丹麦教育部和丹麦文化部负责管理。自2005年实施高等教育改革后，丹麦的高等教育可以分为3个部分: 大学（University）、大学学院（University College）和高等职业教育学院（Academies of Professional Higher Education）。</p><p>综合性大学由科学、技术与创新部负责管理，这些大学侧重学术研究，一般开设本科和研究生课程，可以颁发学士（Bachelor）、硕士(Master)和博士(PhD)学位。艺术类院校由文化部负责管理。大学学院等其他教育机构由教育部负责管理。大学学院一般开设学制为3年至4年半不等的专业性本科课程，颁发职业学士学位（Professional Bachelor），专业主要涵盖教师培训、工程、护士、健康、商务以及社会工作等学科。高等职业教育学院开设2年至2年半不等的职业教育课程,或者与大学合作，开设一些本科课程。丹麦大学本科教育和职业学院的绝大多数专业用丹麦语授课，大学的研究生教育设有英语授课课程。个别大学和职业学院每年也设立用英语授课的专业，招收外国学生，但有名额限制。</p><p>与此前公布的名单相比，此次公布名单的主要变化是按照学校管理权限，重新整理了丹麦大学的类别、性质，确定了各类学校的数量及办学颁发学位的权限。</p></div><div class="gw"><div class="tit2"><span>2</span><h2>名单</h2></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">大学</div><div class="gwList"><p>英文（或者源语言）校名：University of Copenhagen</p><p>中文校名：哥本哈根大学</p><p>官方网址：http://www.ku.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Aarhus University</p><p>中文校名：奥胡斯大学</p><p>官方网址：http://www.au.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Southern Denmark</p><p>中文校名：南丹麦大学</p><p>官方网址：http://sdu.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Roskilde University</p><p>中文校名：罗斯基勒大学</p><p>官方网址：http://www.ruc.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Aalborg University</p><p>中文校名：奥尔堡大学</p><p>官方网址：http://www.en.aau.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Technical University of Denmark</p><p>中文校名：丹麦技术大学</p><p>官方网址：http://www.dtu.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Copenhagen Business School</p><p>中文校名：哥本哈根商学院</p><p>官方网址：http://www.cbs.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：IT University of Copenhagen</p><p>中文校名：哥本哈根信息技术大学</p><p>官方网址：http://en.itu.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">大学学院</div><div class="gwList"><p>英文（或者源语言）校名：Danish School of Media and Journalism</p><p>中文校名：</p><p>官方网址：</p><p>质量保障机构： <br/></p><p>备注：未在丹麦高等教育与科学部公布的大学学院名单中，院校资质无法核实</p></div><div class="gwList"><p>英文（或者源语言）校名：Metropolitan University College</p><p>中文校名：都市大学学院</p><p>官方网址：http://www.phmetropol.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University College Capital</p><p>中文校名：</p><p>官方网址：https://ucc.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：丹麦高等教育与科学部公布的名称为University College Copenhagen，经查该校官网，现已更名为UCC University College，建议与该校官网保持一致。</p></div><div class="gwList"><p>英文（或者源语言）校名：University College Lillebaelt</p><p>中文校名：小贝尔特大学学院</p><p>官方网址：http://international.ucl.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University College of Northern Denmark</p><p>中文校名：北丹麦大学学院</p><p>官方网址：http://www.ucnorth.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University College Zealand</p><p>中文校名：西兰大学学院</p><p>官方网址：http://ucsj.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University College South Denmark</p><p>中文校名：南丹麦大学学院</p><p>官方网址：https://www.ucsyd.dk</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：VIA University College</p><p>中文校名：VIA大学学院</p><p>官方网址：http://en.via.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">高等职业教育学院（根据丹麦高等教育与科学部的分类，该类院校名称已改为商业学院：Business Academy）</div><div class="gwList"><p>英文（或者源语言）校名：Dania Academy of Higher Education</p><p>中文校名：达尼亚高等教育学院</p><p>官方网址：http://www.eadania.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：IBA International Business Academy</p><p>中文校名：IBA国际商业学院</p><p>官方网址：http://www.iba.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Business Academy MidtVest</p><p>中文校名：MidtVest商业学院</p><p>官方网址：http://www.eamv.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Zealand Institute of Business and Technology</p><p>中文校名：西兰商务与技术学院</p><p>官方网址：http://zibat.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：EA Business Academy SouthWest</p><p>中文校名：EA西南商业学院</p><p>官方网址：https://www.easv.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Business Academy Aarhus</p><p>中文校名：奥胡斯商业学院</p><p>官方网址：http://www.baaa.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Copenhagen Business Academy</p><p>中文校名：哥本哈根商业学院</p><p>官方网址：https://www.cphbusiness.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Lillebaelt Academy</p><p>中文校名：小贝尔特学院</p><p>官方网址：https://www.eal.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Copenhagen School of Design and Technology</p><p>中文校名：哥本哈根设计与技术学院</p><p>官方网址：http://www.kea.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">建筑与艺术类院校</div><div class="gwList"><p>英文（或者源语言）校名：Aarhus School of Architecture</p><p>中文校名：奥胡斯建筑学院</p><p>官方网址：http://aarch.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：The Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation</p><p>中文校名：丹麦皇家美术学院-建筑、设计与修复学院</p><p>官方网址：http://kadk.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Design School Kolding</p><p>中文校名：科尔丁设计学院</p><p>官方网址：https://www.designskolenkolding.dk/</p><p>质量保障机构：丹麦高等教育与科学部</p><p>备注：丹麦高教部网站上名称为Kolding School of Design</p></div><div class="gwList"><p>英文（或者源语言）校名：The Royal Danish Academy of Music</p><p>中文校名：丹麦皇家音乐学院</p><p>官方网址：http://www.dkdm.dk/</p><p>质量保障机构：文化部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：The Royal Academy of Music, Aarhus/Aalborg</p><p>中文校名：皇家音乐学院-奥胡斯/奥尔堡</p><p>官方网址：http://www.musikkons.dk/</p><p>质量保障机构：文化部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：The Rhythmic Music Conservatory</p><p>中文校名：韵律音乐学院</p><p>官方网址：http://www.rmc.dk/</p><p>质量保障机构：文化部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：The Danish National School of Performing Arts</p><p>中文校名：丹麦国家表演艺术学院</p><p>官方网址：http://scenekunstskolen.dk/</p><p>质量保障机构：文化部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：The Royal Danish Academy of Fine Arts, The Schools of Visual Arts</p><p>中文校名：丹麦皇家美术学院-视觉艺术学院</p><p>官方网址：http://www.kunstakademiet.dk/</p><p>质量保障机构：文化部</p><p>备注：该校官网上的名称为The Schools of Visual Arts, The Royal Danish Academy of Fine Arts</p></div><div class="gwList"><p>英文（或者源语言）校名：The National Film School of Denmark</p><p>中文校名：丹麦国家电影学院</p><p>官方网址：http://www.filmskolen.dk/</p><p>质量保障机构：文化部</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Danish National Academy of Music</p><p>中文校名：丹麦国家音乐学院</p><p>官方网址：http://www.amda.dk/</p><p>质量保障机构：文化部</p><p>备注：</p></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">海事院校</div><div class="gwList"><p>英文（或者源语言）校名：Aarhus School of Marine and Technical Engineering</p><p>中文校名：奥胡斯海洋与技术工程学院</p><p>官方网址：http://www.aams.dk/en/</p><p>联系人：Anna Kathrine Jorgensen</p><p>联系电话：+45 41227175</p><p>联系邮箱：akj@aams.dk</p><p>备注：获得认证的专业：海洋工程与技术管理学士</p></div><div class="gwList"><p>英文（或者源语言）校名：Copenhagen School of Marine Engineering and Technology Management</p><p>中文校名：哥本哈根海洋工程与技术管理学院</p><p>官方网址：http://www.msk.dk/copenhagen-school-of-</p><p>marine-engineering-and-technology-management/</p><p>联系人：Thomas B.Dragoe,(Vice President)</p><p>联系电话：+45 31100729</p><p>联系邮箱：tbd@msk.dk</p><p>备注：获得认证的专业：海洋工程与技术管理学士</p></div><div class="gwList"><p>英文（或者源语言）校名：Maritime and Polytechnic College</p><p>中文校名：</p><p>官方网址：https://www.martec.nu/en</p><p>联系人：COO Brian Thomsen</p><p>联系电话：+45 96208888</p><p>联系邮箱：bth@martec.dk</p><p>备注：获得认证的专业：海洋工程与技术管理学士</p></div><div class="gwList"><p>英文（或者源语言）校名：Svendborg International Maritime Academy</p><p>中文校名：斯文堡国家海洋学院</p><p>官方网址：http://www.simac.dk/</p><p>联系人：Susie Bogojevic-Simonsen</p><p>联系电话：+45 72215500</p><p>联系邮箱：SUS@simac.dk</p><p>备注：获得认证的专业：海洋工程与技术管理学士、海洋运输与传播科学学士、海洋运输与船务管理学士</p></div><div class="gwList"><p>英文（或者源语言）校名：Fredericia School of Marine and Technical Engineering (Fredericia Maskinmesterskole)</p><p>中文校名：腓特烈西亚海洋与技术工程学院</p><p>官方网址：http://www.fms.dk/</p><p>备注：</p></div></div></div><p><br/></p></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12131"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

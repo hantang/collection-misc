@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+  <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+  </div>
+  <div class="blank15"></div>
+  <div class="list left">
+    <div class="article left">
+	   <h1>比利时</h1>
+   <h4>
+      
+          </h4>
+    <div class="article-nr left" id="Zoom">
+      <p>&nbsp;</p><p><strong>一、基本情况</strong></p><p>比利时按照语言分为弗拉芒语（荷兰语）区、法语区和德语区。高等教育分别由各语区教育部负责，高等教育机构主要分布在弗拉芒语区和法语区。</p><p>目前，弗拉芒语区有5所大学，23所高等专业学院；法语区有5所大学及大学学院，21所高等专业学院和17所高等艺术学院；德语区有1所高等专业学院。</p><p>传统上，比利时的大学学制为4-7年，一般文、理学科为4-5年、工科为5-6年，农科为5年，医科为7年。大学学习分为三个阶段：第一阶段为基础阶段，需2-3年，对学生进行基础教育，专业入门教育；第二个阶段为本科阶段，需2-3年，也叫学士阶段，结业可取得学士学位；第三阶段为专业学科的研究阶段，即博士论文阶段或大学后地专业化学习阶段。在比利时，大学本科毕业可直接注册攻读博士学位，时间为2-3年。欧洲博洛尼亚改革以后，比利时也实行了欧洲高等教育空间统一的&ldquo;学士-硕士-博士&rdquo;三级学位制度，即学士3年，硕士1-2年，博士3年。</p><p><strong>二、比利时主要高等教育机构名单</strong><br /><br /><strong>弗拉芒语区（荷语区）</strong><br />&nbsp;大学<br />1、Katholieke Universiteit Leuven<br />2、Universiteit Gent<br />3、Vrije Universiteit Brussel<br />4、Universiteit Antwerpen<br />5、Universiteit Hasselt<br /><br />高等专业学院<br />1、Artesis Hogeschool Antwerpen<br />2、Arteveldehogeschool<br />3、Erasmushogeschool Brussel<br />4、Hogere Zeevaartschool (Antwerp Maritime Academy)<br />5、Hogeschool Gent<br />6、Hogeschool Sint-Lukas Brussel<br />7、Hogeschool voor Wetenschap & Kunst<br />8、Hogeschool West-Vlaanderen（Howest）<br />9、HUB&mdash;EHSAL<br />10、HUB&mdash;KUBrussel<br />11、Internationale Hogeschool Leuven（Groep T）<br />12、Karel de Grote-University College<br />13、Katholieke Hogeschool Brugge - Oostende<br />14、Katholieke Hogeschool Kempen<br />15、atholieke Hogeschool Leuven<br />16、Katholieke Hogeschool Limburg<br />17、Katholieke Hogeschool Sint-Lieven<br />18、Katholieke Hogeschool Zuid-West-Vlaanderen<br />19、Lessius Antwerpen (Thomas More Hogeschool)<br />20、Lessius Mechelen (Thomas More Hogeschool)<br />21、Plantijn Hogeschool van de provincie Antwerpen<br />22、Provinciale Hogeschool Limburg<br />23、XIOS Hogeschool Limburg<br /><br />高等艺术学院<br />1、Hoger Instituut voor Schone Kunsten</p><p>&nbsp;<br /><strong>法语区<br /></strong>大学及大学学院<br />1、Universit&eacute; catholique de Louvain<br />2、Universit&eacute; de Li&egrave;ge<br />3、Universit&eacute; libre de Bruxelles<br />4、Universit&eacute; de Mons<br />5、Facult&eacute;s universitaires Notre-Dame de la Paix (Universit&eacute; de Namur)<br /><br />高等专业学院<br />1、Haute Ecole Charlemagne<br />2、Haute Ecole de Bruxelles（含ISTI, Institut Sup&eacute;rieur de Traducteurs et d&rsquo;Interpr&egrave;tes）<br />3、Haute Ecole de la Communaut&eacute; fran&ccedil;aise Paul-Henri Spaak<br />4、Haute Ecole de la Communaut&eacute; fran&ccedil;aise de Namur Albert Jacquard<br />5、Haute Ecole de la Communaut&eacute; fran&ccedil;aise du Luxembourg - SCHUMAN<br />6、Haute Ecole de la Communaut&eacute; fran&ccedil;aise en Hainaut<br />7、Haute Ecole de la Province de Li&egrave;ge<br />8、Haute Ecole de la province de Namur<br />9、Haute Ecole de la Ville de Li&egrave;ge<br />10、Haute Ecole de Namur HENAM<br />11、Haute Ecole de Namur-Li&egrave;ge-Luxembourg<br />12、Haute Ecole EPHEC<br />13、Haute Ecole Francisco FERRER de la Ville de Bruxelles<br />14、Haute Ecole Galil&eacute;e<br />15、Haute Ecole Groupe ICHEC - ISC St Louis &ndash; ISFSC<br />16、Haute Ecole L&eacute;onard de Vinci<br />17、Haute Ecole Libre de Bruxelles Ilya Prigogine<br />18、Haute Ecole Libre Mosane &ndash; HELMo<br />19、Haute Ecole Louvain en Hainaut &ndash; HELHa<br />20、Haute Ecole Lucia de Brouck&egrave;re<br />21、Haute Ecole provinciale du Hainaut - Condorcet<br /><br />高等艺术学院<br />1、Acad&eacute;mie des Beaux-Arts de la Ville de Tournai<br />2、Acad&eacute;mie royale des Beaux-Arts de la Ville de Bruxelles - Ecole sup&eacute;rieure des Arts<br />3、Arts2（Ecole Sup&eacute;rieure des Arts de Mons）<br />4、Conservatoire royal de Bruxelles<br />5、Conservatoire royal de Li&egrave;ge<br />6、&Eacute;cole nationale sup&eacute;rieure des Arts visuels de La Cambre<br />7、&Eacute;cole sup&eacute;rieure des Arts (Ecole de Recherche Graphique, ERG)<br />8、&Eacute;cole sup&eacute;rieure communale des Arts de l'Image "le 75"<br />9、&Eacute;cole sup&eacute;rieure des Arts de la Ville de Li&egrave;ge<br />10、&Eacute;cole sup&eacute;rieure des Arts du Cirque<br />11、&Eacute;cole sup&eacute;rieure des Arts Institut Saint-Luc &agrave; Tournai<br />12、&Eacute;cole sup&eacute;rieure des Arts plastiques et visuels de la Communaut&eacute; fran&ccedil;aise<br />13、&Eacute;cole sup&eacute;rieure des Arts Saint-Luc de Bruxelles<br />14、&Eacute;cole sup&eacute;rieure des Arts Saint-Luc de Li&egrave;ge<br />15、Institut des Arts de Diffusion<br />16、Institut national sup&eacute;rieur des Arts du Spectacle (INSAS)<br />17、Institut sup&eacute;rieur de Musique et de P&eacute;dagogie (IMEP)</p><p><br /><strong>德语区<br /></strong>高等专业学院<br />1、Hochschule in des Deutschsprachigen Gemeinschaft</p>
+    </div>
+    </div>
+  </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12050"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

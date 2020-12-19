@@ -1,0 +1,269 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Puerto Rico</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   
+<p><br />
+<font face="Arial"><strong>PennsylvaniaPuerto Rico</strong></font><br />
+<br />
+A-1 Business & Technical College (Caguas) <br />
+Academia Maison D'Esthetique (Santurce) <br />
+Academia Serrant (Ponce) <br />
+Academia Vocacional del Turabo (Caguas) <br />
+Aguadilla Technical College (Manati) <br />
+American Educational College (Bayamon) <br />
+American Educational College (Toa Alta) <br />
+American Technological College (Ponce) <br />
+American Technological College (Rio Piedras) <br />
+American University of Puerto Rico (Bayamon) <br />
+Antilles School of Technical Careers (Santurce) <br />
+Atenas College (Manati) <br />
+Atlantic College (Guaynabo) <br />
+Automeca Technical College (Bayamon) <br />
+Automeca Technical College (Ponce) <br />
+Bayamon Central University (Bayamon) <br />
+Bayamon Community College (Bayamon) <br />
+Caguas Central College (Caguas) <br />
+Caguas Inst. of Mechanical Technology (Caguas) <br />
+Caribbean Forensic & Technical College (San Juan) <br />
+Caribbean University (Bayamon) <br />
+Carlos Albizu University (San Juan) <br />
+Centro de Capacitacion y Asesoramiento (Aguadilla) <br />
+Centro de Capacitacion y Asesoramiento (Arecibo) <br />
+Centro de Capacitacion y Asesoramiento (Caguas) <br />
+Centro de Estudios Avanzados de Puerto Rico y El Caribe (San Juan) <br />
+Centro de Estudios Multidisciplinarios (Humacao) <br />
+Centro de Estudios Multidisciplinarios (San Juan) <br />
+Century College (Aguadilla) <br />
+Charlie's Guard Detective Bureau (Aguadilla) <br />
+Colegio Biblico Pentecostal (St Just) <br />
+Colegio de las Ciencias Artes y (Bayamon) <br />
+Colegio Educativo Tecnologico Industrial (Arecibo) <br />
+Colegio Mayor de Tecnologia (Arroyo) <br />
+Colegio Pentecostal Mizpa (Rio Piedras) <br />
+Colegio Tecnico Metropolitano (Puerto Nuevo) <br />
+Colegio Tecnologico y Comercial de PR (Aguada) <br />
+Columbia Centro Universitario (Caguas) <br />
+Columbia Centro Universitario (Yauco) <br />
+Conservatory of Music of Puerto Rico (San Juan) <br />
+D'Mart Institute (Barranquitas) <br />
+D'Mart Institute (Corozal) <br />
+Dominican Study Center of the Caribbean (Bayamon) <br />
+EDIC College (Caguas) <br />
+Educational Technical College (Bayamon) <br />
+Electronic Data Processing College (Hato Rey) <br />
+Electronic Data Processing College of Puerto Rico (Hato Rey) <br />
+Electronic Data Processing College (San Sebastian) <br />
+Emma's Beauty Academy (Juana Diaz) <br />
+Emma's Beauty Academy (Mayaguez) <br />
+Escuela de Artes Plasticas de Puerto Rico (San Juan) <br />
+Escuela de Peritos (Isabela) <br />
+Escuela Hotelera de San Juan (San Juan) <br />
+Escuela Tecnica De Electricidad (Ponce) <br />
+Evangelical Seminary of Puerto Rico (San Juan) <br />
+Globelle Technical Institute (Vega Baja) <br />
+Hispanic American College (Juncos) <br />
+Huertas Junior College (Caguas) <br />
+Humacao Community College (Humacao) <br />
+ICPR Junior College (San Juan) <br />
+Industrial Technical College (Humacao) <br />
+Institucion Chaviano de Mayaguez (Mayaguez) <br />
+Institute of Beauty Careers (Arecibo) <br />
+Institute of Beauty Careers (Manati) <br />
+Institute of Beauty Occupation & (Moca) <br />
+Instituto de Banca y Comercio (Caguas) <br />
+Instituto de Banca y Comercio (Cayey) <br />
+Instituto de Banca y Comercio (Fajardo) <br />
+Instituto de Banca y Comercio (Guayama) <br />
+Instituto de Banca y Comercio (Hato Rey) <br />
+Instituto de Banca y Comercio (Manati) <br />
+Instituto de Banca y Comercio (Mayaguez) <br />
+Instituto de Banca y Comercio (Ponce) <br />
+Instituto de Educacion Tecnica (Aguadilla) <br />
+Instituto de Educacion Tecnica (Manati) <br />
+Instituto de Educacion Vocacional (Corozal) <br />
+Instituto Fontecha (Bayamon) <br />
+Instituto Fontecha (Caguas) <br />
+Instituto Irma Valentin (Hatillo) <br />
+Instituto Irma Valentin (Manati) <br />
+Instituto Irma Valentin (Moca) <br />
+Instituto Irma Valentin-Santurce (Santurce) <br />
+Instituto Irma Valentin - Utuado (Utuado) <br />
+Instituto Merlix (Bayamon) <br />
+Instituto Tecnico del Futuro (Bayamon) <br />
+Instituto Tecnologico Empresarial (Trujillo Alto) <br />
+Instituto Vocacional Aurea E. Mendez (Caguas) <br />
+Inter American University of Puerto Rico Aguadilla Campus (Aguadilla) <br />
+Inter American University of Puerto Rico Arecibo Campus (Arecibo) <br />
+Inter American University of Puerto Rico Barranquitas Campus (Barranquitas) <br />
+Inter American University of Puerto Rico Bayamon Campus (Bayamon) <br />
+Inter American University of Puerto Rico Fajardo Campus (Fajardo) <br />
+Inter American University of Puerto Rico (Guayama) <br />
+Inter American University of Puerto Rico-Ponce Campus (Mercedita) <br />
+Inter American University of Puerto Rico San German Campus (San German) <br />
+Inter American University of Puerto Rico (San Juan) <br />
+Inter American University of Puerto Rico School of Law (San Juan) <br />
+Inter American University of Puerto Rico School of Optometry (Hato Rey) <br />
+International Junior College (Bayamon) <br />
+International Junior College (Humacao) <br />
+International Junior College (Ponce) <br />
+International Junior College (San Juan) <br />
+International Technical College (San Juan) <br />
+J G Guaynabo Technical College (Guaynabo) <br />
+John Dewey College (Bayamon) <br />
+John Dewey College (Carolina) <br />
+John Dewey College (San Juan) <br />
+Leston College (Bayamon) <br />
+Liceo de Arte, Disenos y Comercio (Caguas) <br />
+Liceo de Arte y Tecnologia (Hato Rey) <br />
+MBTI Business Training Institute, Aguadilla Branch (Aguadilla) <br />
+MBTI Business Training Institute (Santurce) <br />
+Modern Hairstyling Institute (Arecibo) <br />
+Modern Hairstyling Institute (Bayamon) <br />
+Modern Hairstyling Institute (Carolina) <br />
+Modern Hairstyling Institute (Fajardo) <br />
+Montechlaro: Escuela Hoteleria y Artes (Rio Grande) <br />
+National College of Business and Technology (Arecibo) <br />
+National College of Business and Technology (Bayamon) <br />
+National College of Business and Technology (Rio Grande) <br />
+National Fashion & Beauty College (Rio Piedras) <br />
+Politec Institute (Ponce) <br />
+Ponce Paramedical College (Ponce) <br />
+Ponce School of Medicine (Ponce) <br />
+Ponce Technical School (Ponce) <br />
+Pontifical Catholic University of Puerto Rico Arecibo Campus (Arecibo) <br />
+Pontifical Catholic University of Puerto Rico (Mayaguez) <br />
+Pontifical Catholic University of Puerto Rico (Ponce) <br />
+Professional Electrical School (Manati) <br />
+Professional Technical Institution (Bayamon) <br />
+Puerto Rico Barber College (Fajardo) <br />
+Puerto Rico Tech Junior College (Hato Rey) <br />
+Puerto Rico Tech Junior College (Mayaguez) <br />
+Ramirez College of Business & Technology (Mayaguez) <br />
+Ramirez College of Business & Technology (San Juan) <br />
+Rogie's School of Beauty Culture (Caguas) <br />
+Rogie's School of Beauty Culture (San Juan) <br />
+Rosslyn Training Academy of Cosmetology, Inc. (Aguada) <br />
+San Juan Bautista School of Medicine (Caguas) <br />
+Serbia's Technical College (Guayama) <br />
+Sistema Universitario Ana G. Mendez Universidad del Este (Carolina) <br />
+Sistema Universitario Ana G. Mendez Universidad del Turabo (Gurabo) <br />
+Sistema Universitario Ana G. Mendez Universidad Metropolitana (San Juan) <br />
+Star Career College (Bayamon) <br />
+Trinity College of Puerto Rico (Ponce) <br />
+Universal Career Counseling Center (Manati) <br />
+Universal Career Counseling Center (San Juan) <br />
+Universal Career Counseling-Humacao Cent (Humacao) <br />
+Universal Technology Coll of Puerto Rico (Aguadilla) <br />
+Universal Technology Coll of Puerto Rico (Camuy) <br />
+Universidad Adventista de las Antillas (Mayaguez) <br />
+Universidad Central del Caribe (Bayamon) <br />
+Universidad Politecnica de Puerto Rico (San Juan) <br />
+University College of Criminal Justice of Puerto Rico (Gurabo) <br />
+University College of San Juan (San Juan) <br />
+University of the Sacred Heart (San Juan) <br />
+UPR - Aguadilla (Aguadilla) <br />
+UPR - Arecibo (Arecibo) <br />
+UPR - Bayamon (Bayamon) <br />
+UPR - Carolina (Carolina) <br />
+UPR - Cayey (Cayey) <br />
+UPR - Humacao (Humacao) <br />
+UPR - Mayaguez (Mayaguez) <br />
+UPR - Medical Sciences Campus (San Juan) <br />
+UPR - Ponce (Ponce) <br />
+UPR - Rio Piedras Campus (San Juan) <br />
+UPR - Utuado (Utuado) </p>
+
+<p><br />
+<font face="Arial"><strong>Trust Terr Pac Island: Palau</strong></font><br />
+<br />
+Palau Community College (Formerly Micronesia Occupational College) (Koror)</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

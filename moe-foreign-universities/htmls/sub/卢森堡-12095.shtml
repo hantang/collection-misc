@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>卢森堡</h1></div><div style="text-align:center;padding-top:5px;">2015年12月9日</div><div class="gwCon"><div class="gw"><div class="tit2"><p>1</p><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>卢森堡高等教育由本科教育和研究生教育组成，授予学士、硕士和博士学位。第一阶段为本科教育，学制6-8个学期，授予学士学位；第二阶段为硕士研究生教育，学制2-4个学期，授予硕士学位；第三阶段为博士研究生教育，学制3年。卢森堡是博洛尼亚进程和欧洲学分转换体系（European Credit Transfer and Accumulation System, ECTS）的成员。本科阶段学习一般须在6个学期内取得180个ECTS学分。在特殊情况下，须在8个学期内取得240个ECTS学分。硕士阶段学习一般须在2年内取得120个ECTS学分。也有一年制硕士学习，须完成60个ECTS学分。申请一年制硕士学习的学生须在本科阶段完成240个ECTS学分，即本科和硕士加起来须完成300个ECTS学分。</p><p>卢森堡大学建于2003年，是卢森堡目前唯一的大学，也是其高等教育的主要承担者。卢森堡大学是一所多语言、多科性的综合研究型大学，有三个学院（科学、技术和通讯学院；法律、经济和金融学院；语言、文学、人文艺术和教育学院）和两个跨学科研究中心。卢森堡大学可授予学士、硕士和博士学位。</p><p>除内部评估外，卢森堡大学每4年接受一次外部评估委员会的评估，涉及管理、教育、研究和教职员工表现，评估结论和建议将被纳入卢森堡大学下一个4年的发展计划。评估报告可在卢森堡大学网站上公开查询。</p></div></div><div class="gw"><div class="tit2"><p>2</p><h2>名单</h2></div><div class="gwList"><p>学校名称：L’Université du Luxembourg（法语）</p><p>英文译名：The University of Luxembourg</p><p>中文译名：卢森堡大学</p><p>官方网址：www.uni.lu</p><p>备注：</p></div><div class="gwList"><p>外文校名:LUNEX International University of Health,Exercise&amp;Sports</p><p>中文校名:LUNEX健康与体育国际大学</p><p>官方网址:<a href="https://www.lunex-university.net/">https://www.lunex-university.net/</a><br/></p><p>备注:2017年11月28日发布有关LUNEX健康与体育国际大学作为高等教育专业院校开设的以下五个专业课程受教育部认可的部级政令。硕士层次学制四个学期，获得120欧洲学分；学士层次学制六个学期，获得180欧洲学分。<br/>理疗（学士）Physiotherapy (Bachelor)；<br/>理疗（硕士）Physiotherapy (Master)；<br/>运动与体育科学--人体运动（学士）Exercise and Sports Science (Human Movement, Bachelor)；<br/>国际体育管理（学士)International Sport Management (Bachelor)<br/>运动理疗（硕士）Sport Physiotherapy (Master)；</p></div><div class="gwList"><p>外文校名:Luxembourg School of Business</p><p>中文校名:卢森堡商学院</p><p>官方网址:<a href="https://www.lunex-university.net/">https://luxsb.lu/</a></p><p>备注:<br/></p></div><div class="gwList"><p>学校名称：United Business Institutes Luxembourg</p><p>中文译名：卢森堡联合商学院</p><p>官方网址：www.ubi.edu</p><p>备注：</p></div><div class="gwList"><p>学校名称：Brussels Business Institute BBI Luxembourg</p><p>中文译名：卢森堡国际酒店旅游学院</p><p>官方网址：www.bbi-edu.eu</p><p>备注：</p></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12095"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

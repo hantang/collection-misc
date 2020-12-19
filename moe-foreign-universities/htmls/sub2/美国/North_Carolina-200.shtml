@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：North Carolina</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><br/><span style="font-family:Arial"><strong>North Carolina</strong></span><br/><br/>Alamance Community College (Graham)<br/>Anson College of Cosmetology (Wadesboro)<br/>Apex School of Theology (Durham)<br/>Appalachian State University (Boone)<br/>The Art Institute of Charlotte (Charlotte)<br/>Asheville-Buncombe Technical Community College (Asheville)<br/>Barber-Scotia College (Concord)<br/>Barton College (Wilson)<br/>Beaufort County Community College (Washington)<br/>Belmont Abbey College (Belmont)<br/>Bennett College (Greensboro)<br/>Bladen Community College (Dublin)<br/>Blue Ridge Community College (Flat Rock)<br/>Brevard College (Brevard)<br/>Brookstone College of Business (Charlotte)<br/>Brookstone College of Business (Greensboro)<br/>Brunswick Community College (Supply)<br/>Bureau of Medicine and Surgery - Branch Campus (Camp Lejuene)<br/>Cabarrus College of Health Sciences (Concord)<br/>Caldwell Community College and Technical Institute (Hudson)<br/>Campbell University (Buies Creek)<br/>Campbell University Divinity School (Buies Creek)<br/>Cape Fear Community College (Wilmington)<br/>Carolina Academy of Cosmetic Art &amp; Science (Gastonia)<br/>Carolina Beauty College - Branch Campus (Charlotte)<br/>Carolina Beauty College - Branch Campus (Durham)<br/>Carolina Beauty College - Branch Campus (Greensboro)<br/>Carolina Beauty College - Branch Campus (Salisbury)<br/>Carolina Beauty College - Branch Campus (Winston-Salem)<br/>Carolina Beauty College (High Point)<br/>Carolinas College of Health Sciences (Charlotte)<br/>Carteret Community College (Morehead City)<br/>Catawba College (Salisbury)<br/>Catawba Valley Community College (Hickory)<br/>Central Carolina Community College (Sanford)<br/>Central Piedmont Community College (Charlotte)<br/>Cheveux School Hair Design and Hairport, Inc. (Jacksonville)<br/>Chowan College (Murfreesboro)<br/>Cleveland Community College (Shelby)<br/>Coastal Carolina Community College (Jacksonville)<br/>College of The Albemarle (Elizabeth City)<br/>The Cosmetology Institute of Beauty Arts &amp; Science (Winston Salem)<br/>Craven Community College (New Bern)<br/>Davidson College (Davidson)<br/>Davidson County Community College (Lexington)<br/>Dudley Beauty College (Charlotte)<br/>Dudley Beauty College (Durham)<br/>Dudley Cosmetology University (Kernersville)<br/>Duke University Divinity School (Durham)<br/>Duke University (Durham)<br/>Durham Technical Community College (Durham)<br/>E. J. Taylor Corporation (Greensboro)<br/>East Carolina University (Greenville)<br/>ECPI Technical College (Raleigh)<br/>Edgecombe Community College (Tarboro)<br/>Elizabeth City State University (Elizabeth City)<br/>Elon University (Elon)<br/>Empire Beauty School (Matthew)<br/>Fayetteville Beauty College (Fayetteville)<br/>Fayetteville State University (Fayetteville)<br/>Fayetteville Technical Community College (Fayetteville)<br/>Forsyth Technical Community College (Winston-Salem)<br/>Gardner-Webb University (Boiling Springs)<br/>Gaston College (Dallas)<br/>Greensboro College (Greensboro)<br/>Guilford College (Greensboro)<br/>Guilford Technical Community College (Jamestown)<br/>Hairstyling Institute of Charlotte (Charlotte)<br/>Hairstylist Academy, Inc. (Statesville)<br/>Halifax Community College (Weldon)<br/>Haywood Community College (Clyde)<br/>Heritage Bible College (Dunn)<br/>High Point University (High Point)<br/>Hood Theological Seminary (Salisbury)<br/>Isothermal Community College (Spindale)<br/>James Sprunt Community College (Kenansville)<br/>John Wesley College (High Point)<br/>Johnson C. Smith University (Charlotte)<br/>Johnston Community College (Smithfield)<br/>King&#39;s College (Charlotte)<br/>Lees-McRae College (Banner Elk)<br/>Lenoir Community College (Kinston)<br/>Lenoir-Rhyne College (Hickory)<br/>Leon&#39;s Beauty School (Greensboro)<br/>Livingstone College (Salisbury)<br/>Louisburg College (Louisburg)<br/>M. Christopher White School of Divinity of Gardner-Webb University (Boiling Springs)<br/>Maria Parham Hospital School of Medical Technology (Henderson)<br/>Mars Hill College (Mars Hill)<br/>Martin Community College (Williamston)<br/>Mayland Community College (Spruce Pine)<br/>McDowell Technical Community College (Marion)<br/>Medical Arts Massage School (Raleigh)<br/>Meredith College (Raleigh)<br/>Methodist University（Fayetteville）<br/>Miller-Motte Technical College (Wilmington)<br/>Mitchell Community College (Statesville)<br/>Mitchell&#39;s Hair Styling Academy (Raleigh)<br/>Mitchell&#39;s Hairstyling Academy (Fayetteville)<br/>Mitchell&#39;s Hairstyling Academy (Goldsboro)<br/>Mitchell&#39;s Hairstyling Academy (Greenville)<br/>Mitchell&#39;s Hairstyling Academy (Wilson)<br/>Montgomery Community College (Troy)<br/>Montreat College (Montreat)<br/>Mount Olive College (Mount Olive)<br/>Mr. David&#39;s School of Hair Design (Wilmington)<br/>NASCAR Technical Institute - A Division (Mooresville)<br/>Nash Community College (Rocky Mount)<br/>North Carolina Agricultural and Technical State University (Greensboro)<br/>North Carolina Central University (Durham)<br/>North Carolina School of the Arts (Winston-Salem)<br/>North Carolina State University (Raleigh)<br/>North Carolina Wesleyan College (Rocky Mount)<br/>Oconaluftee Job Corps Civilian Conservation Center (Cherokee)<br/>Pamlico Community College (Grantsboro)<br/>Peace College (Raleigh)<br/>Pfeiffer University (Misenheimer)<br/>Piedmont Baptist College (Winston-Salem)<br/>Piedmont Community College (Roxboro)<br/>Pitt Community College (Greenville)<br/>Queens University of Charlotte (Charlotte)<br/>Randolph Community College (Asheboro)<br/>Richmond Community College (Hamlet)<br/>Roanoke Bible College (Elizabeth City)<br/>Roanoke-Chowan Community College (Ahoskie)<br/>Robeson Community College (Lumberton)<br/>Rockingham Community College (Wentworth)<br/>Rowan-Cabarrus Community College (Salisbury)<br/>St. Andrews Presbyterian College (Laurinburg)<br/>Saint Augustine&#39;s College (Raleigh)<br/>Salem College (Winston-Salem)<br/>Sampson Community College (Clinton)<br/>Sandhills Community College (Pinehurst)<br/>Schenck Civilian Conservation Center (Pisgah Forest)<br/>School of Communication Arts (Raleigh)<br/>Shaw University Divinity School (Raleigh)<br/>Shaw University (Raleigh)<br/>South College (Asheville)<br/>South Piedmont Community College (Polkton)<br/>Southeastern Baptist Theological Seminary (Wake Forest)<br/>The Southeastern Baptist Theological Seminary (Wake Forest)<br/>Southeastern Community College (Whiteville)<br/>Southeastern School of Neuromuscular (Charlotte)<br/>Southern Evangelical Seminary (Matthews)<br/>Southwestern Community College (Sylva)<br/>Stanly Community College (Albemarle)<br/>Surry Community College (Dobson)<br/>Tri-County Community College (Murphy)<br/>Universal College of Beauty, Inc., Branch #2 (Charlotte)<br/>The University of North Carolina at Asheville (Asheville)<br/>The University of North Carolina at Chapel Hill (Chapel Hill)<br/>The University of North Carolina at Charlotte (Charlotte)<br/>The University of North Carolina at Greensboro (Greensboro)<br/>University of North Carolina at Pembroke (Pembroke)<br/>The University of North Carolina at Wilmington (Wilmington)<br/>Vance Granville Community College (Henderson)<br/>Wake Forest University Divinity School (Winston-Salem)<br/>Wake Forest University (Winston-Salem)<br/>Wake Technical Community College (Raleigh)<br/>Warren Wilson College (Asheville)<br/>Wayne Community College (Goldsboro)<br/>Western Carolina University (Cullowhee)<br/>Western Piedmont Community College (Morganton)<br/>Wilkes Community College (Wilkesboro)<br/>Wilson Technical Community College (Wilson)<br/>Wingate University (Wingate)<br/>Winston-Salem Barber School (Winston Salem)<br/>Winston-Salem Bible College (Winston Salem)<br/>Winston-Salem State University (Winston-Salem)</p><p>英文校名：Northeastern University (Charlotte)<br/>中文校名：东北大学（夏洛特）<br/>官方网址：https://www.northeastern.edu/charlotte/<br/>备注：&quot;东北大学经新英格兰高等教育机构委员会<br/>(New England Commission of Higher Education)认证。新英格兰高等教育机构委员会为地区性认证机构，此认证机构经美国高等教育认证委员会（CHEA）和美国教育部（USDE）认可。东北大学可颁发副学士、学士、硕士、博士学位。&quot;</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

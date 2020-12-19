@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Michigan</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><br /><font face="Arial"><strong>Michigan</strong></font><br /><br />&nbsp;</p><p>Academy of Court Reporting (Clawson)<br />Adrian Beauty Academy, Inc. (Adrian)<br />Adrian College (Adrian)<br />Albion College (Albion)<br />Alma College (Alma)<br />Alpena Community College (Alpena)<br />Andrews University (Berrien Springs)<br />Ann Arbor Institute of Massage Therapy (Ann Arbor)<br />Aquinas College (Grand Rapids)<br />Baker College (Flint)<br />Bay de Noc Community College (Escanaba)<br />Bay Mills Community College (Brimley)<br />Bayshire Beauty Academy (Bay City)<br />Blue Water College of Cosmetology (Marysville)<br />Booker Institute of Cosmetology (Muskegon)<br />Calvin College (Grand Rapids)<br />Calvin Theological Seminary (Grand Rapids)<br />Carnegie Institute (Troy)<br />Center for Humanistic Studies (Detroit)<br />Central Michigan University (Mount Pleasant)<br />Charles Stewart Mott Community College (Flint)<br />Chic University of Cosmetology (Grand Rapids)<br />Chic University of Cosmetology (Portage)<br />Cleary University (Ann Arbor)<br />College for Creative Studies (Detroit)<br />Concordia University (Ann Arbor)<br />Cornerstone University (Grand Rapids)<br />Cranbrook Academy of Art (Bloomfield Hills)<br />Creative Hair School of Cosmetology (Flint)<br />Davenport University (Grand Rapids)<br />David Pressley Professional School of Cosmetology (Royal Oak)<br />Delta College (University Center)<br />Detroit Business Institute-Downriver (Riverview)<br />Detroit Business Institute-Southfield (Southfield)<br />Dorsey Business School (Madison Heights)<br />Dorsey Business School (Roseville)<br />Dorsey Business School (Southgate)<br />Dorsey Business School (Wayne)<br />Douglas J Aveda Institute, Inc. (East Lansing)<br />Eastern Michigan University (Ypsilanti)<br />Ferris State University (Big Rapids)<br />Finlandia University (Hancock)<br />Flint Institute of Barbering (Flint)<br />Focus: HOPE Machinist Training Institute (Detroit)<br />The Gallery College of Beauty (Clinton Township)<br />Glen Oaks Community College (Centreville)<br />Gogebic Community College (Ironwood)<br />Grace Bible College (Grand Rapids)<br />Grand Rapids Baptist Seminary (Grand Rapids)<br />Grand Rapids Community College (Grand Rapids)<br />Grand Valley State University (Allendale)<br />Great Lakes Academy of Hair Design (Port Huron)<br />Great Lakes Christian College (Lansing)<br />Health Enrichment Center (Lapeer)<br />Henry Ford Community College (Dearborn)<br />Hillsdale Beauty College (Hillsdale)<br />Hillsdale College (Hillsdale)<br />Hope College (Holland)<br />Houghton Lake Institute of Cosmetology (Houghton Lake)<br />Howell College of Cosmetology (Howell)<br />In Session, Arts of Cosmetology Beauty School (Saginaw)<br />International Academy of Design and Technology (Troy)<br />Irene's Myomassology Institute, Inc. (Southfield)<br />ITT Technical Institute (Canton)<br />ITT Technical Institute (Grand Rapids)<br />ITT Technical Institute (Troy)<br />Jackson Community College (Jackson)<br />Kalamazoo College (Kalamazoo)<br />Kalamazoo Valley Community College (Kalamazoo)<br />Kellogg Community College (Battle Creek)<br />Kettering University (Flint)<br />Kirtland Community College (Roscommon)<br />K.S.A. Academy of Cosmetology (Jackson)<br />Lake Michigan College (Benton Harbor)<br />Lake Superior State University (Sault Ste. Marie)<br />Lansing Community College (Lansing)<br />Lawrence Technological University (Southfield)<br />Lawton School (Southfield)<br />M. J. Murphy Beauty College (Mt. Pleasant)<br />Macomb Community College (Warren)<br />Madonna University (Livonia)<br />Marygrove College (Detroit)<br />Michigan Barber School (Detroit)<br />Michigan College of Beauty (Monroe)<br />Michigan College of Beauty (Troy)<br />Michigan College of Beauty (Waterford)<br />Michigan Institute of Aeronautics (Belleville)<br />Michigan Jewish Institute (Oak Park)<br />Michigan State University (East Lansing)<br />Michigan Technological University (Houghton)<br />Michigan Theological Seminary (Plymouth)<br />Mid Michigan Community College (Harrison)<br />Monroe County Community College (Monroe)<br />Montcalm Community College (Sidney)<br />Mr. Bela's School of Cosmetology (Madison Heights)<br />Mr. David's School of Cosmetology Ltd. (Flint)<br />Muskegon Community College (Muskegon)<br />National Institute of Technology (Dearborn)<br />National Institute of Technology (Southfield)<br />North Central Michigan College (Petoskey)<br />Northern Michigan University (Marquette)<br />Northwestern Michigan College (Traverse City)<br />Northwestern Technological Institute (Southfield)<br />Northwood University (Midland)<br />Oakland Community College (Bloomfield Hills)<br />Oakland University (Rochester)<br />Olivet College (Olivet)<br />Olympia Career Training Institute - Grand Rapids (Grand Rapids)<br />Olympia Career Training Institute - Kalamazoo (Kalamazoo)<br />Ralph Nichols Group, Inc. (Livonia)<br />Reformed Bible College (Grand Rapids)<br />Rochester College (Rochester Hills)<br />Ross Medical Education Center (Ann Arbor)<br />Ross Medical Education Center (Brighton)<br />Ross Medical Education Center (Flint)<br />Ross Medical Education Center (Grand Rapids)<br />Ross Medical Education Center (Lansing)<br />Ross Medical Education Center (Port Huron)<br />Ross Medical Education Center (Redford)<br />Ross Medical Education Center (Roosevelt Park)<br />Ross Medical Education Center (Saginaw)<br />Ross Medical Education Center (Warren)<br />Sacred Heart Major Seminary (Detroit)<br />Saginaw Valley State University (University Center)<br />St. Clair County Community College (Port Huron)<br />Sally Esser Beauty School (Dearborn Heights)<br />The School of Creative Hair Design, Inc. (Coldwater)<br />Schoolcraft College (Livonia)<br />SER Business & Technical Institute (Detroit)<br />Seventh-day Adventist Theological Seminary of Andrews University (Berrien Springs)<br />Sharps Academy of Hairstyling (Flushing)<br />Sharps Academy of Hairstyling (Grand Blanc)<br />Siena Heights University (Adrian)<br />Southwestern Michigan College (Dowagiac)<br />Specs Howard School of Broadcast Arts (Southfield)<br />Spring Arbor University (Spring Arbor)<br />SS. Cyril & Methodius Seminary (Orchard Lake)<br />Taylortown School of Beauty (Taylor)<br />Thomas M. Cooley Law School (Lansing)<br />Twin City Beauty College (St. Joseph)<br />University of Detroit Mercy (Detroit)<br />University of Michigan (Ann Arbor)<br />University of Michigan-Dearborn (Dearborn)<br />University of Michigan-Flint (Flint)<br />U.P. Academy of Hair Design Inc. (Escanaba)<br />Virginia Farrell Beauty School (Ferndale)<br />Virginia Farrell Beauty School (Livonia)<br />Virginia Farrell Beauty School (St. Clair Shores)<br />Virginia Farrell Beauty School (Westland)<br />Walsh College of Accountancy and Business Administration (Troy)<br />Washtenaw Community College (Ann Arbor)<br />Wayne County Community College District (Detroit)<br />Wayne State University (Detroit)<br />West Michigan College of Barbering and Beauty (Kalamazoo)<br />West Shore Community College (Scottville)<br />Western Michigan University (Kalamazoo)<br />Western Theological Seminary (Holland)<br />William Tyndale College (Farmington Hills)<br />Wright Beauty Academy (Battle Creek)<br />Wright Beauty Academy (Portage)<br />Yeshiva Beth Yehuda - Yeshiva Gedolah of Greater Detroit (Oak Park)</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

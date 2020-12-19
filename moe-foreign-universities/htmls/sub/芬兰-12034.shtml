@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>芬兰</h1></div><div style="text-align:center;padding-top:5px;">2019年07月30日</div><div class="gwCon"><div class="gw"><div class="tit2"><p>1</p><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>芬兰高校分为两类，一类是大学，包括音乐、戏剧、美术和商学院等具有大学地位的学院，特点是开设本科、硕士和博士学位课程。除教学外，还从事科研，有教授职位。另一类是高等技术学院，特点是只有本科学位课程，不设立教授职位。高等技术学院提供的是高等职业教育，重视综合应用技术教育，特别关注与企业界的联系，学生毕业后可获学士学位。近几年，芬兰的一些技术学院将自己的英文名称改为“XXXX University of Applied Science”，并用在自己的网站以及对外招生宣传中，但是其芬兰语名称不变，教学内容也没有变，芬兰教育部网站关于这类院校的名称也仍使用“XX Polytechnic”。</p><p>芬兰学位制度中设有学士、硕士、博士学位。学士学位学制3年，学生一般应获得180个学分才能获颁学位。申请攻读硕士学位需已获学士学位，学制2年，修完120个学分可获颁学位。已获硕士学位，攻读博士学位至少再需要3年的时间。</p><p>芬兰大学一般用芬兰语或瑞典语授课，但也有英语授课的国际课程。</p><p>芬兰大学一学年为两学期制，秋季和春季。秋季学期从9月初开始至12月底结束；春季学期从1月中至5月底结束。</p><p><br/></p></div></div><div class="gw"><div class="tit2"><p>2</p><h2>名单</h2></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">大学：</div><div class="gwList"><p>英文（或者源语言）校名：Aalto University</p><p>中文校名：阿尔托大学</p><p>官方网址：https://www.aalto.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Hanken School of Economics</p><p>中文校名：汉肯经济学院</p><p>官方网址：https://www.hanken.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Lappeenranta University of Technology</p><p>中文校名：拉彭兰塔工业大学</p><p>官方网址：https://www.lut.fi/web/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Helsinki</p><p>中文校名：赫尔辛基大学</p><p>官方网址：https://www.helsinki.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Eastern Finland</p><p>中文校名：东芬兰大学</p><p>官方网址：http://www.uef.fi/en/etusivu</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of the Arts Helsinki</p><p>中文校名：赫尔辛基艺术大学</p><p>官方网址：https://www.uniarts.fi/en</p><p>备注：由Academy of Fine Arts 、Sibelius Academy、Theatre Academy合并而来</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Jyväskylä</p><p>中文校名：于韦斯屈莱大学</p><p>官方网址：https://www.jyu.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Lapland</p><p>中文校名：拉普兰大学</p><p>官方网址：https://www.ulapland.fi/EN</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Oulu</p><p>中文校名：奥卢大学</p><p>官方网址：https://www.oulu.fi/university/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Tampere University</p><p>中文校名：坦佩雷大学</p><p>官方网址：https://www.tuni.fi/en</p><p>备注：由于University of Tampere和Tampere University of Technology合并后的新名字是Tampere University，建议名单中的University of Tampere按照芬兰教育与文化部官网上的Tampere University书写。</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Turku</p><p>中文校名：图尔库大学</p><p>官方网址：http://www.utu.fi/en/Pages/home.aspx</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Vaasa</p><p>中文校名：瓦萨大学</p><p>官方网址：https://www.univaasa.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Åbo Akademi University</p><p>中文校名：奥博学术大学</p><p>官方网址：http://www.abo.fi/?lang=en</p><p>备注：</p></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">应用科学大学：</div><div class="gwList"><p>英文（或者源语言）校名：Arcada University of Applied Sciences</p><p>中文校名：阿卡达应用科学大学</p><p>官方网址：https://www.arcada.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Centria University of Applied Sciences</p><p>中文校名：芬兰中央应用科技大学</p><p>官方网址：https://web.centria.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Diaconia University of Applied Sciences</p><p>中文校名：迪亚科尼亚应用科学大学</p><p>官方网址：https://www.diak.fi/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Haaga-Helia University of Applied Sciences</p><p>中文校名：哈格哈里亚应用科学大学</p><p>官方网址：http://www.haaga-helia.fi/en/frontpage</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Humak University of Applied Sciences</p><p>中文校名：胡马克应用科学大学</p><p>官方网址：https://www.humak.fi/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Häme University of Applied Sciences</p><p>中文校名：海门应用科学大学</p><p>官方网址：https://www.hamk.fi/?lang=en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Jyväskylä University of Applied Sciences</p><p>中文校名：于韦斯屈莱应用科学大学</p><p>官方网址：https://www.jamk.fi/en/Home/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：South-Eastern Finland University of Applied Sciences（XAMK）</p><p>中文校名：芬兰东南应用科学大学</p><p>官方网址：https://www.xamk.fi/en/frontpage/</p><p>备注：由Kymenlaakso Polytechnic 、 Mikkeli Polytechnic &nbsp;合并而来</p></div><div class="gwList"><p>英文（或者源语言）校名：Kajaani University of Applied Sciences</p><p>中文校名：卡亚尼应用科学大学</p><p>官方网址：https://www.kamk.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Karelia University of Applied Sciences</p><p>中文校名：卡莱利亚应用科学大学</p><p>官方网址：http://www.karelia.fi/en/</p><p>备注：North Karelia Polytechnic &nbsp;更名为Karelia University of Applied Sciences</p></div><div class="gwList"><p>英文（或者源语言）校名：Lahti University of Applied Sciences</p><p>中文校名：拉赫蒂应用科学大学</p><p>官方网址：https://www.lamk.fi/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Lapland University of Applied Sciences</p><p>中文校名：拉普兰应用科学大学</p><p>官方网址：http://www.lapinamk.fi/en</p><p>备注：由Kemi-Tornio Polytechnic、Rovaniemi Polytechnic 合并而来</p></div><div class="gwList"><p>英文（或者源语言）校名：Laurea University of Applied Sciences</p><p>中文校名：罗约阿应用科学大学</p><p>官方网址：https://www.laurea.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Metropolia University of Applied Sciences</p><p>中文校名：城市应用科学大学</p><p>官方网址：http://www.metropolia.fi/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Novia University of Applied Sciences</p><p>中文校名：诺维阿应用科学大学</p><p>官方网址：https://www.novia.fi/novia-uas/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Oulu University of Applied Sciences</p><p>中文校名：奥卢应用科学大学</p><p>官方网址：https://www.oamk.fi/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Saimaa University of Applied Sciences</p><p>中文校名：塞马应用科学大学</p><p>官方网址：https://www.saimia.fi/en-fi/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Satakunta University of Applied Sciences</p><p>中文校名：萨塔昆塔应用科学大学</p><p>官方网址：http://www.samk.fi/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Savonia University of Applied Sciences</p><p>中文校名：萨沃尼亚应用科学大学</p><p>官方网址：http://portal.savonia.fi/amk/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Seinäjoki University of Applied Sciences</p><p>中文校名：塞伊奈约基应用科学大学</p><p>官方网址：http://www.seamk.fi/en</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Tampere University of Applied Sciences</p><p>中文校名：坦佩雷应用科学大学</p><p>官方网址：http://www.tamk.fi/web/tamken/home</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Turku University of Applied Sciences</p><p>中文校名：图尔库应用科学大学</p><p>官方网址：https://www.tuas.fi/en/</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Vaasa University of Applied Sciences</p><p>中文校名：瓦萨应用科学大学</p><p>官方网址：http://www.puv.fi/en/</p><p>备注：</p></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12034"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

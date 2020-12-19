@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Ohio</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p><span style="font-family:Arial"><strong>Ohio</strong></span><br/><br/>Academy of Court Reporting (Akron)<br/>Academy of Court Reporting (Cincinnati)<br/>Academy of Court Reporting (Cleveland)<br/>Academy of Court Reporting (Columbus)<br/>AEC Southern Ohio College (Akron)<br/>AEC Southern Ohio College (Cincinnati)<br/>AEC Southern Ohio College (Findlay)<br/>AEC Southern Ohio College-North Canton (North Canton)<br/>Air Force Institute of Technology (Wright-Patterson AFB)<br/>Akron Institute (Cuyahoga Falls)<br/>Akron Machining Institute (Norton)<br/>Allegheny Wesleyan College (Salem)<br/>American Institute of Alternative Med. (Columbus)<br/>American School of Technology (Columbus)<br/>Antioch University (Yellow Springs)<br/>Antonelli College (Cincinnati)<br/>Art Academy of Cincinnati (Cincinnati)<br/>The Art Institute of Cincinnati (Cincinnati)<br/>Ashland Theological Seminary (Ashland)<br/>Ashland University (Ashland)<br/>Athenaeum of Ohio (Cincinnati)<br/>ATS Institute of Technology (Highland Heights)<br/>Aveda Fredric&#39;s Institute (Cincinnati)<br/>Baldwin-Wallace College (Berea)<br/>Beatrice Academy of Beauty (Cleveland)<br/>Belmont Technical College (St. Clairsville)<br/>Bluffton College (Bluffton)<br/>Bohecker&#39;s College (Ravenna)<br/>Bowling Green State University (Bowling Green)<br/>Bradford School (Columbus)<br/>Brown Aveda Institute (Mentor)<br/>Capital University (Columbus)<br/>Carnegie Institute of Integrative Medicine and Massotherapy (Suffield)<br/>Carousel Beauty College (Dayton)<br/>Carousel Beauty College (Kettering)<br/>Carousel Beauty College (Middletown)<br/>Carousel Beauty College (Springfield)<br/>Carousel of Miami Valley Beauty College (Huber Heights)<br/>Case Western Reserve University (Cleveland)<br/>Cedarville University (Cedarville)<br/>Central Ohio Technical College (Newark)<br/>Central State University (Wilberforce)<br/>Century School of Cosmetology, Inc. (Steubenville)<br/>Charmayne Beauty Academy (Maple Heights)<br/>Chatfield College (St. Martin)<br/>CIMS College (Whitehall)<br/>Cincinnati Bible College (CINCINNATI)<br/>Cincinnati Bible College and Seminary (Cincinnati)<br/>Cincinnati Bible Seminary (Cincinnati)<br/>Cincinnati College of Mortuary Science (Cincinnati)<br/>Cincinnati State Technical and Community College (Cincinnati)<br/>Circleville Bible College (Circleville)<br/>Clark State Community College (Springfield)<br/>Cleveland Institute of Art (Cleveland)<br/>Cleveland Institute of Dental and (Lyndhurst)<br/>Cleveland Institute of Dental and (Mentor)<br/>Cleveland Institute of Dental (Cleveland)<br/>Cleveland Institute of Music (Cleveland)<br/>Cleveland State University (Cleveland)<br/>College of Art Advertising (Cincinnati)<br/>College of Mount St. Joseph (Cincinnati)<br/>College of Wooster (Wooster)<br/>Columbus College of Art and Design (Columbus)<br/>Columbus State Community College (Columbus)<br/>Computer Quest Technical Institute (Parma Heights)<br/>Conservatory of Cosmetology (Columbus)<br/>Creative Images-A Certified Matrix Design Academy (Dayton)<br/>Creative Images-A Certified Matrix Design Academy (Fairborn)<br/>Cuyahoga Community College (Cleveland)<br/>Dale Carnegie Training of Northwest Ohio and Northern Indiana (Perrysburg)<br/>David N. Myers University (Cleveland)<br/>Davis College (Toledo)<br/>Dayton Barber College (Dayton)<br/>Defense Acquisition University - Branch Campus (Dayton)<br/>Defense Institute of Security Assistance Management (Wright-Patterson AFB)<br/>Defiance College (Defiance)<br/>Denison University (Granville)<br/>Eastern Hills Academy of Hair Design (Cincinnati)<br/>Ed W. Grooms & Associates, Inc. (Cincinnati)<br/>Edison State Community College (Piqua)<br/>EduTek Training Center (Akron)<br/>ETI Technical College of Niles (Niles)<br/>Euclid Beauty College (Euclid)<br/>Fairview Academy (Fairview Park)<br/>Franciscan University of Steubenville (Steubenville)<br/>Franklin University (Columbus)<br/>Gallipolis Career College (Gallipolis)<br/>Gerber Akron Beauty School (Fairlawn)<br/>God&#39;s Bible School and College (Cincinnati)<br/>Hair Academy (Austintown)<br/>Hamrick Truck Driving School (Medina)<br/>Healing Arts Institute (Perrysburg)<br/>Hebrew Union College-Jewish Institute of Religion (Cincinnati)<br/>Heidelberg University<br/>中文译名：海德堡大学<br/>官方网址：http://www.heidelberg.edu<br/>备注：该校于2009年由Heidelberg College 更名为现名<br/>Hiram College (Hiram)<br/>Hobart Institute of Welding Technology (Troy)<br/>Hocking College (Nelsonville)<br/>Hondros College (Westerville)<br/>Inner State Beauty School (Lyndhurst)<br/>Institute of Medical-Dental Technology (Cincinnati)<br/>International Academy of Hair Design (Cincinnati)<br/>International College of Broadcasting (Dayton)<br/>ITT Technical Institute (Dayton)<br/>ITT Technical Institute (Hilliard)<br/>ITT Technical Institute (Norwood)<br/>ITT Technical Institute (Strongsville)<br/>ITT Technical Institute (Youngstown)<br/>James A. Rhodes State College (Lima)<br/>Jefferson Community College (Steubenville)<br/>John Carroll University (University Heights)<br/>Kent State University (Kent)<br/>Kenyon College (Gambier)<br/>Kettering College of Medical Arts (Kettering)<br/>Lake Erie College (Painesville)<br/>Lakeland Community College (Kirtland)<br/>Lance Tyson & Associates (Cleveland)<br/>Laura and Alvin Siegal College of Judaic Studies (Beachwood)<br/>Lourdes University(Sylvania)<br/>Malone College (Canton)<br/>Marietta College (Marietta)<br/>Marion Technical College (Marion)<br/>MedCentral College of Nursing (Mansfield)<br/>Medical College of Ohio (Toledo)<br/>Mercy College of Northwest Ohio (Toledo)<br/>Methodist Theological School in Ohio (Delaware)<br/>Miami-Jacobs College (Dayton)<br/>Miami University (Oxford)<br/>Michael W. Jones & Associates, Inc. (Columbus)<br/>Moler-Hollywood Beauty College (Cincinnati)<br/>Moler-Pickens Beauty College (Fairfield)<br/>Moore Universite&#39; of Hair Design, Inc. (Cincinnati)<br/>Mount Carmel College of Nursing (Columbus)<br/>Mount Vernon Nazarene University (Mount Vernon)<br/>Muskingum Area Technical College (Zanesville)<br/>Muskingum <span style="font-family: "Calibri","sans-serif"; font-size: 10.5pt; mso-bidi-font-size: 11.0pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: &#39;Times New Roman&#39;; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA" lang="EN-US">University</span> (New Concord)<br/>National Beauty College (Canton)<br/>National Institute of Massotherapy, Inc. (Akron)<br/>National Institute of Technology (Cuyahoga Falls)<br/>Nationwide Beauty Academy (Columbus)<br/>North Central State College (Mansfield)<br/>Northeastern Ohio Universities College of Medicine (Rootstown)<br/>Northern Institute of Cosmetology (Lorain)<br/>Northwest State Community College (Archbold)<br/>Notre Dame College (South Euclid)<br/>Oberlin College (Oberlin)<br/>Ohio Academy of Holistic Health,Inc. (Xenia)<br/>Ohio Business College (Lorain)<br/>Ohio Business College (Sandusky)<br/>Ohio Center for Broadcasting (Cincinnati)<br/>Ohio Center for Broadcasting (Valley View)<br/>Ohio College of Massotherapy (Akron)<br/>Ohio College of Podiatric Medicine (Cleveland)<br/>Ohio Dominican University (Columbus)<br/>Ohio Institute of Health Careers (Columbus)<br/>Ohio Institute of Photography (Dayton)<br/>Ohio Northern University (Ada)<br/>Ohio State Beauty Academy (Lima)<br/>Ohio State College of Barber Styling (Columbus)<br/>Ohio State School of Cosmetology (Columbus)<br/>Ohio State School of Cosmetology East (Reynoldsburg)<br/>Ohio State School of Cosmetology-Northland (Columbus)<br/>Ohio State School of Cosmetology (Westerville)<br/>Ohio State University-Agricultural Technical Institute (Wooster)<br/>Ohio State University (Columbus)<br/>Ohio Technical College (Cleveland)<br/>Ohio University (Athens)<br/>Ohio Valley College of Technology (East Liverpool)<br/>Ohio Wesleyan University (Delaware)<br/>Otterbein College (Westerville)<br/>Owens Community College (Toledo)<br/>Paramount Beauty Academy (Portsmouth)<br/>Payne Theological Seminary (Wilberforce)<br/>Pontifical College Josephinum (Columbus)<br/>Professional Skills Institute (Toledo)<br/>Rabbinical College of Telshe (Wickliffe)<br/>Raphael&#39;s Salem Beauty Academy (Salem)<br/>Raphael&#39;s School of Beauty Culture, Inc. (Warren)<br/>Raphael&#39;s School of Beauty Culture (Niles)<br/>Raphael&#39;s School of Beauty Culture (Youngstown)<br/>Remington College-Cleveland Campus (Cleveland)<br/>RETS Tech Center (Centerville)<br/>Riggs Le Mar Beauty College (Cuyahoga Falls)<br/>Rosedale Bible College (Irwin)<br/>Saint Mary Seminary and Graduate School of Theology (Wickliffe)<br/>Sanford-Brown Institute (Middleburg Heights)<br/>School of Advertising Art (Kettering)<br/>Shawnee State University (Portsmouth)<br/>Sinclair Community College (Dayton)<br/>Southeastern Business College (Chillicothe)<br/>Southeastern Business College (Jackson)<br/>Southeastern Business College (Lancaster)<br/>Southeastern Business College (New Boston)<br/>Southern State Community College (Hillsboro)<br/>Southwestern College of Business (Cincinnati)<br/>Southwestern College of Business (Dayton)<br/>Southwestern College of Business (Franklin)<br/>The Spa School (Columbus)<br/>Stark State College of Technology (Canton)<br/>Stautzenberger College (Toledo)<br/>TDDS Technical Institute (Lake Milton)<br/>Technology Education College (Columbus)<br/>Temple Baptist College (Cincinnati)<br/>Terra State Community College (Fremont)<br/>Tiffin Academy of Hair Design (Tiffin)<br/>Tiffin University (Tiffin)<br/>Toledo Academy of Beauty Culture - East (Northwood)<br/>Toledo Academy of Beauty Culture-North (Toledo)<br/>Toledo Academy of Beauty Culture - South (Toledo)<br/>Total Technical Institute (Brooklyn)<br/>Tri County Beauty College (Cincinnati)<br/>Tri-State Bible College (South Point)<br/>Tri-State College of Massotherapy (North Lima)<br/>Tri-State Semi Driver Training, Inc. (Middletown)<br/>Trinity Lutheran Seminary (Columbus)<br/>Trumbull Business College (Warren)<br/>Union Institute & University (Cincinnati)<br/>United Theological Seminary (Dayton)<br/>University of Akron (Akron)<br/>University of Akron-Wayne College (Orrville)<br/>University of Cincinnati (Cincinnati)<br/>University of Cincinnati-Clermont College (Batavia)<br/>University of Cincinnati-Raymond Walters College (Cincinnati)<br/>University of Dayton (Dayton)<br/>University of Findlay (Findlay)<br/>University of Mount Union (Alliance)<br/>University of Northwestern Ohio (Lima)<br/>University of Rio Grande (Rio Grande)<br/>University of Toledo (Toledo)<br/>Urbana University (Urbana)<br/>Ursuline College (Pepper Pike)<br/>Valley Beauty School (Marietta)<br/>Valley Beauty School (Zanesville)<br/>Vatterott College-Cleveland (Broadview Heights)<br/>Virginia Marti College of Art & Design (Lakewood)<br/>Vogue Beauty Academy (Cleveland)<br/>Vogue Beauty Academy (Cleveland Heights)<br/>Walsh University (North Canton)<br/>Washington State Community College (Marietta)<br/>Western Hills School of Beauty and Hair Design (Cincinnati)<br/>Wilberforce University (Wilberforce)<br/>Wilmington College (Wilmington)<br/>Winebrenner Theological Seminary (Findlay)<br/>Wittenberg University (Springfield)<br/>Wright State University (Dayton)<br/>Xavier University (Cincinnati)<br/>The Youngstown Centre of Massotherapy (Struthers)<br/>Youngstown State University (Youngstown)</p><p><br/></p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>拉脱维亚</h1></div><div class="gwCon"><div class="gw"><div class="tit2">1<h2>高等教育体制简介</h2></div><div class="gwTxt"><p>拉脱维亚的高等教育由教育与科学部主管。</p><p>拉脱维亚已加入博洛尼亚进程，高校普遍实行学士、硕士和博士三级学位制度及欧洲学分转换系统（ECTS）。一般情况下，无论是大学还是其他高等教育机构大都同时开设学术课程和专业课程，具体可以分为:</p><p>一、可申请学术学位的学术课程: 学士,约3-4年；硕士,约2年。</p><p>二、可申请专业学位和专业资格证书的高等专业课程:专业学士,约4年；专业硕士,约2年。</p><p>三、可申请博士学位(科学学位)的博士课程,约3-4年。</p><p>通常本科毕业生可以继续攻读学术和专业型的硕士学位，硕士毕业生无论是学术型的还是专业型的都可以继续攻读博士课程。</p><p>拉脱维亚高校主要以拉脱维亚语教学，但大多数高校都能提供英语和俄语两种外语课程，外国学生到拉脱维亚学习必须熟练掌握所需的教学语言。</p><p>此次推荐的是20所大学，其教育质量和学术研究在拉脱维亚具有较高水平。</p></div></div><div class="gw"><div class="tit2">2<h2>名单</h2></div><div class="gwList"><p>英文（或者源语言）校名：Art Academy of Latvia</p><p>中文校名：拉脱维亚艺术学院</p><p>官方网址：http://www.lma.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：BA School of Business and Finance</p><p>中文校名：BA商学与金融学院</p><p>官方网址： http://www.ba.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：EKA University of Applied Sciences</p><p>中文校名：EKA应用科学大学</p><p>官方网址：https://www.augstskola.lv/</p><p>备注：拉脱维亚语校名：Ekonomikas un kultūras augstskola，直译为：高等经济与文化学院</p></div><div class="gwList"><p>英文（或者源语言）校名：Jāzeps Vītols Latvian Academy of Music</p><p>中文校名：约瑟夫惠特尔拉脱维亚音乐学院</p><p>官方网址： http://www.jvlma.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：Latvian Academy of Culture</p><p>中文校名：拉脱维亚文化学院</p><p>官方网址：<a href="https://lka.edu.lv/en/">https://lka.edu.lv/en/</a><br/></p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：Latvian Maritime Academy</p><p>中文校名：拉脱维亚海事学院</p><p>官方网址： http:// www.latja.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：Latvia University of Life Sciences and Technologies</p><p>中文校名：拉脱维亚生命科学与技术大学</p><p>官方网址：https://www.llu.lv/</p><p>备注：拉脱维亚语校名：Latvijas Lauksaimniecības universitāte，中文译名：拉脱维亚农业大学</p></div><div class="gwList"><p>英文（或者源语言）校名：Liepaja University</p><p>中文校名：利耶帕亚大学</p><p>官方网址：https://www.liepu.lv/</p><p>备注：拉脱维亚语校名：Latvijas Universitāte</p></div><div class="gwList"><p>英文（或者源语言）校名： Rezekne Academy of Technologies</p><p>中文校名：雷泽克内技术学院</p><p>官方网址： http://www.ru.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名： Rīga Stradiņš University</p><p>中文校名：里加斯特拉迪什大学</p><p>官方网址： http://www.rsu.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：Riga Technical University</p><p>中文校名：里加技术大学</p><p>官方网址： http:// www.rtu.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)：</p></div><div class="gwList"><p>英文（或者源语言）校名：RISEBA University of Applied Sciences</p><p>中文校名：RISEBA应用科学大学</p><p>官方网址：https://www.riseba.lv/</p><p>备注：拉脱维亚语校名：Biznesa, mākslas un tehnoloģiju augstskola &quot;RISEBA&quot;，直译为：RISEBA高等商务、艺术与技术学院</p></div><div class="gwList"><p>英文（或者源语言）校名： Stockholm School of Economics in Riga</p><p>中文校名：里加斯德哥尔摩经济学院</p><p>官方网址： http://www.sseriga.edu.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p><p>备注：</p></div><div class="gwList"><p>英文（或者源语言）校名：Transport and Telecommunication Institute</p><p>中文校名：运输和电信学院</p><p>官方网址： http://www.tsi.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名： Turība University, Ltd.</p><p>中文校名：图里巴大学</p><p>官方网址： http://www.turiba.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p><p>备注：学校名称拉脱维亚语是&quot;BIZNESA AUGSTSKOLA TURĪBA, SIA&quot;直译为中文是&quot;图里巴商业高等教育有限公司&quot;.</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Daugavpils</p><p>中文校名：陶格夫匹尔斯大学</p><p>官方网址： http://www.du.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：University of Latvia</p><p>中文校名：拉脱维亚大学</p><p>官方网址： http://www.lu.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：Ventspils University College</p><p>中文校名：文茨皮尔斯大学学院</p><p>官方网址： http://www.venta.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p></div><div class="gwList"><p>英文（或者源语言）校名：Vidzeme University of Applied Sciences</p><p>中文校名：维泽梅应用科学大学</p><p>官方网址： http://www.va.lv/</p><p>办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)</p><p>备注：拉脱维亚语的学校名称是&quot;Vidzemes Augstskola&quot;,直译为中文是&quot;维泽梅高等学院&quot;。需注意拉脱维亚语中&quot;Augstskola&quot;与拉脱维亚语中表示&quot;大学&quot;意义的&quot;Universitāte&quot;并不一致，该校所属的学校类别也是大学学院而不是大学。本次外方提供的均为英文校名，所以中文校名均根据英文翻译而成。</p></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12066"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+ </div>
+ <div class="blank15"></div>
+ <div class="gwBox"><div class="tit_gw"><h1>埃及</h1></div><div style="text-align:center;padding-top:5px;">2015年06月08日</div><div class="gwCon"><div class="gw"><div class="tit2"><span>1</span><h2>高等教育体制简介</h2></div><div class="gwTxt"><p>埃及的高等教育体系包括大学教育和非大学型中等后教育（主要为高等职业教育，相当于国内大专）两部分。埃及的高等教育经费由宪法明文保障，具体运行由一部《大学组织法》（قانون تنظيم الجامعات）保驾护航。埃及本科学制四年、硕士学制三年、博士学制三年，各级修业期满，均须经考试才能毕业并授予学位。</p><p>埃及大学的学位授予资格需获埃及高教部(http://www.egy-mhe.gov.eg)和大学最高委员会 (http://www.scu.eun.eg)认可。高教部和大学最高委员会每学年对各校、各系、各专业的学历授予资质进行审查，不符合相关规定的不予承认其学位教育的合法性。政府内阁另设有“教学质量评估、保障与监督局”（http://naqaae.eg），与高教部平级，负责对大学的教学质量进行监管。学校内部逐级设有大学委员会、院委员会和系委员会，大学校长担任大学委员会主席，总揽教学、科研、行政、财务等事务。学校内部设有教学委员会、科研委员会、社会服务和环境发展委员会以及纪律委员会，对学校各个方面进行监督。</p><p>埃及公立大学经费由国家拨款，私立大学经费主要来自学生学费，因此收费较高，但相对公立大学硬件较好。所有高校院系和课程设置相仿，授课语言通常都为阿拉伯语，部分理科专业有英文授课，详细情况可查询高教部相关指南（http://www.egy-mhe.gov.eg/publications/8)。</p></div></div><div class="gw"><div class="tit2"><span>2</span><h2>名单</h2></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">（一）公立大学（23所）</div><div class="gwList"><p class="not">1、 学校名称：جامعة القاهرة（阿拉伯语）</p><p>英文译名：Cairo University</p><p>中文译名：开罗大学</p><p>官方网址：http://www.cu.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">2、 学校名称：جامعة الإسكندرية</p><p>英文译名：Alexandria University</p><p>中文译名：亚历山大大学</p><p>官方网址：http://www.alexu.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">3、 学校名称：جامعة عين شمس</p><p>英文译名：Ain Shams University</p><p>中文译名：艾因夏姆斯大学</p><p>官方网址：http://www.asu.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">4、 学校名称：جامعة أسيوط</p><p>英文译名：Assuit University</p><p>中文译名：艾斯尤特大学</p><p>官方网址：http://www.aun.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">5、 学校名称：جامعة طنطا</p><p>英文译名：Tanta University</p><p>中文译名：坦塔大学</p><p>官方网址：http://www.tanta.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">6、 学校名称：جامعة المنصورة</p><p>英文译名：Mansoura University</p><p>中文译名：曼苏尔大学</p><p>官方网址：http://www.mans.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">7、 学校名称：جامعة الزقازيق</p><p>英文译名：Zagazig University</p><p>中文译名：扎加齐克大学</p><p>官方网址：http://www.zu.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">8、 学校名称：جامعة حلوان</p><p>英文译名：Helwan University</p><p>中文译名：哈勒旺大学</p><p>官方网址：http://www.helwan.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">9、 学校名称：جامعة المنيا</p><p>英文译名：Minia University</p><p>中文译名：米尼亚大学</p><p>官方网址：http://www.minia.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">10、 学校名称：جامعة المنوفية</p><p>英文译名：Menofia University</p><p>中文译名：姆努菲亚大学</p><p>官方网址：http://www.menofia.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">11、 学校名称：جامعة قناة السويس</p><p>英文译名：Suez Canal University</p><p>中文译名：苏伊士运河大学</p><p>官方网址：http://www.scuegypt.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">12、 学校名称：جامعة جنوب الوادي</p><p>英文译名：South Valley University</p><p>中文译名：南河谷大学</p><p>官方网址：http://www.svu.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">13、 学校名称：جامعة الفيوم</p><p>英文译名：Fayuom University</p><p>中文译名：法尤姆大学</p><p>官方网址：http://www.fayoum.edu.eg/</p><p>备注：建于2005年</p></div><div class="gwList"><p class="not">14、 学校名称：جامعة بني سويف</p><p>英文译名：Beni Suief University</p><p>中文译名：班尼苏维夫大学</p><p>官方网址：http://www.bsu.edu.eg/</p><p>备注：建于2005年</p></div><div class="gwList"><p class="not">15、 学校名称：جامعة بنها</p><p>英文译名：Benha University</p><p>中文译名：本哈大学</p><p>官方网址：http://www.bu.edu.eg/</p><p>备注：建于2005年</p></div><div class="gwList"><p class="not">16、 学校名称：جامعة كفر الشيخ</p><p>英文译名：Kafr El-Sheikh University</p><p>中文译名：谢赫村大学</p><p>官方网址：http://www.kfs.edu.eg/</p><p>备注：建于2006年</p></div><div class="gwList"><p class="not">17、 学校名称：جامعة سوهاج</p><p>英文译名：Sohag University</p><p>中文译名：苏哈贾大学</p><p>官方网址：http://www.sohag-univ.edu.eg/</p><p>备注：建于2006年</p></div><div class="gwList"><p class="not">18、 学校名称：جامعة بورسعيد</p><p>英文译名：Portsaid University</p><p>中文译名：塞得港大学</p><p>官方网址：http://www.psu.edu.eg/</p><p>备注：建于2010年</p></div><div class="gwList"><p class="not">19、 学校名称：جامعة دمنهور</p><p>英文译名：Damanhour University</p><p>中文译名：德曼胡尔大学</p><p>官方网址：http://www.damanhour.edu.eg/</p><p>备注：建于2010年</p></div><div class="gwList"><p class="not">20、 学校名称：جامعة أسوان</p><p>英文译名：Aswan University</p><p>中文译名：阿斯旺大学</p><p>官方网址：http://www.aswu.edu.eg/</p><p>备注：建于2012年</p></div><div class="gwList"><p class="not">21、 学校名称：جامعة دمياط</p><p>英文译名：Damietta University</p><p>中文译名：杜姆亚特大学</p><p>官方网址：http://www.du.edu.eg/</p><p>备注：建于2012年</p></div><div class="gwList"><p class="not">22、 学校名称：جامعة السويس</p><p>英文译名：Sues University</p><p>中文译名：苏伊士大学</p><p>官方网址：http://www.suezuniv.edu.eg/</p><p>备注：建于2012年</p></div><div class="gwList"><p class="not">23、 学校名称：جامعة مدينة السادات</p><p>英文译名：University of Sadat City</p><p>中文译名：萨达特城大学</p><p>官方网址：http://www.usc.edu.eg/</p><p>备注：建于2013年</p></div><div style="margin:20px 0px 0px 50px;font-size:14px;font-weight:bold;">（二）私立大学（13所）</div><div class="gwList"><p class="not">1、 学校名称：جامعة مصر للعلوم والتكنولوجيا</p><p>英文译名：Misr University for Science and Technology</p><p>中文译名：埃及科技大学</p><p>官方网址：http://www.must.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">2、 学校名称：جامعة مصر الدولية</p><p>英文译名：Misr International niversity</p><p>中文译名：埃及国际大学</p><p>官方网址：http://www.miuegypt.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">3、 学校名称：جامعة أكتوبر للعلوم الحديثة والآداب</p><p>英文译名：October University for Modern Sciences and Arts</p><p>中文译名：文学及现代科学十月大学</p><p>官方网址：http://www.msa.eun.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">4、 学校名称：جامعة 6 أكتوبر</p><p>英文译名：October 6 University</p><p>中文译名：十月六号大学</p><p>官方网址：http://www.o6u.edu.eg/</p><p>备注：</p></div><div class="gwList"><p class="not">5、 学校名称：الجامعة الحديثة للتكنولوجيا والمعلومات</p><p>英文译名：Modern University for Technology and Information</p><p>中文译名：现代技术与信息大学</p><p>官方网址：http://www.mti.edu.eg/</p><p>备注：建于2004年</p></div><div class="gwList"><p class="not">6、 学校名称：جامعة المستقبل بمصر</p><p>英文译名：Future University Egypt</p><p>中文译名：埃及未来大学</p><p>官方网址：http://www.futureuniversity.edu.eg/</p><p>备注：建于2006年</p></div><div class="gwList"><p class="not">7、 学校名称：جامعة فاروس</p><p>英文译名：Pharos University in Alexandria</p><p>中文译名：法鲁斯大学</p><p>官方网址：http://www.pua.edu.eg/</p><p>备注：建于2006年</p></div><div class="gwList"><p class="not">8、 学校名称：جامعة النيل</p><p>英文译名：Nile University</p><p>中文译名：尼罗大学</p><p>官方网址：http://www.nileu.edu.eg/</p><p>备注：建于2006年</p></div><div class="gwList"><p class="not">9、 学校名称：جامعة النهضة</p><p>英文译名：Nahda University</p><p>中文译名：复兴大学</p><p>官方网址：http://www.nahdauniversity.org/</p><p>备注：建于2006年</p></div><div class="gwList"><p class="not">10、 学校名称：جامعة سيناء</p><p>英文译名：Sinai University</p><p>中文译名：西奈大学</p><p>官方网址：http://www.su.edu.eg/</p><p>备注：建于2006年</p></div><div class="gwList"><p class="not">11、 学校名称：جامعة الدلتا للعلوم والتكنولوجيا</p><p>英文译名：Delta University for Science and Technology</p><p>中文译名：三角洲科技大学</p><p>官方网址：http://www.deltauniv.edu.eg/</p><p>备注：建于2007年</p></div><div class="gwList"><p class="not">12、 学校名称：جامعة العاشر من رمضان</p><p>英文译名：El Asher University</p><p>中文译名：斋月十号大学</p><p>官方网址：http://www.eau.edu.eg/</p><p>备注：建于2009年</p></div><div class="gwList"><p class="not">13、 学校名称：جامعة بدر</p><p>英文译名：Badr University in Cairo</p><p>中文译名：班达尔大学</p><p>官方网址：http://www.buc.edu.eg/</p><p>备注：建于2013年</p></div></div></div></div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12045"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

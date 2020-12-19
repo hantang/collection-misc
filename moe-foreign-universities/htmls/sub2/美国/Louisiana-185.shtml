@@ -1,0 +1,257 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>美国学校名单：Louisiana</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   
+<p><br />
+<font face="Arial"><strong>Louisiana</strong></font><br />
+<br />
+Academy of Creative Hair Design (Slidell)<br />
+Acadiana School of Cosmetology (Lafayette)<br />
+Alexandria Academy of Beauty (Alexandria)<br />
+American Commercial College (Shreveport)<br />
+American School of Business (Shreveport)<br />
+Ascension College (Gonzales)<br />
+Aveda Institute Baton Rouge (Baton Rouge)<br />
+Aveda Institute (Covington)<br />
+Aveda Institute Lafayette (Lafayette)<br />
+Ayers Institute (Shreveport)<br />
+Bastrop Beauty School #1 (Bastrop)<br />
+Baton Rouge College (Baton Rouge)<br />
+Baton Rouge Community College (Baton Rouge)<br />
+Baton Rouge School of Computers (Baton Rouge)<br />
+Blue Cliff College (Lafayette)<br />
+Blue Cliff College (Metairie)<br />
+Blue Cliff College (Shreveport)<br />
+Bossier Parish Community College (Bossier City)<br />
+Branch Campus: (New Orleans)<br />
+Bryman College (New Orleans)<br />
+Camelot College (Baton Rouge)<br />
+Cameron College (New Orleans)<br />
+Career Technical College (Monroe)<br />
+Cassia Beauty College (New Orleans)<br />
+Centenary College of Louisiana (Shreveport)<br />
+Cloyd's Beauty School #1 (West Monroe)<br />
+Cloyd's Beauty School #2 (Monroe)<br />
+Cloyd's Beauty School #3 (Monroe)<br />
+Cosmetology Training Center (Lafayette)<br />
+Court Reporting Institute of Louisiana (Baton Rouge)<br />
+Crescent Schools (New Orleans)<br />
+Culinary Institute of New Orleans (New Orleans)<br />
+D-Jay's School of Beauty Arts & Sciences (Baton Rouge)<br />
+Delgado Community College (New Orleans)<br />
+Delta College of Arts & Technology (Baton Rouge)<br />
+Delta College (Covington)<br />
+Delta School of Business & Technology (Lake Charles)<br />
+Demmon School of Beauty (Lake Charles)<br />
+Denham Springs Beauty College (Denham Springs)<br />
+Diesel Driving Academy (Baton Rouge)<br />
+Diesel Driving Academy (Shreveport)<br />
+Dillard University (New Orleans)<br />
+Domestic Health Care Institute (Baton Rouge)<br />
+Eastern College of Health Vocations (Metairie)<br />
+Franklin College of Court Reporting (New Orleans)<br />
+Grambling State University (Grambling)<br />
+Gretna Career College (Gretna)<br />
+Guy's Shreveport Academy of Cosmetology (Shreveport)<br />
+Herzing College (Kenner)<br />
+ITI Technical College (Baton Rouge)<br />
+ITT Technical Institute (St. Rose)<br />
+John Jay Beauty College (New Orleans)<br />
+John Jay Kenner Academy (Kenner)<br />
+John Jay Slidell Beauty College (Slidell)<br />
+Jonesville Beauty School (Vidalia)<br />
+L.E. Fletcher Technical Community College (Houma)<br />
+Louisiana Academy of Beauty (Eunice)<br />
+Louisiana College (Pineville)<br />
+Louisiana State University and A & M College (Baton Rouge)<br />
+Louisiana State University at Alexandria (Alexandria)<br />
+Louisiana State University at Eunice (Eunice)<br />
+Louisiana State University Health Sciences Center (New Orleans)<br />
+Louisiana State University in Shreveport (Shreveport)<br />
+Louisiana Tech University (Ruston)<br />
+Louisiana Technical College - Acadian Campus (Crowley)<br />
+Louisiana Technical College - Alexandria Campus (Alexandria)<br />
+Louisiana Technical College - Ascension Campus (Sorrento)<br />
+Louisiana Technical College - Avoyelles Campus (Cottonport)<br />
+Louisiana Technical College - Bastrop Campus (Bastrop)<br />
+Louisiana Technical College - Baton Rouge Campus (Baton Rouge)<br />
+Louisiana Technical College - Charles B. Coreil Campus (Ville Platte)<br />
+Louisiana Technical College - Delta-Ouachita Campus (West Monroe)<br />
+Louisiana Technical College - Evangeline Campus (St. Martinville)<br />
+Louisiana Technical College - Florida Parishes Campus (Greensburg)<br />
+Louisiana Technical College - Folkes Campus - Branch Campus (Jackson)<br />
+Louisiana Technical College - Folkes Campus (Jackson)<br />
+Louisiana Technical College - Gulf Area Campus (Abbeville)<br />
+Louisiana Technical College - Hammond Area Campus (Hammond)<br />
+Louisiana Technical College - Huey P. Long Campus (Winnfield)<br />
+Louisiana Technical College - Jefferson Campus (Metairie)<br />
+Louisiana Technical College - Jumonville Memorial Campus - Branch Campus (Angola)<br />
+Louisiana Technical College - Jumonville Memorial Campus (New Roads)<br />
+Louisiana Technical College - Lafayette Campus (Lafayette)<br />
+Louisiana Technical College - LaFourche Campus (Thibodaux)<br />
+Louisiana Technical College - Lamar Salter Campus (Leesville)<br />
+Louisiana Technical College - Mansfield Campus (Mansfield)<br />
+Louisiana Technical College - Morgan Smith Campus (Jennings)<br />
+Louisiana Technical College - Natchitoches Campus (Natchitoches)<br />
+Louisiana Technical College - North Central Campus (Farmerville)<br />
+Louisiana Technical College - Northeast Louisiana Campus (Winnsboro)<br />
+Louisiana Technical College - Northwest Louisiana Campus (Minden)<br />
+Louisiana Technical College - Oakdale Campus (Oakdale)<br />
+Louisiana Technical College - River Parishes Campus (Reserve)<br />
+Louisiana Technical College - Ruston Campus (Ruston)<br />
+Louisiana Technical College - Sabine Valley Campus (Many)<br />
+Louisiana Technical College - Shelby M. Jackson Campus (Ferriday)<br />
+Louisiana Technical College - Shreveport-Bossier Campus (Shreveport)<br />
+Louisiana Technical College - Sidney N. Collier Campus (New Orleans)<br />
+Louisiana Technical College - Slidell Campus (Slidell)<br />
+Louisiana Technical College - Sullivan Campus (Bogalusa)<br />
+Louisiana Technical College - Tallulah Campus - Branch Campus (Lake Providence)<br />
+Louisiana Technical College - Tallulah Campus (Tallulah)<br />
+Louisiana Technical College - Teche Area Campus (New Iberia)<br />
+Louisiana Technical College - T.H. Harris Campus (Opelousas)<br />
+Louisiana Technical College - West Jefferson Campus (Harvey)<br />
+Louisiana Technical College - Westside Campus - Branch Campus (Port Allen)<br />
+Louisiana Technical College - Westside Campus - Branch Campus (St. Gabriel)<br />
+Louisiana Technical College - Westside Campus (Plaquemine)<br />
+Louisiana Technical College - Young Memorial Campus (Morgan City)<br />
+Loyola University New Orleans (New Orleans)<br />
+McNeese State University (Lake Charles)<br />
+Medical Careers Academy (Baton Rouge)<br />
+Medical Training College (Baton Rouge)<br />
+MedVance Institute - Branch Campus (Baton Rouge)<br />
+Metropolitan Community College (Gretna)<br />
+Moler Beauty College (Gretna)<br />
+Moler Beauty College (Kenner)<br />
+Moler Beauty College (New Orleans)<br />
+Neill Institute (New Iberia)<br />
+New Orleans Baptist Theological Seminary (New Orleans)<br />
+New Orleans Job Corps Center (New Orleans)<br />
+New Orleans School of Urban Missions (New Orleans)<br />
+Nicholls State University (Thibodaux)<br />
+Northwestern State University (Natchitoches)<br />
+Notre Dame Seminary (New Orleans)<br />
+Nunez Community College (Chalmette)<br />
+Omega Institute of Cosmetology (Houma)<br />
+Opelousas School of Cosmetology, Inc. (Opelousas)<br />
+Our Lady of Holy Cross College (New Orleans)<br />
+Our Lady of the Lake College (Baton Rouge)<br />
+Pat Goins Beauty School (Monroe)<br />
+Pat Goins Benton Road Beauty School (Bossier City)<br />
+Pat Goins Ruston Beauty School (Ruston)<br />
+Pat Goins Shreveport Beauty School (Shreveport)<br />
+Paul Phillips and Associates, Inc. (Metairie)<br />
+Pineville Beauty School (Pineville)<br />
+Ray's Faith Academy of Beauty Education (Gonzales)<br />
+Remington College-Baton Rouge (Baton Rouge)<br />
+Remington College-Lafayette Campus (Lafayette)<br />
+Remington College-New Orleans (Metairie)<br />
+River Parishes Community College (Sorrento)<br />
+Ronnie & Dorman's School of Hair Design (Lafayette)<br />
+Saint Joseph Seminary College (St. Benedict)<br />
+Shreveport Job Corps Center (Shreveport)<br />
+South Louisiana Beauty College (Houma)<br />
+Southeastern Louisiana University (Hammond)<br />
+Southern University and A & M College at Baton Rouge (Baton Rouge)<br />
+Southern University at New Orleans (New Orleans)<br />
+Southern University at Shreveport (Shreveport)<br />
+Sowela Technical Community College (Lake Charles)<br />
+Stage One - The Hair School, Inc. (Lake Charles)<br />
+Stevenson's Academy of Hair Design (New Orleans)<br />
+Stevenson's Academy of Hair Design - West Bank (New Orleans)<br />
+Tulane University (New Orleans)<br />
+Unitech Training Academy (Lafayette)<br />
+The University of Louisiana at Lafayette (Lafayette)<br />
+The University of Louisiana at Monroe (Monroe)<br />
+University of New Orleans (New Orleans)<br />
+Winner Institute, Inc. (Baton Rouge)<br />
+Xavier University of Louisiana (New Orleans)&nbsp;&nbsp;</p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

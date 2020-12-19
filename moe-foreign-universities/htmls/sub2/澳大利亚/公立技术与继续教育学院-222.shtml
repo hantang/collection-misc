@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+ <div class="bnav left">
+  <span><a href="/">首页</a> <a href="http://jsj.moe.gov.cn/api/index/sort/13"></a></span>
+ </div>
+ <div class="blank15"></div>
+ <div class="list left">
+  <div class="article left">
+   <h1>澳大利亚学校名单：公立技术与继续教育学院</h1>
+   <h4>&nbsp;&nbsp;&nbsp;&nbsp;【浏览字体： <a href="javascript:doZoom(12)" target="_self">小</a>&nbsp;&nbsp;<a href="javascript:doZoom(14)" target="_self">中</a>&nbsp;&nbsp;<a href="javascript:doZoom(16)" target="_self">大</a>】</h4>
+   <div class="article-nr left" id="Zoom">
+   <p>&nbsp;</p><p><strong>公立技术与继续教育学院: </strong><br/><br/><strong>Australian Capital Territory </strong><br/>Canberra Institute of Technology</p><p><br/><strong>New South Wales</strong> <br/>1.Hunter Institute of Technology<br/>2.Illawarra Institute of TAFE<br/>3.New England Institute of TAFE<br/>4.North Coast Institute of TAFE<br/>5.Northern Sydney Institute of TAFE<br/>6.Riverina Institute of TAFE<br/>7.South Western Sydney Institute of TAFE<br/>8.Sydney Institute of Technology<br/>9.Western Institute of TAFE<br/>10.Western Sydney Institute of TAFE</p><p><br/><strong>Northern Territory </strong>Charles Darwin University</p><p><br/><strong>Queensland</strong></p><p>英文（或者源语言）校名:TAFE Queensland<br/></p><p>中文校名: 昆士兰技术与继续教育学院<br/></p><p>官方网址：<a href="http://www.tafeqld.edu.au">www.tafeqld.edu.au</a><br/></p><p>备注:由以下六所院校合并<br/>1. TAFE Queensland Gold Coast<br/>2. TAFE Queensland Skills Tech<br/>3. TAFE Queensland Brisbane<br/>4. TAFE Queensland East Coast<br/>5. TAFE Queensland South West<br/>6. TAFE Queensland North<br/><br/></p><p><br/><strong>South Australia </strong><br/>学校名称TAFE South Australia（TAFE SA）<br/>中文译名南澳大利亚技术与继续教育学院 <br/>官方网址http://www.tafesa.edu.au<br/>备 &nbsp; &nbsp;注在2005年1月1日之前，南澳洲所有的政府技术与继续教育学院的名称分别为Adelaide Institute of TAFE、Douglas Mawson Institute of TAFE、 Onkaparinga Institute of TAFE、 South East Institute of TAFE、 Torrens Valley Institute of TAFE、 Spencer Institute of TAFE、 Murray Institute of TAFE以及Regency Institute of TAFE；从2005年1月1日至2009年6月31日，上述八所TAFE学院合并成TAFE SA；从2009年7月1日起，TAFE SA拆分为Adelaide North TAFE、 Adelaide South TAFE以及Regional TAFE；从2015年1月1日起，上述三所院校又合并成TAFE SA。<br/></p><p><br/><strong>Tasmania </strong>The Institute of TAFE Tasmania</p><p><br/><strong>Victoria </strong><br/>院校名称：Bendigo Kangan Institute<br/>中文名：本迪戈坎培门公立职业技术学院<br/>官方网站：www.kangan.edu.au 和www.bendigotafe.edu.au<br/>联系人：Jana Perera<br/>联系电话：61-3-9094 3076<br/>联系邮箱：jperera@kangan.edu.au<br/><br/>院校名称：Box Hill Institute<br/>中文名：<br/>官方网站：www.boxhill.edu.au<br/>联系人：John Qiu<br/>联系电话：61-3-9826 9981<br/>联系邮箱：John.qiu@boxhill.edu.au<br/><br/>院校名称：Chisholm Institute<br/>中文名：启思蒙学院<br/>官方网站：http://www.chisholm.edu.au/<br/>联系人：Chisholm International Students<br/>联系电话：61-3-9212 5040/61-3-9212 5183<br/>联系邮箱：international@chisholm.edu.au<br/><br/>院校名称：Federation University Australia <br/>中文名：<br/>官方网站：www.federation.edu.au<br/>联系人：Jessie Harman<br/>联系电话：61-3-5327 8203<br/>联系邮箱：<br/><br/>院校名称：Gordon Institute of TAFE<br/>中文名：高等职业技术学院<br/>官方网站：http://www.thegordon.edu.au/<br/>联系人：John Crowder<br/>联系电话：61-3-5225 0828<br/>联系邮箱：jcrowder@gordontafe.edu.au<br/><br/>院校名称：Holmesglen Institute<br/>中文名：<br/>官方网站：www.holmesglen.edu.au<br/>联系人：Michelle Fernandez<br/>联系电话：61-3-9564 1557<br/>联系邮箱：Michelle.Fernandez@holmesglen.edu.au<br/><br/>院校名称：Melbourne Polytechnic<br/>中文名：澳大利亚墨尔本理工学院<br/>官方网站：http://www.melbournepolytechnic.edu.au<br/>联系人：Timothy Gilbert<br/>联系电话：61-3-9269 1663<br/>联系邮箱：international@melbournepolytechnic.edu.au<br/><br/>院校名称：Royal Melbourne Institute of Technology<br/>中文名：<br/>官方网站：www.rmit.edu.au<br/>联系人：Amm Jones<br/>联系电话：61-3-9925 5566<br/>联系邮箱：isu@rmit.edu.au<br/><br/>院校名称：Sunraysia Institute of TAFE<br/>中文名：<br/>官方网站：www.sunitafe.edu.au/international <br/>联系人：Bradley Fyfe<br/>联系电话：61-3-50223722<br/>联系邮箱：international@sunitafe.edu.au<br/><br/>院校名称：Swinburne University of Technology <br/>中文名：斯威本科技大学<br/>官方网站：www.swinburne.edu.au<br/>联系人：Mish Eastman<br/>联系电话：61-3-9210 1125<br/>联系邮箱：meastman@swin.edu.au<br/><br/>院校名称：Victoria Polytechnic<br/>中文名：<br/>官方网站：http://www.vu.edu.au/victoriapolytechnic <br/>联系人：Su Mei HO(Valarie)<br/>联系电话：61-3-9863 6702/61-0402 368 888<br/>联系邮箱：vpoly.int@vu.edu.au<br/><br/>院校名称：William Angliss Institute of TAFE<br/>中文名：威廉•安格力斯学院<br/>官方网站：www.angliss.edu.au<br/>联系人：Bruce Bradfield<br/>联系电话：61-3-9606 2580<br/>联系邮箱：bruceb@angliss.edu.au<br/><br/>院校名称：Wodonga Institute of TAFE<br/>中文名：<br/>官方网站：http://www.wodongatafe.edu.au/<br/>联系人：Mark Dixon<br/>联系电话：61-2-6055 6622<br/>联系邮箱：CEO@wodongatafe.edu.au/mdixon@wodongatafe.edu.a</p><p><strong><br/>Western Australia </strong></p><p>英文（或者源语言）校名：TAFE International Western Australia<br/>中文校名：<br/>官方网址：http://www.tafeinternational.wa.edu.au/<br/>备注：<br/><br/>英文（或者源语言）校名：North Metropolitan TAFE<br/>中文校名：<br/>官方网址：http://www.northmetrotafe.wa.edu.au/<br/>备注：<br/>&nbsp; <br/>英文（或者源语言）校名：South Metropolitan TAFE<br/>中文校名：<br/>官方网址：http://www.southmetrotafe.wa.edu.au/<br/>备注：<br/>&nbsp;<br/>英文（或者源语言）校名：North Regional TAFE<br/>中文校名：<br/>官方网址：http://www.northregionaltafe.wa.edu.au/<br/>备注： &nbsp;<br/>&nbsp; <br/>英文（或者源语言）校名：Central Regional TAFE<br/>中文校名：<br/>官方网址：http://www.centralregionaltafe.wa.edu.au/<br/>备注： &nbsp;<br/>&nbsp; <br/>英文（或者源语言）校名：South Regional TAFE<br/>中文校名：<br/>官方网址：http://www.southregionaltafe.wa.edu.au/<br/>备注：<br/><br/></p>
+        </div>
+   
+  </div>
+ </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="13"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+

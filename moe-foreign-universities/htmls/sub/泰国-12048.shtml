@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中华人民共和国教育部教育涉外监管信息网</title>
+<link href="http://jsj.moe.gov.cn/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://jsj.moe.gov.cn/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://jsj.moe.gov.cn/js/smain.js"></script>
+</head>
+
+<body>
+<div class="Gmain">
+ <div class="banner left pos_r">
+  <div class="time pos_aindex" id="datetime">
+    <!-- #BeginDate format:fCh2 -->2020年06月29日   星期一<!-- #EndDate -->
+  </div>
+ </div>
+ <div class="nav left">
+  <ul id="navul">
+   <li class="lifirst"><a id="nav_0" name="nav_0" href="/">首页</a></li>
+   	     <li><a id="nav_1" name="nav_1" href="http://jsj.moe.gov.cn/api/index/sortlist/1-1">法规文件</a></li>
+       <li><a id="nav_12068" name="nav_12068" href="http://jsj.moe.gov.cn/api/index/sortlist/12068-12068">政策解读</a></li>
+       <li><a id="nav_2" name="nav_2" href="http://jsj.moe.gov.cn/api/index/sort/2">预警信息</a></li>
+       <li><a id="nav_7001" name="nav_7001" href="/api/index/sort/7001">重要动态</a></li>
+       <li><a id="nav_12079" name="nav_12079" href="http://www.crs.jsj.edu.cn/">涉外办学</a></li>
+       <li><a id="nav_12018" name="nav_12018" href="/api/index/mdDesc/gwyx">国外院校</a></li>
+       <li><a id="nav_12080" name="nav_12080" href="/api/video/lists">专家访谈</a></li>
+       <li><a id="nav_12119" name="nav_12119" href="http://jsj.moe.gov.cn/api/index/sort/12119">案例点评</a></li>
+    
+  </ul>
+ </div>
+ <div class="blank15"></div>
+ <div class="search left">
+  <div class="search-left left">新闻查询</div>
+  <div class="search-right left">
+	  <form action='http://jsj.moe.gov.cn/api/index/search' method='post' name="searchform">
+   <div class="search-right-input left">
+    <input name="searchcontent" type="text" value="请输入关键字"  onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+   </div>
+   <div class="search-right-button left">
+	   <input type="hidden" name="token" id="head_token" value=""/>
+    <input name="" type="submit" value="查询" />
+   </div>
+   </form>
+  </div>
+ </div>
+</div>
+<div class="blank15"></div>
+
+<div class="Gmain">
+  <div class="bnav left">
+  <span><a href="/">首页</a> </span>
+  </div>
+  <div class="blank15"></div>
+  <div class="list left">
+    <div class="article left">
+	   <h1>泰国</h1>
+   <h4>
+      2017&#24180;09&#26376;13&#26085;
+          </h4>
+    <div class="article-nr left" id="Zoom">
+      <p>&nbsp;</p><p><strong>一、基本情况</strong></p><p>&nbsp;&nbsp;&nbsp;泰国的教育由教育部、大学部、内务部、劳动和社会保障部等几个政府部门管理。泰国的高等教育由大学、研究所、学院或其他类型的研究机构提供，分为专科教育、本科教育、硕士学位教育和博士学位教育。</p><p>专科教育：主要由学院提供，所传授的知识主要与职业教育和专业教育有关。</p><p>本科教育：高中毕业或同等学历的学生一般经过四年的学习后可获得学士学位，专科毕业的学生还需学习两年。建筑、绘画、雕塑、图像艺术、药剂学专业则需要五年；医学、牙科、兽医专业需要六年。</p><p>硕士学位教育：获得学士学位后，进一步学习一年到两年，完成论文后，可获得硕士学位。</p><p>博士学位教育：攻读一般专业的博士学位需要三年时间；有些专业的博士学位，课程毕业后还需要一至两年的工作实践以后才能获得。</p><p>在泰国，除了国际课程用英语授课以外，大多课程用泰语授课。</p><p>目前公布的泰国部分学校名单是综合各方面情况后，优先向拟赴泰国留学人员推荐的学校。</p><p>根据中泰双方2007年5月签署的《关于相互承认高等教育学历和学位的协定》的适用范围，已列入泰国政府认可的高等教育机构名录的所有有权授予学位或者具有研究生教育资质的高等教育机构、研究机构和中国政府承认的有高等学历教育资质和学位授予权的高等学校、科学研究机构所颁发的文凭、学位和证书，适用本协定。双方尊重各自高等教育机构的自主权并且尊重中泰两国政府指定机构对外国文凭确认的权利。</p><p><strong>二、部分院校名单</strong></p><p><br/>1) Bansomdej Chaopraya Rajabhat University (BSRU)<br/>2) Buriram Rajabhat University (BRU)<br/>3) Chaiyaphum Rajabhat University (CPRU) <br/>4) Chandrakasem Rajabhat University (CRU) <br/>5) Chiang Mai Rajabhat University (CMRU) <br/>6) Chiang Rai Rajabhat University (CRU) <br/>7) Dhonburi Rajabhat University (DRU) <br/>8) Kalasin Rajabhat University (KSU) <br/>9) Kamphaeng Phet Rajabhat University (KPRU) <br/>10) Kanchanaburi Rajabhat University (KRU) <br/>11) Kasetsart University (KU) <br/>12) Khon Kaen University (KKU) <br/>13) Lampang Rajabhat University (LPRU) <br/>14) Loei Rajabhat University (LRU) <br/>15) Maejo University (MJU) <br/>16) Mahasarakham University (MSU) <br/>17) Muban Chombueng Rajabhat University (MCRU) <br/>18) Nakhon Pathom Rajabhat University (NPRU) <br/>19) Nakhon Phanom University (NPU) <br/>20) Nakhon Ratchasima Rajabhat University (NRRU) <br/>21) Nakhon Sawan Rajabhat University (NSRU) <br/>22) Nakhon Si Thammarat Rajabhat University (NSTRU) <br/>23) Naresuan University (NU) <br/>24) National Institute of Development Administration (NIDA) <br/>25) Pathumwan Institute of Technology <br/>26) Phetchabun Rajabhat University (PCRU) <br/>27) Phetchaburi Rajabhat University (PBRU) <br/>28) Phranakhon Rajabhat University (PNRU) <br/>29) Phranakhon Si Ayutthaya Rajabhat University (ARU) <br/>30) Phuket Rajabhat University (PKRU) <br/>31) Pibulsongkram Rajabhat University (PSRU) <br/>32) Prince of Songkla University (PSU) <br/>33) Princess of Naradhiwas University (PNU) <br/>34) Rajabhat Maha Sarakham University (RMU) <br/>35) Rajabhat Rajanagarindra University (RRU) <br/>36) Rajamangala University of Technology Isan (RMUTI) <br/>37) Rajamangala University of Technology Krungthep (RMUTK) <br/>38) Rajamangala University of Technology Lanna (RMUTL) <br/>39) Rajamangala University of Technology Phra Nakhon (RMUTP) <br/>40) Rajamangala University of Technology Rattanakosin (RMUTR) <br/>41) Rajamangala University of Technology Srivijaya (RMUTSV) <br/>42) Rajamangala University of Technology Suvarnabhumi (RMUTSB) <br/>43) Rajamangala University of Technology Tawan-Ok (RMUTTO) <br/>44) Rajamangala University of Technology Thanyaburi (RMUTT) <br/>45) Rambhai Barni Rajabhat University (RBRU) <br/>46) Roi-et Rajabhat University (RERU) <br/>47) Sakon Nakhon Rajabhat University (SNRU) <br/>48) Silpakorn University (SU) <br/>49) Si Sa Ket Rajabhat University (SSKRU) <br/>50) Songkhla Rajabhat University (SKRU) <br/>51) Srinakharinwirot University (SWU) <br/>52) Suan Dusit Rajabhat University (SDU) <br/>53) Suan Sunandha Rajabhat University (SSRU) <br/>54) Surat Thani Rajabhat University (SRU) <br/>55) Surindra Rajabhat University (SRRU) <br/>56) Thammasat University (TU) <br/>57) Thepsatri Rajabhat University (TRU) <br/>58) Ubon Ratchathani University (UBU) <br/>59) Ubon Ratchathani Rajabhat University (UBRU) <br/>60) Udon Thani Rajabhat University (UDRU) <br/>61) Uttaradit Rajabhat University (URU) <br/>62) Valaya-Alongkorn Rajabhat University (VRU) <br/>63) Yala Rajabhat University (YRU) <br/>64) Burapha University (BUU) <br/>65) Chiang Mai University (CMU) <br/>66) Chulalongkorn University (CU) <br/>67) King Mongkut’s Institute of Technology Ladkrabang (KMITL) <br/>68) King Mongkut’s University of Technology North Bangkok (KMUTNB) <br/>69) King Mongkut’s University of Technology Thonburi (KMUTT)<br/>70) Mae Fah Luang University (MFLU) <br/>71) Mahidol University (MU) <br/>72) Suranaree University of Technology (SUT) <br/>73) Thaksin University (TSU) <br/>74) Walailak University (WU) <br/>75) Assumption University (AU)<br/>76) Asian Institute of Technology(AIT))<br/>77) Asia Pacific International University<br/>78) Bangkok University<br/>79) Dhurakij Pundit University <br/>80) Huachiew Chalermprakiet University<br/>81) Kasem Bundit University<br/>82) Payap University<br/>83) Rangsit University<br/>84) Siam University<br/>85) Sripatum University<br/>86) University of the Thai Chamber of Commerce<br/>87) Bangkok Thonburi University<br/>88）英文校名：	North Bangkok University<br/>	中文校名：	曼谷北部大学<br/>	官方网址：	www.northbkk.ac.th<br/>	备注：<br/>		
+		89）英文校名：	Shinawatra University<br/>	中文校名：	西那瓦大学<br/>	官方网址：	www.siu.ac.th<br/>	备注：<br/></p>
+    </div>
+    </div>
+  </div>
+</div>
+<div class="blank20"></div>
+<input type="hidden" name="jsonsort_id" id="jsonsort_id" value="12048"/>
+<div class="Gmain">
+	<div class="foot">
+		<p align="center" ><a href="/n2/12015/12106/440.shtml">关于我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12087/407.shtml">联系我们</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12140/1299.shtml">咨询回复</a>　　<span style="color:#999">｜</span>　　<a href="/n2/12015/12088/406.shtml">总编介绍</a>　　<span style="color:#999">｜</span>
+		　　<a href="/news/2/1082.shtml">网站地图</a>　　<span style="color:#999">｜</span><!--<a href="http://wenjuan.jsj.edu.cn/index.php">网站调查</a>　　<span style="color:#999">｜</span>-->　　京ICP备05082117号</p>
+		<p align="center" style="margin-top:10px;">版权所有：教育部教育涉外监管信息网 本网站由中国教育和科研计算机网制作维护，保留所有权利。未经允许不得复制、镜像。</p>
+		<!-- 访问统计:<script src="http://jsj.moe.gov.cn/api//index/getvisit"></script><br> -->
+		<!-- baidu tongji -->
+		<div style="display:none;">
+			<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee24b021101c336f76f2b7948cdebc96' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<!-- cnzz tongji -->
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253462896'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253462896%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+	</div>
+</div>
+<div style="text-align:center;margin:0 auto; padding:20px 0;">
+  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021196" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+	  <img src="http://jsj.moe.gov.cn/img/beian.png" style="float:left;"/>
+京公网安备 11010802021196号
+  </a>  &nbsp;&nbsp;&nbsp;网站标识码：BM05000005
+  </div>
+</body>
+</html>
+
