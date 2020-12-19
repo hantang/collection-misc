@@ -1,0 +1,36 @@
+{
+  "name": "牙买加",
+  "title": "牙买加",
+  "time": null,
+  "main_info": [
+    "牙买加高等教育机构分为公立及私立两种。不同高等教育机构享有不同的自治权。高等教育机构根据办学性质颁发不同的学业证书。高等教育法定认证机构为牙买加大学委员会（University Council of Jamaica）。",
+    "专科证书、文凭及副学位由师范学院、社区学院、职业训练学院、医护学院等高等教育机构颁发，学制2-3年。",
+    "学士学位由大学颁发，学制3-4年。",
+    "硕士学位在获得学士学位后继续深造，并提交论文，学制一般2年。",
+    "博士学位在获得硕士学位后继续深造，并提交论文，学制一般3-5年。"
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        "",
+        "英文译名：The University of the West Indies",
+        "中文译名：西印度大学",
+        "官方网址：www.uwi.edu",
+        "备注："
+      ],
+      [
+        "英文译名：TUniversity of Technology，Jamaica（UTECH)",
+        "中文译名：牙买加理工大学",
+        "官方网址：http://www.utech.edu.jm/",
+        "备注："
+      ],
+      [
+        "英文译名：Caribbean Maritime University",
+        "中文译名：加勒比海事大学",
+        "官方网址：http://www.cmi.edu.jm/Default.aspx",
+        "备注："
+      ]
+    ]
+  }
+}

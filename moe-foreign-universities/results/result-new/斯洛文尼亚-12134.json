@@ -1,0 +1,50 @@
+{
+  "name": "斯洛文尼亚",
+  "title": "斯洛文尼亚",
+  "time": null,
+  "main_info": [
+    "根据斯洛文尼亚国家资历框架，斯洛文尼亚的高等教育由短周期高等职业教育和普通高等教育组成。",
+    "斯“高等职业教育法”规定短周期高等职业教育由公立和私立高等职业院校提供，完成短周期高等职业教育后，获得高职文凭。",
+    "斯“高等教育法”规定普通高等教育由公立、私立大学或其他高等院校提供，这些学校至少需要具备能提供两个阶段（第一阶段和第二阶段，或第二阶段和第三阶段）学位的资质。具体如下：",
+    "第一阶段（本科）：本科课程通常需要三到四年的学习，要求获得180到240个ECTS学分。第二阶段 （硕士）：硕士课程一般需要一到两年的学习，要求获得60到120 ECTS学分。 另外，综合硕士课程需要五到六年的学习，要求获得300或360 ECTS学分。第三阶段 （博士）：博士课程一般需要三到四年的学习，要求额外的180个或240个ECTS学分。"
+  ],
+  "school_types": [
+    "国立综合性大学"
+  ],
+  "school_list": {
+    "国立综合性大学": [
+      [
+        "英文（或源语言）校名：University of Ljubljana",
+        "中文译名：卢布尔雅那大学",
+        "官方网址：http://www.uni-lj.si/eng/",
+        "联系人：Ms. Katja Cerjak",
+        "联系电话： +386 1 2418 590",
+        "联系邮箱：katja.cerjak@uni-lj.si 或 study.info@uni-lj.si"
+      ],
+      [
+        "英文（或源语言）校名：University of Maribor",
+        "中文译名：马里博尔大学",
+        "官方网址：https://www.um.si/en/",
+        "联系人：Ms.Miljana Andrej Vidmar",
+        "联系电话： +386 (0)2 235 53 22",
+        "联系邮箱：janca.vidmar@um.si"
+      ],
+      [
+        "英文（或源语言）校名：University of Primorska",
+        "中文译名：普利莫斯卡大学",
+        "官方网址：https://www.upr.si/en",
+        "联系人：Ms.Tatjana Mikelić Goja",
+        "联系电话： +386 5 61 17 556",
+        "联系邮箱：tatjana.mikelic.goja@upr.si"
+      ],
+      [
+        "英文（或源语言）校名：University of Nova Gorica",
+        "中文译名：诺瓦戈里奇大学",
+        "官方网址：http://www.ung.si/en/",
+        "联系人：Ms.Sabina Zelinšček",
+        "联系电话： +386 5 3315 257",
+        "联系邮箱：sabina.zelinscek@ung.si"
+      ]
+    ]
+  }
+}

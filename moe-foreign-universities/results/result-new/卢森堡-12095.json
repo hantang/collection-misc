@@ -1,0 +1,46 @@
+{
+  "name": "卢森堡",
+  "title": "卢森堡",
+  "time": "2015年12月9日",
+  "main_info": [
+    "卢森堡高等教育由本科教育和研究生教育组成，授予学士、硕士和博士学位。第一阶段为本科教育，学制6-8个学期，授予学士学位；第二阶段为硕士研究生教育，学制2-4个学期，授予硕士学位；第三阶段为博士研究生教育，学制3年。卢森堡是博洛尼亚进程和欧洲学分转换体系（European Credit Transfer and Accumulation System, ECTS）的成员。本科阶段学习一般须在6个学期内取得180个ECTS学分。在特殊情况下，须在8个学期内取得240个ECTS学分。硕士阶段学习一般须在2年内取得120个ECTS学分。也有一年制硕士学习，须完成60个ECTS学分。申请一年制硕士学习的学生须在本科阶段完成240个ECTS学分，即本科和硕士加起来须完成300个ECTS学分。",
+    "卢森堡大学建于2003年，是卢森堡目前唯一的大学，也是其高等教育的主要承担者。卢森堡大学是一所多语言、多科性的综合研究型大学，有三个学院（科学、技术和通讯学院；法律、经济和金融学院；语言、文学、人文艺术和教育学院）和两个跨学科研究中心。卢森堡大学可授予学士、硕士和博士学位。",
+    "除内部评估外，卢森堡大学每4年接受一次外部评估委员会的评估，涉及管理、教育、研究和教职员工表现，评估结论和建议将被纳入卢森堡大学下一个4年的发展计划。评估报告可在卢森堡大学网站上公开查询。"
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        "学校名称：L’Université du Luxembourg（法语）",
+        "英文译名：The University of Luxembourg",
+        "中文译名：卢森堡大学",
+        "官方网址：www.uni.lu",
+        "备注："
+      ],
+      [
+        "外文校名:LUNEX International University of Health,Exercise&Sports",
+        "中文校名:LUNEX健康与体育国际大学",
+        "官方网址:https://www.lunex-university.net/",
+        "备注:2017年11月28日发布有关LUNEX健康与体育国际大学作为高等教育专业院校开设的以下五个专业课程受教育部认可的部级政令。硕士层次学制四个学期，获得120欧洲学分；学士层次学制六个学期，获得180欧洲学分。理疗（学士）Physiotherapy (Bachelor)；理疗（硕士）Physiotherapy (Master)；运动与体育科学--人体运动（学士）Exercise and Sports Science (Human Movement, Bachelor)；国际体育管理（学士)International Sport Management (Bachelor)运动理疗（硕士）Sport Physiotherapy (Master)；"
+      ],
+      [
+        "外文校名:Luxembourg School of Business",
+        "中文校名:卢森堡商学院",
+        "官方网址:https://luxsb.lu/",
+        "备注:"
+      ],
+      [
+        "学校名称：United Business Institutes Luxembourg",
+        "中文译名：卢森堡联合商学院",
+        "官方网址：www.ubi.edu",
+        "备注："
+      ],
+      [
+        "学校名称：Brussels Business Institute BBI Luxembourg",
+        "中文译名：卢森堡国际酒店旅游学院",
+        "官方网址：www.bbi-edu.eu",
+        "备注："
+      ]
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "name": "立陶宛",
+  "title": "立陶宛",
+  "time": "2019年04月01日",
+  "main_info": [
+    "立陶宛高等教育体制包括两种类型的教育机构：第一种是大学（即大学（university）、学院（academy）或学校（seminary）），第二种是代表非大学高等教育部门的高等教育学院（称为高等教育学院（higher education college）或高等教育机构（higher education institution））。",
+    "第一种类型的院校提供三种等级的学位学习，即学士、硕士和博士学位，进行科研、实验开发及高水平艺术创作。也提供专业技术教学。",
+    "第二种类型的院校提供一种等级的学位学习，即专业学士学位，进行开发应用研究及创作专业艺术作品。",
+    "立陶宛高等教育机构均为国立或非国立。",
+    "立陶宛颁发以下高等教育学历：",
+    "第1级：专业学士（Professional Bachelor）或学士（Bachelor），符合欧洲资格架构（EQF）6级；",
+    "第2级：硕士（Master）， 对应于EQF7级；",
+    "第3级：理科博士（Doctor of Sciences）或文学博士（Doctor of Arts），对应于EQF 8级。",
+    "专业学士学位：学生通过专业技术学习获得学位并准备好独立完成专业作品。完成课程后，学校将颁发相应证书。",
+    "学分制用于计算学生在学习过程中的课程量。在2011年9月1日引入新的学分制后，一个学分对应一个ECTS学分（European Credit Transfer and Accumulation System，欧洲学分转让和累积系统）。 全日制学习的平均课程量为每学年60学分。2004年，立陶宛引入了文凭补充制，自2006年起已应用于本科及研究生毕业生。",
+    "立陶宛建立了国家高等教育质量保障体系。只有认证过的课程计划才能进行执行。经过认证的课程计划将纳入学习和培训计划资格登记中心，执行一段固定的时间。",
+    "高等教育机构和课程的质量是由高等教育质量评估中心（www.skvc.lt）——由ENQA（欧洲高等教育质量保障协会）认可的国家质量保障机构评估。立陶宛有两种与高等教育机构相关的认证：机构认证和课程认证。认证结果和结论是公开的，可在大学网站查看。",
+    "",
+    "英文校名：Kaunas University of Technology",
+    "立陶宛语校名：Kauno technologijos universitetas",
+    "中文校名：考纳斯理工大学",
+    "官方网址：https://ktu.edu/",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Lithuanian Academy of Music and Theatre",
+    "立陶宛语校名：Lietuvos muzikos ir teatro akademija",
+    "中文校名：立陶宛音乐与戏剧学院",
+    "官方网址：http://lmta.lt",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Lithuanian University of Health Sciences",
+    "立陶宛语校名：Lietuvos sveikatos mokslų universitetas",
+    "中文校名：立陶宛健康科学大学",
+    "官方网址：http://www.lsmuni.lt/",
+    "备注： 公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Vilnius Gediminas Technical University",
+    "立陶宛语校名：Vilniaus Gedimino technikos universitetas",
+    "中文校名：维尔纽斯格迪米纳斯技术大学",
+    "官方网址：http://www.vgtu.lt",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Vilnius University",
+    "立陶宛语校名：Vilniaus universitetas",
+    "中文校名：维尔纽斯大学",
+    "官方网址：http://www.vu.lt",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Vytautas Magnus University",
+    "立陶宛语校名：Vytauto Didžiojo universitetas",
+    "中文校名：维陶塔斯马格纳斯大学",
+    "官方网址：http://www.vdu.lt",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Klaipeda University",
+    "立陶宛语校名：Klaipėdos universitetas",
+    "中文校名：克莱佩达大学",
+    "官方网址：http://www.ku.lt,",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Lithuanian Sports University",
+    "立陶宛语校名：Lietuvos sporto universitetas",
+    "中文校名：立陶宛体育大学",
+    "官方网址：http://www.lsu.lt",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：Mykolas Romeris University",
+    "立陶宛语校名：Mykolo Romerio universitetas",
+    "中文校名：米科拉斯•罗梅里斯大学",
+    "官方网址：https://www.mruni.eu",
+    "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障",
+    "英文校名：ISM University of Management and Economics",
+    "立陶宛语校名：ISM Vadybos ir ekonomikos universitetas",
+    "中文校名：ISM管理与经济大学",
+    "官方网址：http://www.ism.lt/",
+    "备注：私立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        " 英文校名：Kaunas University of Technology",
+        "立陶宛语校名：Kauno technologijos universitetas",
+        "中文校名：考纳斯理工大学",
+        "官方网址：https://ktu.edu/",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Lithuanian Academy of Music and Theatre",
+        "立陶宛语校名：Lietuvos muzikos ir teatro akademija",
+        "中文校名：立陶宛音乐与戏剧学院",
+        "官方网址：http://lmta.lt",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Lithuanian University of Health Sciences",
+        "立陶宛语校名：Lietuvos sveikatos mokslų universitetas",
+        "中文校名：立陶宛健康科学大学",
+        "官方网址：http://www.lsmuni.lt/",
+        "备注： 公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Vilnius Gediminas Technical University",
+        "立陶宛语校名：Vilniaus Gedimino technikos universitetas",
+        "中文校名：维尔纽斯格迪米纳斯技术大学",
+        "官方网址：http://www.vgtu.lt",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Vilnius University",
+        "立陶宛语校名：Vilniaus universitetas",
+        "中文校名：维尔纽斯大学",
+        "官方网址：http://www.vu.lt",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Vytautas Magnus University",
+        "立陶宛语校名：Vytauto Didžiojo universitetas",
+        "中文校名：维陶塔斯马格纳斯大学",
+        "官方网址：http://www.vdu.lt",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Klaipeda University",
+        "立陶宛语校名：Klaipėdos universitetas",
+        "中文校名：克莱佩达大学",
+        "官方网址：http://www.ku.lt,",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Lithuanian Sports University",
+        "立陶宛语校名：Lietuvos sporto universitetas",
+        "中文校名：立陶宛体育大学",
+        "官方网址：http://www.lsu.lt",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：Mykolas Romeris University",
+        "立陶宛语校名：Mykolo Romerio universitetas",
+        "中文校名：米科拉斯•罗梅里斯大学",
+        "官方网址：https://www.mruni.eu",
+        "备注：公立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ],
+      [
+        " 英文校名：ISM University of Management and Economics",
+        "立陶宛语校名：ISM Vadybos ir ekonomikos universitetas",
+        "中文校名：ISM管理与经济大学",
+        "官方网址：http://www.ism.lt/",
+        "备注：私立大学，办学质量由Centre for Quality Assessment in Higher Education (SKVC)（高等教育质量评估中心）保障"
+      ]
+    ]
+  }
+}

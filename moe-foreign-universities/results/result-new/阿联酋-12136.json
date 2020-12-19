@@ -1,0 +1,95 @@
+{
+  "name": "阿联酋",
+  "title": "阿联酋",
+  "time": "2018年12月11日",
+  "main_info": [
+    "阿联酋联邦政府设教育部，负责监督阿联酋高等教育和科学研究的总体规划，制定联邦政府高等教育和科研机构的法律草案以及对私立高等教育机构授权与认证。除教育部长外，还设有高等教育事务国务部长和基础教育事务国务部长，分别负责统筹和协调联邦范围内高等院校和高中以下学校事务。阿布扎比酋长国设阿布扎比教育与知识局，可在阿布扎比执委会的授权下与教育部协调合作，在阿布扎比设立学术与教育机构。各高等院校开设的专业由教育部下设的学术认证委员会（Commission of Academic Accreditation）认证。",
+    "阿高校一般开设本科和研究生课程，可以颁发学士、硕士和博士学位，本科专业一般实行四年学制，硕士两年学制，博士四年学制，学业期满后均须经过考试方可毕业并授予学位。阿高校开设专业涵盖计算机与信息技术、商业与管理、教育、外语、工程、环境与健康、传播与媒体、艺术与设计、法学与法理学、社会与行为学等学科。",
+    "经过阿联酋教育部学术认证委员会认证的高校名单可在其网站查询或在阿联酋政府网站“教育”一栏查询并了解相关就读指南，相关网址如下:",
+    "https://www.caa.ae/caa/DesktopModules/Institutions.aspx",
+    "https://www.government.ae/en/web/guest/higher_studies"
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        "  学校英文译名：United Arab Emirates University",
+        "中文译名：阿拉伯联合酋长国大学",
+        "官方网址：https://www.uaeu.ac.ae/en/",
+        "备注："
+      ],
+      [
+        "  学校英文译名：Khalifa University of Science and Technology",
+        "中文译名：哈利法科学技术大学（简称哈利法大学）",
+        "官方网址：http://www.kustar.ac.ae",
+        "备注："
+      ],
+      [
+        "  学校英文译名：Zayed University",
+        "中文译名：扎耶德大学",
+        "官方网址：https://www.zu.ac.ae",
+        "备注："
+      ],
+      [
+        "  学校英文译名：The Emirates Academy of Hospitality Management",
+        "中文译名：阿联酋酒店管理学院",
+        "官方网址：http://www.emiratesacademy.edu",
+        "备注："
+      ],
+      [
+        "  学校英文译名：New York University Abu Dhabi",
+        "中文译名：纽约大学阿布扎比分校",
+        "官方网址：https://nyuad.nyu.edu/en/",
+        "备注："
+      ],
+      [
+        "  学校英文译名：University of Dubai",
+        "中文译名：迪拜大学",
+        "官方网址：https://www.ud.ac.ae",
+        "备注："
+      ],
+      [
+        "  学校英文译名：American University of Sharjah",
+        "中文译名：沙迦美国大学",
+        "官方网址：https://www.aus.edu",
+        "备注："
+      ],
+      [
+        "  学校英文校名：Middlesex University Dubai",
+        "中文校名：迪拜密德萨斯大学",
+        "官方网址：http://www.mdx.ac.ae/",
+        "备注：学校及课程均经迪拜知识与人力开发局（Knowledge and Human Development Authority，简称KHDA）认证。"
+      ],
+      [
+        "  学校英文校名：Emirates Aviation University",
+        "中文校名：阿联酋航空大学",
+        "官方网址：https://www.eau.ac.ae/english/",
+        "备注：学校及课程均经迪拜知识与人力开发局（Knowledge and Human Development Authority，简称KHDA）认证。"
+      ],
+      [
+        "  学校英文校名：British University in Dubai",
+        "中文校名：迪拜英国大学",
+        "官方网址：http://www.buid.ac.ae",
+        "备注：学校及课程均经迪拜知识与人力开发局（Knowledge and Human Development Authority，简称KHDA）认证。"
+      ],
+      [
+        "  学校英文校名：University of Wollongong in Dubai",
+        "中文校名：迪拜伍伦贡大学",
+        "官方网址：http://www.uowdubai.ac.ae",
+        "备注：学校及课程均经迪拜知识与人力开发局（Knowledge and Human Development Authority，简称KHDA）认证。"
+      ],
+      [
+        "  学校英文校名：Rochester Institute of Technology Dubai",
+        "中文校名：迪拜罗切斯特理工学院",
+        "官方网址：http://www.dubai.rit.edu",
+        "备注：学校及课程均经迪拜知识与人力开发局（Knowledge and Human Development Authority，简称KHDA）认证。"
+      ],
+      [
+        "  学校英文校名：Heriot-Watt University, Dubai Campus",
+        "中文校名：赫瑞瓦特大学迪拜分校",
+        "官方网址：http://www.hw.ac.uk\\dubai",
+        "备注：学校及课程均经迪拜知识与人力开发局（Knowledge and Human Development Authority，简称KHDA）认证。"
+      ]
+    ]
+  }
+}

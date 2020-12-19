@@ -1,0 +1,270 @@
+{
+  "name": "新西兰",
+  "title": "新西兰",
+  "time": "2019年08月30日",
+  "main_info": [
+    "新西兰高等教育特指中学后教育，高等教育机构包括大学（8所）、理工学院（15所）、私立教育机构（约550所）、毛利大学（毛利语：Wānanga）（3所）以及行业培训机构（12所）。新西兰大学、理工学院和毛利大学为公立院校，按1989年颁布的《教育法》设立；行业培训机构按1992年颁布的《行业培训法》设立。更多有关新西兰教育的信息请浏览新西兰教育国际推广局(Education New Zealand)官方中文网站：www.studyinnewzealand.govt.nz/cn。",
+    "在新西兰，高等教育和行业培训是由新西兰教育部、新西兰学历资格认证局（NZQA，网址：www.nzqa.govt.nz）和新西兰大学委员会（Universities New Zealand，网址：www.universitiesnz.ac.nz）主管。新西兰学历资格认证局负责管理新西兰资历框架（NZQF）。新西兰资历框架是教育机构质量是否获得保障的权威信息来源，该框架是以学习成果为导向，规定不同的资历持有者应具备的知识、技能和经验。资历共分十个等级，等级的划分以学习内容的复杂程度为基础，一到十级复杂程度逐级提高。学士、硕士及博士学位分列在资历框架的第七级至第十级。",
+    "新西兰学历资格认证局作为质量监管部门，通过制定质量保障总体规则，对高等教育机构实施监督、管理和评估。规则的具体实施则由新西兰学历资格认证局和新西兰大学委员会具体执行，分别对非大学的高等教育机构和大学有效。",
+    "新西兰政府于2002年颁布了《关于留学生指导与照顾的行业规则》，旨在保障留学生权益。该规则为服务新西兰境内留学生制定了准则，设定了指导与照顾的最低标准,适用于所有招收国际留学生的各级院校及中介机构。2016年7月1日，新西兰政府正式开始实施《关于留学生指导与照顾的行业规则》，进一步完善了规则内容。"
+  ],
+  "school_types": [
+    "公立大学（8所）",
+    "理工学院 （15所）",
+    "私立院校（18所）"
+  ],
+  "school_list": {
+    "公立大学（8所）": [
+      [
+        "学校名称：Auckland University of Technology (AUT University)",
+        "中文译名：奥克兰理工大学",
+        "官方网址：http://www.aut.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Lincoln University",
+        "中文译名：林肯大学",
+        "官方网址：http://www.lincoln.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Massey University",
+        "中文译名：梅西大学",
+        "官方网址：http://www.massey.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：The University of Auckland",
+        "中文译名：奥克兰大学",
+        "官方网址：https://www.auckland.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：The University of Waikato",
+        "中文译名：怀卡托大学",
+        "官方网址：http://www.waikato.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Canterbury",
+        "中文译名：坎特伯雷大学",
+        "官方网址：http://www.canterbury.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Otago",
+        "中文译名：奥塔哥大学",
+        "官方网址：http://www.otago.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Victoria University of Wellington",
+        "中文译名：惠灵顿维多利亚大学",
+        "官方网址：http://www.victoria.ac.nz/",
+        "备注:"
+      ]
+    ],
+    "理工学院 （15所）": [
+      [
+        "学校名称：Ara Institute of Canterbury",
+        "中文译名： Ara坎特伯雷理工学院",
+        "官方网址：http://www.ara.ac.nz",
+        "备注：2016年由Aoraki Polytechnic、Christchurch Polytechnic Institute of Technology合并。"
+      ],
+      [
+        "学校名称：Eastern Institute of Technology (EIT)",
+        "中文译名：新西兰东部理工学院",
+        "官方网址：http://www.eit.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Manukau Institute of Technology (MIT)",
+        "中文译名：马努卡理工学院",
+        "官方网址：https://www.manukau.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Nelson Marlborough Institute of Technology (NMIT)",
+        "中文译名：尼尔森马尔伯勒理工学院",
+        "官方网址：https://www.nmit.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Northland Polytechnic (NorthTec)",
+        "中文译名：北方理工学院",
+        "官方网址：http://www.northtec.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Otago Polytechnic",
+        "中文译名：奥塔哥理工学院",
+        "官方网址：https://www.op.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Southern Institute of Technology (SIT)",
+        "中文译名：南方理工学院",
+        "官方网址：https://www.sit.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Tai Poutini Polytechnic",
+        "中文译名：泰普迪尼理工学院",
+        "官方网址：https://tpp.ac.nz/",
+        "备注：新西兰学历资格认证局(NZQA)已将该校降级为3类学校，暂不推荐中国学生赴该校”的备注信息。"
+      ],
+      [
+        "学校名称：Institute of Technology（Unitec）",
+        "中文译名：新西兰理工学院 (Unitec)",
+        "官方网址：https://www.unitec.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Universal College of Learning (UCOL)",
+        "中文译名：国立联合学院",
+        "官方网址：https://www.ucol.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称： Toi Ohomai Institute of Technology",
+        "中文译名：新西兰国立中部理工学院",
+        "官方网址：http://toiohomai.ac.nz/",
+        "备注：2016年由Bay of Plenty Polytechnic、Waiariki Institute of Technology合并。"
+      ],
+      [
+        "学校名称：Waikato Institute of Technology (Wintec)",
+        "中文译名：怀卡托理工学院",
+        "官方网址：https://www.wintec.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Wellington Institute of Technology (WelTec)",
+        "中文译名：惠灵顿理工学院",
+        "官方网址：http://www.weltec.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Western Institute of Technology at Taranaki (WITT)",
+        "中文译名：塔拉纳基西部理工学院",
+        "官方网址：http://www.witt.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Whitireia Community Polytechnic",
+        "中文译名：维特利亚理工学院",
+        "官方网址：https://www.whitireia.ac.nz",
+        "备注："
+      ]
+    ],
+    "私立院校（18所）": [
+      [
+        "学校名称：Auckland Institute of Studies （AIS）",
+        "中文译名：奥克兰商学院",
+        "官方网址：http://www.ais.ac.nz/",
+        "备注：原名称为Auckland Institute of Studies at St Helens, 2013年10月更为现名"
+      ],
+      [
+        "学校名称：Institute of the Pacific United New Zealand (IPU New Zealand)",
+        "中文译名：新西兰IPU国际学院",
+        "官方网址：http://www.ipu.ac.nz/",
+        "备注：原名称为International Pacific College, New Zealand (IPC)"
+      ],
+      [
+        "学校名称：Media Design School (MDS)",
+        "中文译名：媒体设计学院",
+        "官方网址：http://mediadesignschool.com/",
+        "备注："
+      ],
+      [
+        "学校名称：New Zealand College of Chinese Medicine (NZCCM)",
+        "中文译名：新西兰中医学院",
+        "官方网址：http://chinesemedicine.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：New Zealand College of Chiropractic (NZCC)",
+        "中文译名：新西兰脊椎神经学院",
+        "官方网址：http://chiropractic.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：New Zealand School of Acupuncture and Traditional Chinese Medicine (NZSATCM)",
+        "中文译名：新西兰中医针灸学院",
+        "官方网址：http://www.acupuncture.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：New Zealand Tertiary College (NZTC)",
+        "中文译名：新西兰高等教育学院",
+        "官方网址：https://www.nztertiarycollege.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：Pacific International Hotel Management School (PIHMS)",
+        "中文译名：新西兰太平洋国际酒店管理学院",
+        "官方网址：http://pihms.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：SAE Institute",
+        "中文译名：SAE学院",
+        "官方网址：http://auckland.sae.edu/",
+        "备注："
+      ],
+      [
+        "学校名称：South Pacific College of Natural Medicine (SPCNM)",
+        "中文译名：南太平洋自然疗法医学院",
+        "官方网址：https://www.spcnm.ac.nz",
+        "备注：新增"
+      ],
+      [
+        "学校名称：Te Kura Toi Whakaari O Aotearoa: New Zealand Drama School",
+        "中文译名：新西兰演艺学院",
+        "官方网址：http://www.toiwhakaari.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：The New Zealand College of Massage (NZCM)",
+        "中文译名：新西兰健康理疗学院",
+        "官方网址：https://www.massagecollege.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：UUNZ Institute of Business",
+        "中文译名：新西兰UUNZ学院",
+        "官方网址：https://www.uunz.ac.nz",
+        "备注：新西兰学历资格认证局(NZQA)已将该校降级为3类学校，暂不推荐中国学生赴该校”的备注信息。"
+      ],
+      [
+        "学校名称：Wellpark College of Natural Therapies",
+        "中文译名：温尔帕克自然医科学院",
+        "官方网址：http://wellpark.co.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Whitecliffe College of Arts and Design",
+        "中文译名：怀特克利夫艺术设计学院",
+        "官方网址：http://www.whitecliffe.ac.nz/",
+        "备注："
+      ],
+      [
+        "学校名称：Te Rito Maioha Early Childhood New Zealand Incorporated",
+        "中文译名： 新西兰幼儿教育师范学院",
+        "官方网址：www.ecnz.ac.nz",
+        "备注："
+      ],
+      [
+        "学校名称：ICL Graduate Business School",
+        "中文译名： 新西兰ICL商业研究生学院",
+        "官方网址：www.icl.ac.nz",
+        "备注：隶属于新西兰ICL教育集团（part of ICL Education Group）"
+      ],
+      [
+        "学校名称：Yoobee Colleges",
+        "中文译名： Yoobee创意科技学院",
+        "官方网址：http://www.animationcollege.co.nz/",
+        "备注："
+      ]
+    ]
+  }
+}

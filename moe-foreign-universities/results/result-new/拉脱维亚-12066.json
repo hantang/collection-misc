@@ -1,0 +1,137 @@
+{
+  "name": "拉脱维亚",
+  "title": "拉脱维亚",
+  "time": null,
+  "main_info": [
+    "拉脱维亚的高等教育由教育与科学部主管。",
+    "拉脱维亚已加入博洛尼亚进程，高校普遍实行学士、硕士和博士三级学位制度及欧洲学分转换系统（ECTS）。一般情况下，无论是大学还是其他高等教育机构大都同时开设学术课程和专业课程，具体可以分为:",
+    "一、可申请学术学位的学术课程: 学士,约3-4年；硕士,约2年。",
+    "二、可申请专业学位和专业资格证书的高等专业课程:专业学士,约4年；专业硕士,约2年。",
+    "三、可申请博士学位(科学学位)的博士课程,约3-4年。",
+    "通常本科毕业生可以继续攻读学术和专业型的硕士学位，硕士毕业生无论是学术型的还是专业型的都可以继续攻读博士课程。",
+    "拉脱维亚高校主要以拉脱维亚语教学，但大多数高校都能提供英语和俄语两种外语课程，外国学生到拉脱维亚学习必须熟练掌握所需的教学语言。",
+    "此次推荐的是20所大学，其教育质量和学术研究在拉脱维亚具有较高水平。"
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        "英文（或者源语言）校名：Art Academy of Latvia",
+        "中文校名：拉脱维亚艺术学院",
+        "官方网址：http://www.lma.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：BA School of Business and Finance",
+        "中文校名：BA商学与金融学院",
+        "官方网址： http://www.ba.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：EKA University of Applied Sciences",
+        "中文校名：EKA应用科学大学",
+        "官方网址：https://www.augstskola.lv/",
+        "备注：拉脱维亚语校名：Ekonomikas un kultūras augstskola，直译为：高等经济与文化学院"
+      ],
+      [
+        "英文（或者源语言）校名：Jāzeps Vītols Latvian Academy of Music",
+        "中文校名：约瑟夫惠特尔拉脱维亚音乐学院",
+        "官方网址： http://www.jvlma.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：Latvian Academy of Culture",
+        "中文校名：拉脱维亚文化学院",
+        "官方网址：https://lka.edu.lv/en/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：Latvian Maritime Academy",
+        "中文校名：拉脱维亚海事学院",
+        "官方网址： http:// www.latja.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：Latvia University of Life Sciences and Technologies",
+        "中文校名：拉脱维亚生命科学与技术大学",
+        "官方网址：https://www.llu.lv/",
+        "备注：拉脱维亚语校名：Latvijas Lauksaimniecības universitāte，中文译名：拉脱维亚农业大学"
+      ],
+      [
+        "英文（或者源语言）校名：Liepaja University",
+        "中文校名：利耶帕亚大学",
+        "官方网址：https://www.liepu.lv/",
+        "备注：拉脱维亚语校名：Latvijas Universitāte"
+      ],
+      [
+        "英文（或者源语言）校名： Rezekne Academy of Technologies",
+        "中文校名：雷泽克内技术学院",
+        "官方网址： http://www.ru.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名： Rīga Stradiņš University",
+        "中文校名：里加斯特拉迪什大学",
+        "官方网址： http://www.rsu.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：Riga Technical University",
+        "中文校名：里加技术大学",
+        "官方网址： http:// www.rtu.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)："
+      ],
+      [
+        "英文（或者源语言）校名：RISEBA University of Applied Sciences",
+        "中文校名：RISEBA应用科学大学",
+        "官方网址：https://www.riseba.lv/",
+        "备注：拉脱维亚语校名：Biznesa, mākslas un tehnoloģiju augstskola \"RISEBA\"，直译为：RISEBA高等商务、艺术与技术学院"
+      ],
+      [
+        "英文（或者源语言）校名： Stockholm School of Economics in Riga",
+        "中文校名：里加斯德哥尔摩经济学院",
+        "官方网址： http://www.sseriga.edu.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Transport and Telecommunication Institute",
+        "中文校名：运输和电信学院",
+        "官方网址： http://www.tsi.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名： Turība University, Ltd.",
+        "中文校名：图里巴大学",
+        "官方网址： http://www.turiba.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)",
+        "备注：学校名称拉脱维亚语是\"BIZNESA AUGSTSKOLA TURĪBA, SIA\"直译为中文是\"图里巴商业高等教育有限公司\"."
+      ],
+      [
+        "英文（或者源语言）校名：University of Daugavpils",
+        "中文校名：陶格夫匹尔斯大学",
+        "官方网址： http://www.du.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：University of Latvia",
+        "中文校名：拉脱维亚大学",
+        "官方网址： http://www.lu.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：Ventspils University College",
+        "中文校名：文茨皮尔斯大学学院",
+        "官方网址： http://www.venta.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)"
+      ],
+      [
+        "英文（或者源语言）校名：Vidzeme University of Applied Sciences",
+        "中文校名：维泽梅应用科学大学",
+        "官方网址： http://www.va.lv/",
+        "办学质量的保障性：Higher Education Quality Evaluation Centre (HEQEC)",
+        "备注：拉脱维亚语的学校名称是\"Vidzemes Augstskola\",直译为中文是\"维泽梅高等学院\"。需注意拉脱维亚语中\"Augstskola\"与拉脱维亚语中表示\"大学\"意义的\"Universitāte\"并不一致，该校所属的学校类别也是大学学院而不是大学。本次外方提供的均为英文校名，所以中文校名均根据英文翻译而成。"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "name": "捷克",
+  "title": "捷克",
+  "time": "2019年10月09日",
+  "main_info": [
+    "捷克高等教育包括三个阶段，第一阶段本科教育，学制3-4年，学生毕业后通过国家考试获得学士学位；第二阶段硕士教育，学制1-3年或 4-6年。其中已获得学士学位的学生学制为1-3年，长硕士学位课程（不以学士学位为前提）学制为4-6年。设立长硕士学位的专业有：医学、兽医、药学、法律等。这两种硕士学位课程都颁发硕士学位。第三阶段博士教育，学制3-4年，获得博士学位。",
+    "捷克高等教育分两种形式，一种为由大专和职业学校所提供的专业导向课程，学制3年，毕业生可获得毕业证，但不获得学位，捷克大专和职业院校约有175所；第二种为高等教育机构提供的高等教育课程。高等教育机构包括26所公立高校（Public Higher Education Institutions）、2所国立高校（State Higher Education Institutions）和39所私立高校（Private Higher Education Institutions）。公立大学和国立大学均依法设立，其中国立大学是隶属于国防部（国防大学）或内政部（警察学院）的国家机构；私立大学是相对新颖的办学形式，申请人及学校法人必须获得教育青年体育部授予的许可方可办学。",
+    "捷克高等教育法（The High Education Act）对高等教育机构的设立标准、设立程序、学历学位证书的颁发以及高等教育质量保障框架和措施作了相关规定。捷克高等教育认证委员会Accreditation Commission Czech Republic (ACCR)依据高等教育法建立，负责对捷克高等教育机构的教学质量和课程设置进行监督。",
+    ""
+  ],
+  "school_types": [
+    "公立高校",
+    "私立高校",
+    "国立高校"
+  ],
+  "school_list": {
+    "公立高校": [
+      [
+        "英文（或者源语言）校名：Charles University (Univerzita Karlova)",
+        "中文校名：查理大学",
+        "官方网址：http://www.cuni.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：University of South Bohemia in České Budějovice (Jihočeská univerzita v Českých Budějovicích)",
+        "中文校名：捷克布杰约维采南波西米亚大学",
+        "官方网址：http://www.jcu.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Jan Evangelista Purkyně University（Univerzita Jana Evangelisty Purkyně v Ústí nad Labem）",
+        "中文校名：拉贝河畔乌斯季扬•埃万盖利斯塔•普尔基涅大学",
+        "官方网址：https://www.ujep.cz/cs/",
+        "备注：该校官网名称为：Jan Evangelista Purkyně University in Ústí nad Labem该校在捷克教育青年体育部公布的26所公立高校名单内，名称为University of J. E. Purkyně in Ústí nad Labem（Univerzita Jana Evangelisty Purkyně v Ústí nad Labem）"
+      ],
+      [
+        "英文（或者源语言）校名：Masaryk University （Masarykova univerzita）",
+        "中文校名：马萨里克大学",
+        "官方网址：https://www.muni.cz/",
+        "备注：与该校官网名称一致。该校在捷克教育青年体育部公布的26所公立高校名单内，名称为Masaryk University in Brno（Masarykova univerzita v Brně ）"
+      ],
+      [
+        "英文（或者源语言）校名：Palacký University, Olomouc（Univerzita Palackého v Olomouci）",
+        "中文校名：帕拉茨基大学",
+        "官方网址：http://www.upol.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：University of Veterinary and Pharmaceutical Sciences, Brno（Veterinární a farmaceutická univerzita Brno）",
+        "中文校名：布尔诺兽医学与药物科学大学",
+        "官方网址：http://www.vfu.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：University of Ostrava（Ostravská univerzita ）",
+        "中文校名：奥斯特拉发大学",
+        "官方网址：http://www.osu.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：University of Hradec Králové（Univerzita Hradec Králové ）",
+        "中文校名：赫拉德茨－克拉洛维大学",
+        "官方网址：https://www.uhk.cz/cs-CZ/UHK",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Silesian University in Opava（Slezská univerzita v Opavě）",
+        "中文校名：奥帕瓦西里西亚大学",
+        "官方网址：http://www.slu.cz/slu/cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Czech Technical University in Prague（České vysoké učení technické v Praze）",
+        "中文校名：捷克理工大学",
+        "官方网址：https://www.cvut.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：University of Chemistry and Technology, Prague（Vysoká škola chemicko-technologická v Praze）",
+        "中文校名：布拉格化工大学",
+        "官方网址：https://www.vscht.cz/",
+        "备注：与该校官网名称一致。该校在捷克教育青年体育部公布的26所公立高校名单内，名称为Institute of Chemical Technology, Prague"
+      ],
+      [
+        "英文（或者源语言）校名：University of West Bohemia（Západočeská univerzita v Plzni）",
+        "中文校名：皮尔森西波西米亚大学",
+        "官方网址：http://www.zcu.cz/",
+        "备注：与该校官网名称一致。该校在捷克教育青年体育部公布的26所公立高校名单内，名称为University of West Bohemia in Pilsen（Západočeská univerzita v Plzni ）"
+      ],
+      [
+        "英文（或者源语言）校名：Technical University of Liberec（Technická univerzita v Liberci ）",
+        "中文校名：利贝雷茨理工大学",
+        "官方网址：http://www.tul.cz/en/",
+        "备注：与该校官网名称一致。该校在捷克教育青年体育部公布的26所公立高校名单内，名称为Technical University in Liberec（Technická univerzita v Liberci ）"
+      ],
+      [
+        "英文（或者源语言）校名：University of Pardubice（Univerzita Pardubice ）",
+        "中文校名：帕尔杜比采大学",
+        "官方网址：http://www.upce.cz/index.html",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。认证书名称为“巴尔杜比采大学”或“帕尔杜比采大学”。"
+      ],
+      [
+        "英文（或者源语言）校名：Brno University of Technology (Vysoké učení technické v Brně)",
+        "中文校名：布尔诺理工大学",
+        "官方网址：https://www.vutbr.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：VŠB – Technical University of Ostrava (Vysoká škola báňská – Technická univerzita Ostrava)",
+        "中文校名：奥斯特拉发理工大学",
+        "官方网址：https://www.vsb.cz/cs/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Tomas Bata University in Zlín (Univerzita Tomáše Bati ve Zlíně)",
+        "中文校名：托马斯拔佳大学",
+        "官方网址：http://www.utb.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：University of Economics, Prague (Vysoká škola ekonomická v Praze)",
+        "中文校名：布拉格经济大学",
+        "官方网址：http://www.vse.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Czech University of Life Sciences, Prague (Česká zemědělská univerzita v Praze)",
+        "中文校名：捷克生命科学大学",
+        "官方网址：https://www.czu.cz/cs/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Mendel University in Brno (Mendelova universita v Brně)",
+        "中文校名：布尔诺孟德尔大学",
+        "官方网址：http://mendelu.cz/",
+        "备注：与该校官网名称一致。该校在捷克教育青年体育部公布的26所公立高校名单内,名称为Mendel University of Agriculture and Forestry, Brno (Mendelova univerzita v Brně)"
+      ],
+      [
+        "英文（或者源语言）校名：Academy of Performing Arts in Prague（Akademie múzických umění v Praze ）",
+        "中文校名：布拉格表演艺术学院",
+        "官方网址：http://www.amu.cz/cs",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Academy of Fine Arts in Prague (Akademie výtvarných umění v Praze)",
+        "中文校名：布拉格美术学院",
+        "官方网址：https://www.avu.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Academy of Arts, Architecture & Design in Prague (Vysoká škola umělecko-průmyslová v Praze)",
+        "中文校名：布拉格艺术、建筑与设计学院",
+        "官方网址：http://www.vsup.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内，名称为Academy of Arts, Architecture and Design in Prague(Vysoká škola umělecko-průmyslová v Praze )"
+      ],
+      [
+        "英文（或者源语言）校名：Janáček Academy of Music and Performing Arts in Brno (Janáčkova akademie múzických umění v Brně)",
+        "中文校名：布尔诺亚纳切克音乐与表演艺术学院",
+        "官方网址：http://english.jamu.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：College of Polytechnics, Jihlava (Vysoká škola polytechnická Jihlava)",
+        "中文校名：伊赫拉瓦理工学院",
+        "官方网址：http://www.vspji.cz/",
+        "备注：该校在捷克教育青年体育部公布的26所公立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：Institute of Technology and Business in České Budějovice（Vysoká škola technická a ekonomická v Českých Budějovicích）",
+        "中文校名：捷克布杰约维采技术与商务学院",
+        "官方网址：http://www.vstecb.cz/",
+        "备注：该校官网名称为：The Institute of Technology and Business in České Budějovice该校在捷克教育青年体育部公布的26所公立高校名单内,名称为Institute of Technology and Business in České Budějovice（Vysoká škola technická a ekonomická v Českých Budějovicích）"
+      ]
+    ],
+    "私立高校": [
+      [
+        "英文（或者源语言）校名：College of Regional Development and Banking Institute - AMBIS, a. s. (Vysoká škola regionálního rozvoje a Bankovní institut  - AMBIS, a.s.",
+        "中文校名：区域发展与银行学院",
+        "官方网址：www.ambis.cz",
+        "备注：该校为原银行学院Banking Institute College of Banking (Bankovní institut vysoká škola Praha)与区域发展学院The College of Regional Development（Vysoká škola regionálního rozvoje, s.r.o.）两校合并,在捷克教育青年体育部公布的39所私立高校名单内。联系人: Dr. Martina Mannová ，Rector；Tel: +420 251 114 500； Email:martina.mannova@ambis.cz"
+      ],
+      [
+        "英文（或者源语言）校名：European Polytechnical Institute, Ltd.(Evropský polytechnický institut, s.r.o.)",
+        "中文校名：欧洲理工学院",
+        "官方网址：https://www.edukomplex.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为European Polytechnical Institute, Ltd. – Kunovice Campus（Evropský polytechnický institut, s.r.o. – Kunovice)"
+      ],
+      [
+        "英文（或者源语言）校名：The Institute of Hospitality Management in Prague 8, Ltd.（Vysoká škola hotelová v Praze 8, spol.s.r.o. ）",
+        "中文校名：布拉格酒店管理学院",
+        "官方网址：http://www.vsh.cz/en/",
+        "备注：\"该校官网名称为：The Institute of Hospitality Management in Prague该校在捷克教育青年体育部公布的39所私立高校名单内,名称为Institute of Hospitality Management in Prague 8, Ltd.（Vysoká škola hotelová v Praze 8, s.r.o. ）\""
+      ],
+      [
+        "英文（或者源语言）校名：Frank Dyson Education Institute Ltd. (Vysoká škola realitní - Institut Franka Dysona)",
+        "中文校名：弗兰克-戴森教育学院",
+        "官方网址：http://www.fdyson.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Frank Dyson Education Institute, Ltd.（Vysoká škola realitní - Institut Franka Dysona, s.r.o. - Brno）"
+      ],
+      [
+        "英文（或者源语言）校名：University of Advance Legal Studies（Vysoká škola aplikovaného práva, s.r.o.）",
+        "中文校名：高级法律研究大学",
+        "官方网址：http://www.vsap.cz/",
+        "备注：\"该校官网名称为：Vysoká škola aplikovaného práva该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola aplikovaného práva, s.r.o., Praha ）\""
+      ],
+      [
+        "英文（或者源语言）校名：University of Economics and Management(Vysoká škola ekonomie a managementu, o.p.s.)",
+        "中文校名：经济与管理大学",
+        "官方网址：https://www.vsem.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola ekonomie a managementu, o.p.s. - Praha"
+      ],
+      [
+        "英文（或者源语言）校名：University of New York in Prague （University of New York in Prague, s.r.o.）",
+        "中文校名：纽约大学布拉格分校",
+        "官方网址：https://www.unyp.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为University of New York in Prague, s.r.o., Praha 2"
+      ],
+      [
+        "英文（或者源语言）校名：College of International and Public Relations, Prague（Vysoká škola mezinárodních a veřejných vztahů Praha, o.p.s.）",
+        "中文校名：布拉格国际和公共关系学院",
+        "官方网址：http://vsmvv.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为University College of International and Public Relations, Prague（Vysoká škola mezinárodních a veřejných vztahů Praha , o.p.s.）    \""
+      ],
+      [
+        "英文（或者源语言）校名：Academia Rerum Civilium (ACADEMIA RERUM CIVILIUM - VYSOKÁ ŠKOLA POLITICKÝCH A SPOLEČENSKÝCH VĚD, S.R.O.）",
+        "中文校名：政治和社会科学学院",
+        "官方网址：http://www.vspsv.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Academia Rerum Civilium（Academia Rerum Civilium - Vysoká škola politických a společenských věd, s.r.o. - Kolín）\""
+      ],
+      [
+        "英文（或者源语言）校名：College of European and Regional Studies （Vysoká škola evropských a regionálních studií）",
+        "中文校名：欧洲和区域研究学院",
+        "官方网址：https://vsers.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola evropských a regionálních studií, z. ú. - České Budějovice"
+      ],
+      [
+        "英文（或者源语言）校名：International Film Studies Písku（Filmová akademie Miroslava Ondříčka v Písku, o.p.s.)",
+        "中文校名：皮塞克国际电影研究学院",
+        "官方网址：http://www.filmovka.cz/cs/",
+        "备注：\"该校官网名称为：International Film Studies该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Film Academy of Miroslav Ondříček in Písek（Filmová akademie Miroslava Ondříčka v Písku, o.p.s.）\""
+      ],
+      [
+        "英文（或者源语言）校名：The College of Physical Education and Sport Palestra （Vysoká škola tělesné výchovy a sportu Palestra）",
+        "中文校名：体育学院",
+        "官方网址：http://www.palestra.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola tělesné výchovy a sportu Palestra, s.r.o., Praha"
+      ],
+      [
+        "英文（或者源语言）校名：NEWTON College （NEWTON College, a.s.）",
+        "中文校名：牛顿学院",
+        "官方网址：http://www.newtoncollege.cz/index.html?pageid=1&profil=1",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为NEWTON College, a.s. – Brno"
+      ],
+      [
+        "英文（或者源语言）校名：College of Logistics（Vysoká škola logistiky o.p.s.）",
+        "中文校名：物流学院",
+        "官方网址：http://www.vslg.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为College of Logistics （Vysoká škola logistiky, o.p.s. – Přerov）\""
+      ],
+      [
+        "英文（或者源语言）校名：Medical College in Nursing (Vysoká škola zdravotnická, o.p.s.)",
+        "中文校名：护理医学院",
+        "官方网址：http://www.vszdrav.cz/cz/leve-menu/aktuality/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Public Health University （Vysoká škola zdravotnická, o.p.s. – Praha）"
+      ],
+      [
+        "英文（或者源语言）校名：The Brno International Business School （B.I.B.S., a.s. ）",
+        "中文校名：布尔诺国际商学院",
+        "官方网址：http://www.bibs.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为B.I.B.S., a.s. Brno International Business School"
+      ],
+      [
+        "英文（或者源语言）校名：The Private College of Economic Studies Znojmo, Ltd. （Soukromá vysoká škola ekonomických studií, s.r.o.）",
+        "中文校名：私立经济研究学院",
+        "官方网址：http://www.svses.cz/",
+        "备注：\"该校官网名称为：Private College of Economic Studies该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Soukromá vysoká škola ekonomických studií, s.r.o. - Praha\""
+      ],
+      [
+        "英文（或者源语言）校名：University College of Business in Prague (Vysoká škola obchodní v Praze,o.p.s.)",
+        "中文校名：布拉格商业大学",
+        "官方网址：http://www.vso-praha.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为College of Business in Prague（Vysoká škola obchodní v Praze，o.p.s.）\""
+      ],
+      [
+        "英文（或者源语言）校名：Sting Academy（Akademie STING ,o.p.s.)",
+        "中文校名：斯丁学院",
+        "官方网址：http://www.sting.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Akademie STING, o.p.s. - Brno\""
+      ],
+      [
+        "英文（或者源语言）校名：Metropolitan University, Prague（Metropolitní univerzita v Praze, o.p.s.）",
+        "中文校名：布拉格大都会大学",
+        "官方网址：http://www.mup.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Metropolitní univerzita Praha, o.p.s."
+      ],
+      [
+        "英文（或者源语言）校名：The Jana Amos Komensky University Prague （Univerzita Jana Ámose Komenského Praha s.r.o.）",
+        "中文校名：夸美纽斯大学",
+        "官方网址：http://www.ujak.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Univerzita Jana Amose Komenského Praha, s.r.o."
+      ],
+      [
+        "英文（或者源语言）校名：Karel Englis College（Vysoká škola Karla Engliše v Brně, a.s.）",
+        "中文校名：卡雷尔英语学院",
+        "官方网址：http://www.vske.cz/cz",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Karel Englis College, Brno（Vysoká škola Karla Engliše v Brně， a.s.）\""
+      ],
+      [
+        "英文（或者源语言）校名：Anglo-American University（Anglo-americká vysoká škola, z.ú.）",
+        "中文校名：英美大学",
+        "官方网址：http://www.aauni.edu/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内,名称为Anglo-americká vysoká škola, z.ú. - Praha"
+      ],
+      [
+        "英文（或者源语言）校名：Prague College of Psychological Studies (Pražská vysoká škola psychosociálních studií)",
+        "中文校名：布拉格心理学研究学院",
+        "官方网址：http://reg.ignum.cz/?d=www.viap.cz",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Pražská vysoká škola psychosociálních studií, s.r.o. – Praha"
+      ],
+      [
+        "英文（或者源语言）校名：Westmoravian College, Třebíč（Západomoravská vysoká škola Třebíč, o.p.s.）",
+        "中文校名：西摩拉维亚学院",
+        "官方网址：http://www.zmvs.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Západomoravská vysoká škola Třebíč, o.p.s"
+      ],
+      [
+        "英文（或者源语言）校名：Private College of Economic Studies（Soukromá vysoká škola ekonomická Znojmo, s.r.o.)",
+        "中文校名：私立经济研究学院",
+        "官方网址：http://www.svse.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内,名称为Private College of Economic Studies Znojmo, Ltd.（Soukromá vysoká škola ekonomická Znojmo, s.r.o.）"
+      ],
+      [
+        "英文（或者源语言）校名：Moravian Business College Olomouc（Moravská vysoká škola Olomouc, o.p.s.)",
+        "中文校名：奥洛穆茨摩拉维亚商学院",
+        "官方网址：http://www.mvso.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Moravian College Olomouc（Moravská vysoká škola Olomouc, o.p.s.）"
+      ],
+      [
+        "英文（或者源语言）校名：Cevro Institute (CEVRO Institut，z.ú.)",
+        "中文校名：Cervo学院",
+        "官方网址：http://www.vsci.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为CEVRO Institut, z. ú. - Praha\""
+      ],
+      [
+        "英文（或者源语言）校名：Unicorn College （Unicorn College s.r.o.）",
+        "中文校名：麒麟学院",
+        "官方网址：https://www.unicorncollege.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Unicorn College s.r.o. - Praha"
+      ],
+      [
+        "英文（或者源语言）校名：College of Business and Hotel Management(Vysoká škola obchodní a hotelová s.r.o.)",
+        "中文校名：商业与酒店管理学院",
+        "官方网址：http://www.hotskolabrno.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为College of Tourism and Hotel Management（Vysoká škola obchodní a hotelová, s.r.o. – Brno）\""
+      ],
+      [
+        "英文（或者源语言）校名：College of Social and Administrative(Vysoká škola sociálně správní, Institut celoživotního vzdělávání Havířov)",
+        "中文校名：社会与行政学院",
+        "官方网址：http://www.vsss.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola sociálně správní, z. ú."
+      ],
+      [
+        "英文（或者源语言）校名：Akcent College （Akcent College s.r.o.）",
+        "中文校名：Akcent学院",
+        "官方网址：http://akcentcollege.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为AKCENT College, s.r.o. - Praha"
+      ],
+      [
+        "英文（或者源语言）校名：Architectural Institute in Prague (Archip, s.r.o.)",
+        "中文校名：布拉格建筑学院",
+        "官方网址：https://www.archip.eu/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内。"
+      ],
+      [
+        "英文（或者源语言）校名：College of Appllied Psychology（Vysoká škola aplikované psychologie），s. r. o",
+        "中文校名：应用心理学学院",
+        "官方网址：http://www.vsaps.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola aplikované psychologie, s.r.o. - Praha"
+      ],
+      [
+        "英文（或者源语言）校名：Škoda Auto University（ŠKODA AUTO Vysoká škola o.p.s.)",
+        "中文校名：斯柯达汽车大学",
+        "官方网址：http://www.savs.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为ŠKODA AUTO Vysoká škola o. p. s - Mladá Boleslav"
+      ],
+      [
+        "英文（或者源语言）校名：ART & DESIGN INSTITUT（ART & DESIGN INSTITUT, s.r.o.）",
+        "中文校名：艺术与设计学院",
+        "官方网址：http://www.artdesigninstitut.cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内,名称为ART & DESIGN INSTITUT, s.r.o. - Praha"
+      ],
+      [
+        "英文（或者源语言）校名：College of Entrepreneurship and law (Vysoká škola podnikánía práva , a.s.)",
+        "中文校名：创业与法律学院",
+        "官方网址：https://www.vspp.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola podnikání a práva, a.s. - Praha \""
+      ],
+      [
+        "英文（或者源语言）校名：University of Creative Communication (Vysoká škola kreativní komunikace,s.r.o.)",
+        "中文校名：创意传播大学",
+        "官方网址：http://www.vskk.cz/cz/",
+        "备注：该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola kreativní komunikace, s.r.o. - Praha"
+      ],
+      [
+        "英文（或者源语言）校名：University of Finance and Administration（Vysoká škola finanční a správní, a.s.)",
+        "中文校名：布拉格金融管理大学",
+        "官方网址：http://www.vsfs.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的39所私立高校名单内，名称为Vysoká škola finanční a správní, a.s. \""
+      ]
+    ],
+    "国立高校": [
+      [
+        "英文（或者源语言）校名：The Police Academy of the Czech Republic（Policejní akademie České republiky v Praze）",
+        "中文校名：捷克共和国警察学院",
+        "官方网址：http://www.polac.cz/g2/index.php",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的国家高等教育机构名单中名称为：The Police Academy of the Czech Republic in Prague（Policejní akademie České republiky v Praze）\""
+      ],
+      [
+        "英文（或者源语言）校名：University of Defense（Univerzita obrany）",
+        "中文校名：捷克国防大学",
+        "官方网址：http://www.unob.cz/",
+        "备注：\"与该校官网名称一致。该校在捷克教育青年体育部公布的国家高等教育机构名单内。\""
+      ]
+    ]
+  }
+}

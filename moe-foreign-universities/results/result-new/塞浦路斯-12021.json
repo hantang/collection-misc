@@ -1,0 +1,79 @@
+{
+  "name": "塞浦路斯",
+  "title": "塞浦路斯",
+  "time": "2018年11月14日",
+  "main_info": [
+    "根据塞浦路斯法律，塞浦路斯高等教育机构由公立与私立大学及高等教育机构三部分组成。其中，大学可以授予的学位包括：",
+    "学士学位（4年）",
+    "硕士学位（18个月至2年）",
+    "博士学位（3至4年）",
+    "在塞浦路斯，高等教育质量保障与审批局（The Cyprus Agency of Quality Assurance and Accreditation in Higher Education）是负责该国高等教育质量保障的权威机构，其职责主要为以下几个方面：",
+    "1、完善高等教育机构的内部与外部质量保障措施；",
+    "2、定期对高等教育机构进行机制、部门与规划审批与评估；",
+    "3、公布通过审批的塞浦路斯高等教育机构及开设专业名单；",
+    "塞浦路斯高等教育文凭认证委员会（简称KYSATS）成立于1996年，是塞浦路斯负责对在本国及国外教育机构获得的文凭进行认证的机构。",
+    "",
+    "自2015年11月5日(塞浦路斯高等教育质量保障与审批局理事会委任之日)起，所有在塞浦路斯共和国办学的高等教育机构的任意新课程都要通过塞浦路斯高等教育质量保障与审批局评估和正式认可后才被允许开设。"
+  ],
+  "school_types": [
+    "公立大学",
+    "私立大学"
+  ],
+  "school_list": {
+    "公立大学": [
+      [
+        "英文校名：University of Cyprus",
+        "中文校名：塞浦路斯大学",
+        "官方网址：www.ucy.ac.cy",
+        "备注："
+      ],
+      [
+        "英文校名：Cyprus University of Technology",
+        "中文校名：塞浦路斯理工大学",
+        "官方网址：www.cut.ac.cy",
+        ""
+      ]
+    ],
+    "私立大学": [
+      [
+        "英文校名：Frederick University",
+        "中文校名：弗雷德里克大学",
+        "官方网址：www.frederick.ac.cy",
+        "备注："
+      ],
+      [
+        "英文校名：European University Cyprus",
+        "中文校名：塞浦路斯欧洲大学",
+        "官方网址：www.euc.ac.cy/",
+        "备注："
+      ],
+      [
+        "英文校名：University of Nicosia",
+        "中文校名：尼科西亚大学",
+        "官方网址：www.unic.ac.cy/",
+        "备注："
+      ],
+      [
+        "英文校名：Neapolis University Pafos",
+        "中文校名：那波勒斯大学",
+        "官方网址：www.nup.ac.cy/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Cyprus School of Molecular Medicine",
+        "中文校名：塞浦路斯分子医学学院",
+        "官方网址：http://www.cing.ac.cy/csmm/",
+        "联系人：Marinos Voukis（招生办负责人）",
+        "联系电话：00357-22392845",
+        "联系邮箱：marinosv@cing.ac.cy"
+      ],
+      [
+        "英文（或者源语言）校名：University of Central Lancashire Cyprus",
+        "中文校名：中央兰开夏大学塞浦路斯分校",
+        "官方网址：www.uclancyprus.ac.cy",
+        "备注： ",
+        ""
+      ]
+    ]
+  }
+}

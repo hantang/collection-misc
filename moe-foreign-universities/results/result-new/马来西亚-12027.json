@@ -1,0 +1,862 @@
+{
+  "name": "马来西亚",
+  "title": "马来西亚",
+  "time": "2018年11月13日",
+  "main_info": [
+    "马来西亚高等教育体系包括公立和私立两部分。公立高校包括公立大学、公立学院和技术职业学院，私立高校包括私立大学、私立大学学院、私立学院和外国大学分校。公立大学、私立大学、私立大学学院和部分公立学院具有颁发本校大专及大专以上文凭的资格。专科学制2-3年，本科学制3年，硕士学制1-2年、博士学制2-6年。",
+    "马来西亚教育部是高等教育主管部门，对高校的设立行使行政审批权。马高校所开设课程需经教育部以及国家学术鉴定局（MQA）双重核准。国家学术鉴定局还负责对课程质量的监督审查，各校经认证的课程可在其网站上查询（网址：http://www.mqa.gov.my/mqr/index.htm）。",
+    "马来西亚现有公立大学20所、私立大学43所、大学学院10所、私立院校3所。各高校招收国际学生的资质需经马教育部和内政部双重核准，目前具备该资质的高校除20所公立大学外，还有239所私立高校。马高校大多以英文授课，部分私立大学学院和私立学院设立了与国际接轨的双联课程，引进英、美、加、澳、新西兰等国高等教育课程，学生毕业可获颁这些国家高校的大学本科及以上文凭，该文凭受到世界多数国家认可。",
+    "自2012年2月起,外国留学生首次赴马报到前须持学校录取通知书及马移民局返签信才可入境，为此特别提醒学生及家长切勿轻信一些留学中介机构有关可凭旅游签入境赴马留学的错误表述。按照马政府规定，持学生签证的外国留学生留学期间不可务工。"
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        "",
+        "英文（或者源语言）校名：Universiti Islam Antarabangsa Malaysia",
+        "院校中文校名：马来西亚国际伊斯兰大学",
+        "官方网站：www.iium.edu.my",
+        "院校性质：公立大学",
+        "地址：Jalan Sultan Ahmad Shah Bandar Indera Mahkota 25200 Kuantan,Pahang",
+        "电话：6009-571 6701",
+        "传真：609-571 6776",
+        "邮件：webmaster@iium.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Kebangsaan Malaysia",
+        "院校中文校名：马来西亚国民大学",
+        "官方网站：www.ukm.my",
+        "院校性质：公立大学",
+        "地址：43600 Bangie，Selangor",
+        "电话：603-89215039",
+        "传真：603-89250662",
+        "邮件：akad@pkrisc.cc.ukm.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Malaya",
+        "院校中文校名：马来亚大学",
+        "官方网站：www.um.edu.my",
+        "院校性质：公立大学",
+        "地址：International and Corporate Relations Office,Level L,Chancellery Building,50603 Kuala Lumpur",
+        "电话：603-79677022",
+        "传真：603-79560027",
+        "邮件：icr@um.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Malaysia Kelantan",
+        "院校中文校名：马来西亚吉兰丹大学",
+        "官方网站：www.umk.edu.my",
+        "院校性质：公立大学",
+        "地址：Karung Berkunci 36 Pengkalan Chepa 16100 Kota Bharu Kelantan",
+        "电话：609-7717000",
+        "传真：609-7717022",
+        "邮件：nc@umk.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Malaysia Pahang",
+        "院校中文校名：马来西亚彭亨大学",
+        "官方网站：www.ump.edu.my",
+        "院校性质：公立大学",
+        "地址：Lebuhraya Tun Razak 26300 Gambang,Kuantan Pahang",
+        "电话：609-5492501",
+        "传真：609-5493199",
+        "邮件：pro@ump.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Malaysia Perlis",
+        "院校中文校名：马来西亚玻璃市大学",
+        "官方网站：www.unimap.edu.my",
+        "院校性质：公立大学",
+        "地址：Canselori,Tingkat 11,Bangunan KWSP,Jalan Bukit Lagi 01000 Kangar, Perlis",
+        "电话：604-9798008",
+        "传真：604-9798011",
+        "邮件：pro@unimap.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Malaysia Sabah",
+        "院校中文校名：马来西亚沙巴大学",
+        "官方网站：www.ums.edu.my",
+        "院校性质：公立大学",
+        "地址：Jalan UMS 88400 Kota Kinabalu Sabah",
+        "电话：6088-320000",
+        "传真：6088-320070",
+        "邮件：ppa@ums.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Malaysia Sarawak",
+        "院校中文校名：马来西亚沙捞越大学",
+        "官方网站：www.unimas.my",
+        "院校性质：公立大学",
+        "地址：94300 Kota Samarahan Sarawak",
+        "电话：6082-581000",
+        "传真：6082-665088",
+        "邮件：ukp@unimas.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Malaysia Terengganu",
+        "院校中文校名：马来西亚丁加奴大学",
+        "官方网站：www.umt.edu.my",
+        "院校性质：公立大学",
+        "地址：21030 Kuala Terengganu,Terengganu",
+        "电话：609-6684219",
+        "传真：609-6684143",
+        "邮件：akademik@umt.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Pendidikan Sultan Idris",
+        "院校中文校名：苏丹依德理斯教育大学",
+        "官方网站：www.upsi.edu.my",
+        "院校性质：公立大学",
+        "地址：35900 Tanjong Malim Perak",
+        "电话：605-4506000",
+        "传真：605-4582670",
+        "邮件：akademik@upsi.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Pertahanan Nasional Malaysia",
+        "院校中文校名：马来西亚国防大学",
+        "官方网站：www.upnm.edu.my",
+        "院校性质：公立大学",
+        "地址：Kem Sungai Besi 57000 Kuala Lumpur",
+        "电话：603-90513421",
+        "传真：603-90565411",
+        "邮件：tnc.heaa@upnm.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Putra Malaysia",
+        "院校中文校名：马来西亚博特拉大学",
+        "官方网站：www.upm.edu.my",
+        "院校性质：公立大学",
+        "地址：43400 Serdang,Selangor",
+        "电话：603-89466000",
+        "传真：603-89487273",
+        "邮件：webmaster@putra.upm.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Sains Islam Malaysia",
+        "院校中文校名：马来西亚伊斯兰理科大学",
+        "官方网站：www.usim.edu.my",
+        "院校性质：公立大学",
+        "地址：Bandar Baru Nilai, 71800 Nilai,Negeri Sembilan",
+        "电话：609-7988000",
+        "传真：609-7988204",
+        "邮件：helpdesk@usim.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Sultan Zainal Abidin",
+        "院校中文校名：苏丹再纳阿比汀大学",
+        "官方网站：www.unisza.edu.my",
+        "院校性质：公立大学",
+        "地址：21300 Kuala Nerus, Terengganu",
+        "电话：609-6653300",
+        "传真：609-6673412",
+        "邮件：ujk@unisza.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Sains Malaysia",
+        "院校中文校名：马来西亚理科大学",
+        "官方网站：www.usm.my",
+        "院校性质：公立大学",
+        "地址：11800 Minden,Pulau Pinang",
+        "电话：604-6533140",
+        "传真：604-6589666",
+        "邮件：pro@usm.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Teknikal Malaysia Melaka",
+        "院校中文校名：马六甲马来西亚技术大学",
+        "官方网站：www.utem.edu.my",
+        "院校性质：公立大学",
+        "地址：Hang Tuah Jaya, 76100 Durian Tunggal Malacca",
+        "电话：606-3316314",
+        "传真：606-3316320",
+        "邮件：pjka@utem.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Teknologi Malaysia",
+        "院校中文校名：马来西亚理工大学",
+        "官方网站：www.utm.my",
+        "院校性质：公立大学",
+        "地址：81310 Johor Bahru,Johor",
+        "电话：607-5533333",
+        "传真：607-5561722",
+        "邮件：webmaster@utm.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Teknologi MARA",
+        "院校中文校名：玛拉工艺大学",
+        "官方网站：www.uitm.edu.my",
+        "院校性质：公立大学",
+        "地址：40450 Shah Alam Selangor",
+        "电话：603-55443509",
+        "传真：603-55443510",
+        "邮件："
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Tun Hussein Onn Malaysia",
+        "院校中文校名：马来西亚敦胡先翁大学",
+        "官方网站：www.uthm.edu.my",
+        "院校性质：公立大学",
+        "地址：Parit Raja,86400 Baru Pahat Johor",
+        "电话：607-4537025",
+        "传真：607-4536177",
+        "邮件：pro@uthm.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Utara Malaysia",
+        "院校中文校名：马来西亚北方大学",
+        "官方网站：www.uum.edu.my",
+        "院校性质：公立大学",
+        "地址：06010 UUM Sintok Kedah",
+        "电话：604-9284000",
+        "传真：604-9283016",
+        "邮件：prouum@uum.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：AIMST University",
+        "院校中文校名：科学及科技大学",
+        "官方网站：www.aimst.edu.my",
+        "院校性质：私立大学",
+        "地址：Batu 31/2,Bukit Air Nasi Jalan Bedong-Semeling 08100 Bedong Kedah",
+        "电话：604-4298000",
+        "传真：604-4298007",
+        "邮件：choose@aimst.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：AL-Madinah International University",
+        "院校中文校名：AL-Madinah国际大学",
+        "官方网站：www.mediu.edu.my",
+        "院校性质：私立大学",
+        "地址：Tingkat 11,Plaza Masalam,No.2,Jalan Tengku Ampuan Zabedah E/9E,Seksyen 9,40100 Shah Alam, Selangor",
+        "电话：603-55113939",
+        "传真：603-55113940",
+        "邮件："
+      ],
+      [
+        "英文（或者源语言）校名：Asia Metropolitan University",
+        "院校中文校名：亚洲城市大学",
+        "官方网站：www.amu.edu.my",
+        "院校性质：私立大学",
+        "地址：G-8, Jalan Kemacahaya 11，Taman Kemacahaya, Batu 9，43200 Cheras",
+        "电话：603-9080 5888",
+        "传真：603-9080 1995",
+        "邮件：info@amu.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Asia Pacific University of Technology and Innovation",
+        "院校中文校名：亚太科技大学",
+        "官方网站：www.apu.edu.my",
+        "院校性质：私立大学",
+        "地址：Lot 6, Taman Teknologi Malaysia，Bukit Jalil，57000 Kuala Lumpur",
+        "电话：603-8996 1000",
+        "传真：603-8996 1001",
+        "邮件：info@apu.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Binary University of Management and Entrepreneurship",
+        "院校中文校名：百纳利管理与创业大学",
+        "官方网站：www.binary.edu.my院校性质：私立大学",
+        "地址：No.1, IOI Business Park， Persiaran Puchong Jaya Selatan, Bandar Puchong Jaya，47100 Puchong",
+        "电话：603-8070 6590",
+        "传真：603-8070 6594",
+        "邮件：info@binary.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：City University",
+        "院校中文校名：城市大学",
+        "官方网站：www.city.edu.my",
+        "院校性质：私立大学",
+        "地址：No.8, Jalan 223/51A，46100 Petaling Jaya，Selangor",
+        "电话：603-7949 1600",
+        "传真：603-7957 7721",
+        "邮件：college@city.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：DRB-HICOM University of Automotive Malaysia",
+        "院校中文校名：",
+        "官方网站：www.icam.edu.my",
+        "院校性质：私立大学",
+        "地址：Kompleks Automotif DRB-HICOM，Lot 1449, PT 2204，Kawasan Perindustrian Peramu Jaya，26607 Pekan, Pahang",
+        "电话：609-424 2400",
+        "传真：609-424 2500",
+        "邮件：enquiries@icam.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：GlobalNxt University",
+        "院校中文校名：",
+        "官方网站：www.globalnxt.edu.my",
+        "院校性质：私立大学",
+        "地址：Unit No.A (ii),Level 5,Menara Shell，Jalan Tun Sambanthan，Kuala Lumpur Sentral，50470 Kuala Lumpur",
+        "电话：603-2787 0700",
+        "传真：603-2787 0799",
+        "邮件： wing.lam@globalnxt.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：HELP University",
+        "院校中文校名：精英大学",
+        "官方网站：www.help.edu.my",
+        "院校性质：私立大学",
+        "地址：BZ-2, Pusat Bandar Damansara，50490 Kuala Lumpur，Wilayah Persekutuan Kuala Lumpur",
+        "电话：603-2094 2000",
+        "传真：603-2095 7100",
+        "邮件：khong@help.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Infrastructure University Kuala Lumpur",
+        "院校中文校名：吉隆坡建设大学",
+        "官方网站：www.iukl.edu.my",
+        "院校性质：私立大学",
+        "地址：Unipark Suria，Jalan Ikram-Uniten，43000 Kajang",
+        "电话：603-8926 6993",
+        "传真：603-8734 1021",
+        "邮件：inquiry@iukl.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：International Centre for Education in Islamic Finance",
+        "院校中文校名：国际伊斯兰金融教育中心",
+        "官方网站：www.inceif.org",
+        "院校性质：私立大学",
+        "地址：Lorong Universiti A，59100 Kuala Lumpur",
+        "电话：603-2781 4092",
+        "传真：603-2692 4094",
+        "邮件：info@inceif.org"
+      ],
+      [
+        "英文（或者源语言）校名：International Medical University",
+        "院校中文校名：国际医药大学",
+        "官方网站：www.imu.edu.my",
+        "院校性质：私立大学",
+        "地址：No. 126, Jalan Jalil Perkasa 19，57000 Bukit Jalil",
+        "电话：603-8656 7228",
+        "传真：603-8656 7229",
+        "邮件：registry@imu.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：INTI International University",
+        "院校中文校名：英迪国际大学",
+        "官方网站：www.newinti.edu.my",
+        "院校性质：私立大学",
+        "地址：Persiaran Perdana BBN，Putera Nilai，71800 Nilai",
+        "电话：606-798 2000",
+        "传真：606-799 7531",
+        "邮件：vco@newinti.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：International University of Malaya-Wales",
+        "院校中文校名：马来亚-威尔士国际大学",
+        "官方网站：www.iumw.edu.my",
+        "院校性质：私立大学",
+        "地址：Blok A & Blok C, Kampus Kota，Jalan Tun Ismail，50480 Kuala Lumpur",
+        "电话：603-2617 3002",
+        "传真：603-2617 3203",
+        "邮件：arhamzah@iumw.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Limkokwing University of Creative Technology",
+        "院校中文校名：林国荣创意科技大学",
+        "官方网站：www.limkokwing.edu.my",
+        "院校性质：私立大学",
+        "地址：Inovasi 1, Jalan Teknokrat，Off Jalan APEC，63000 Cyberjaya",
+        "电话：603-8317 8888",
+        "传真：603-8317 8988",
+        "邮件：enquiry@limkokwing.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：MAHSA University",
+        "院校中文校名：玛莎大学",
+        "官方网站：www.mahsa.edu.my",
+        "院校性质：私立大学",
+        "地址：Jalan University Campus，Jalan Elmu Off Jalan Universiti，59100 Kuala Lumpur，Wilayah Persekutuan Kuala Lumpur",
+        "电话：603-7965 2555",
+        "传真：603-7931 7119",
+        "邮件：khairulanuar@mahsa.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Malaysian Institute for Supply Chain Innovation",
+        "院校中文校名：马来西亚理科与工艺大学",
+        "官方网站：www.misi.edu.my",
+        "院校性质：私立大学",
+        "地址：Sime Darby Pavilion, No 2A,Persiaran Tebar Layar，Seksyen U8, Bukit Jelutong，40150 Shah Alam",
+        "电话：603-7842 2177",
+        "传真：603-7842 1987",
+        "邮件："
+      ],
+      [
+        "英文（或者源语言）校名：Malaysia University of Science and Technology",
+        "院校中文校名：马来西亚理科与工艺大学",
+        "官方网站：www.must.edu.my",
+        "院校性质：私立大学",
+        "地址：GL 33, Ground Floor, Block C，Dataran Usahawan Kelana, 17, Jalan，SS 7/26, Kelana Jaya，47301 Petaling Jaya",
+        "电话：603-7880 1777",
+        "传真：603-7880 1762",
+        "邮件：ghazally@must.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Management and Science University",
+        "院校中文校名：管理与科学大学",
+        "官方网站：www.msu.edu.my",
+        "院校性质：私立大学",
+        "地址：No. 4, Persiaran Olahraga，Seksyen 13，40100 Shah Alam",
+        "电话：603-5521 6868",
+        "传真：603-5511 2848",
+        "邮件：junainah@msu.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Manipal International University",
+        "院校中文校名：玛尼帕尔国际大学",
+        "官方网站：www.miu.edu.my",
+        "院校性质：私立大学",
+        "地址：No. 1, Persiaran MIU，71800 Nilai，Negeri Sembilan",
+        "电话：606-798 9200",
+        "传真：606-798 9300",
+        "邮件：nur.munira@miu.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Multimedia University",
+        "院校中文校名：多媒体大学",
+        "官方网站：www.mmu.edu.my",
+        "院校性质：私立大学",
+        "地址：Jalan Multimedia，63100 Cyberjaya，Selangor",
+        "电话：603-8312 5149",
+        "传真：603-8312 5115",
+        "邮件：cqaae@mmu.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Nilai University",
+        "院校中文校名：汝来大学",
+        "官方网站：www.nilai.edu.my",
+        "院校性质：私立大学",
+        "地址：No.1, Persiaran Universiti, Putra Nilai，71800 Nilai，Negeri Sembilan",
+        "电话：606-850 2338",
+        "传真：606-8502339",
+        "邮件：enquiry@nilai.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Perdana University",
+        "院校中文校名：首要大学",
+        "官方网站：www.perdanauniversity.edu.my",
+        "院校性质：私立大学",
+        "地址：Block B & Block D1, MAEPS Building，Jalan MAEPS Perdana，43400 Serdang",
+        "电话：603-8941 8646",
+        "传真：603-8941 7661",
+        "邮件：enquiry@perdanauniversity.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Putra Business School",
+        "院校中文校名：",
+        "官方网站：www.putrabusinessschool.edu.my",
+        "院校性质：私立院校",
+        "地址：Graduate School of Management，Universiti Putra Malaysia，43400 UPM Serdang，Selangor",
+        "电话：603-8946 7440",
+        "传真：603-8943 4019",
+        "邮件：enquiry@putrabs.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Quest international university perak",
+        "院校中文校名：",
+        "官方网站：www.qiup.edu.my",
+        "院校性质：私立大学",
+        "地址：No. 227, Plaza Teh Teng Seng & No. 122, Jalan Raja Permaisuri Bainun & No. 122, Jalan Haji Eusuff, Housing Trust, 30250 Ipoh，Perak",
+        "电话：605-249 0500",
+        "传真：605-249 0503",
+        "邮件：enquiries@qiup.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Raffles University Iskandar",
+        "院校中文校名：依斯干达莱佛士大学",
+        "官方网站：www.raffles-university.edu.my",
+        "院校性质：私立大学",
+        "地址：Menara Kota Raya, Aras 9，Jalan Trus，80000 Johor Bahru，Johor",
+        "电话：607-277 8868",
+        "传真：607-277 8878",
+        "邮件：enquiry@raffles-university.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：SEGI University",
+        "院校中文校名：世纪大学",
+        "官方网站：www.segi.edu.my",
+        "院校性质：私立大学",
+        "地址：No.9, Jalan Teknologi, Taman Sains，Selangor，Kota Damansara PJU 5，47810 Petaling Jaya",
+        "电话：603-6145 2777",
+        "传真：603-6145 2666",
+        "邮件：infokd@segi.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Sunway university",
+        "院校中文校名：双威大学",
+        "官方网站：www.sunway.edu.my",
+        "院校性质：私立大学",
+        "地址：No. 5, Jalan Universiti，Bandar Sunway，47500 Selangor，Selangor",
+        "电话：603-7491 8622",
+        "传真：603-5635 8633",
+        "邮件：info@sunway.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Taylor's University",
+        "院校中文校名：泰莱大学",
+        "官方网站：www.taylors.edu.my",
+        "院校性质：私立大学",
+        "地址：Taylor's Lakeside Campus，No.1, Jalan Taylor's，47500 Subang Jaya Selangor",
+        "电话：603-5629 5000",
+        "传真：603-5629 5001",
+        "邮件：admissions@taylors.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：UCSI University",
+        "院校中文校名：思特雅大学",
+        "官方网站：www.ucsiuniversity.edu.my",
+        "院校性质：私立大学",
+        "地址：No. 1, Jalan Menara Gading，UCSI Heights, Cheras，56000 Kuala Lumpur，Wilayah Persekutuan Kuala Lumpur",
+        "电话：603-9101 8880",
+        "传真：603-9102 3606",
+        "邮件：enquiry@ucsiuniversity.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：UNITAR International University",
+        "院校中文校名：",
+        "官方网站：www.unitar.my",
+        "院校性质：私立大学",
+        "地址：Tierra Crest, Jalan SS6/3, Kelana Jaya，47300 Petaling Jaya，Selangor",
+        "电话：603-7627 7200",
+        "传真：603-7627 7447",
+        "邮件：enquiries@unitar.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Kuala Lumpur",
+        "院校中文校名：吉隆坡大学",
+        "官方网站：www.unikl.edu.my",
+        "院校性质：私立大学",
+        "地址：1016, Jalan Sultan Ismail，50250 Kuala Lumpur",
+        "电话：603-2175 4000",
+        "传真：603-2175 4001",
+        "邮件：drwmohamad@unikl.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Selangor",
+        "院校中文校名：雪兰莪大学",
+        "官方网站：www.unisel.edu.my",
+        "院校性质：私立大学",
+        "地址：Jalan Timur Tambahan，45600 Bestari Jaya，Selangor",
+        "电话：603-3289 7336",
+        "传真：603-3289 7335",
+        "邮件：unit_LAN@unisel.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Sultan Azlan Shah",
+        "院校中文校名：",
+        "官方网站：www.kuisas.edu.my",
+        "院校性质：私立大学",
+        "地址：Bukit Chandan，33000 Bandar Diraja Kuala Kangsar，Perak",
+        "电话：605-773 2323",
+        "传真：605-773 2333",
+        "邮件： pro@kuisas.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Teknologi Petronas",
+        "院校中文校名：国油科技大学",
+        "官方网站：www.utp.edu.my",
+        "院校性质：私立大学",
+        "地址：Bandar Seri Iskandar，31750 Tronoh，Perak",
+        "电话：605-368 8000",
+        "传真：605-365 4082",
+        "邮件：utp@petronas.com.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Tenaga Nasional",
+        "院校中文校名：国家能源大学",
+        "官方网站：www.uniten.edu.my",
+        "院校性质：私立大学",
+        "地址：Jalan Ikram-Uniten，43000 Kajang，Selangor",
+        "电话：603-8921 2020",
+        "传真：603-8928 7166",
+        "邮件：safidah@uniten.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Tun Abdul Razak",
+        "院校中文校名：敦阿都拉萨大学",
+        "官方网站：www.unirazak.edu.my",
+        "院校性质：私立大学",
+        "地址：Jalan Tangsi，50480 Kuala Lumpur",
+        "电话：603-2730 7000",
+        "传真：603-2730 7077",
+        "邮件：crm@unirazak.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Universiti Tunku Abdul Rahman",
+        "院校中文校名：拉曼大学",
+        "官方网站：www.utar.edu.my",
+        "院校性质：私立大学",
+        "地址：Lot PT 21144, Jalan Sungai Long，Bandar Sg. Long, Cheras，43000 Kajang",
+        "电话：603-9086 0288",
+        "传真：603-9019 8832",
+        "邮件：lohsy@utar.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：University Malaysia of Computer Science and Engineering",
+        "院校中文校名：",
+        "官方网站：www.unimy.edu.my",
+        "院校性质：私立大学",
+        "地址：Menara Z10, Ground Floor & Mezzanine Floor，Jalan Alamanda 2, Presint 1，62000 Putrajaya",
+        "电话：603-8800 5000",
+        "传真：603-8800 5011",
+        "邮件：nurhayati@unimy.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：BERJAYA University College",
+        "院校中文校名：成功大学学院",
+        "官方网站：http://www.berjaya.edu.my/university/",
+        "院校性质：私立院校",
+        "地址：Tingkat 11 (Barat) & Tingkat 14，(Timur)  Berjaya Times Square, No.1, Jalan Imbi，55100 Kuala Lumpur",
+        "电话：603-2687 7000",
+        "传真：603-2687 7001",
+        "邮件：info@berjaya.edu.my",
+        "备注：马来西亚成功大学学院原名为成功礼待大学学院，为马来西亚正规私立高等院校。学校更改校名获得了马来西亚高教部和马来西亚资质署（MQA）的批复，并已在其网站上更换了新校名。"
+      ],
+      [
+        "英文（或者源语言）校名：Cyberjaya University College of Medical Sciences",
+        "院校中文校名：赛柏再也医药理科大学学院",
+        "官方网站：www.cybermed.edu.my",
+        "院校性质：大学学院",
+        "地址：No. 3410, Jalan Teknokrat 3, Cyber 4，63000 Cyberjaya，Selangor",
+        "电话：603-8313 7000",
+        "传真：603-8313 7001",
+        "邮件：inquiry@cybermed.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：First City University College",
+        "院校中文校名：",
+        "官方网站：www.firstcity.edu.my",
+        "院校性质：私立大学",
+        "地址：No 1, Persiaran Bandar Utama，Bandar Utama，47800 Petaling Jaya, Selangor",
+        "电话：603-7727 3200",
+        "传真：603-7727 2733",
+        "邮件： wendy.wong@firstcity.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：INSANIAH University College",
+        "院校中文校名：英沙尼亚大学学院",
+        "官方网站：www.insaniah.edu.my",
+        "院校性质：大学学院",
+        "地址：Lot 3449, Kuala Ketil，09300 Baling，Kedah",
+        "电话：604-415 5000",
+        "传真：604-415 5050",
+        "邮件：admin@kuin.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：International Islamic University College Selangor",
+        "院校中文校名：雪兰莪国际伊斯兰大学学院",
+        "官方网站：www.kuis.edu.my",
+        "院校性质：大学学院",
+        "地址：Bandar Seri Putera，43600 Bangi，Selangor",
+        "电话：603-8925 4251",
+        "传真：603-8925 4418",
+        "邮件：info@kuis.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：International University College of Technology Twintech",
+        "院校中文校名：双德国际科技大学学院",
+        "官方网站：www.twintech.edu.my",
+        "院校性质：大学学院",
+        "地址：Blok E, Pusat Perdagangan Sri，Damansara，Persiaran Industri, Bandar Sri，Damansara，52200 Kuala Lumpur",
+        "电话：603-6286 1200",
+        "传真：603-6274 7055",
+        "邮件：drariff@twintech.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：KDU University College",
+        "院校中文校名：伯乐大学学院",
+        "官方网站：www.kdu.edu.my",
+        "院校性质：私立大学",
+        "地址：Jalan Kontraktor U1/14, Seksyen U1，40150 Shah Alam，Selangor",
+        "电话：603-5565 0538",
+        "传真：603-5565 0539",
+        "邮件： best@kdu.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：KPJ Healthcare University College",
+        "院校中文校名：KPJ国际大学学院",
+        "官方网站：www.kpjuc.edu.my",
+        "院校性质：大学学院",
+        "地址：Lot PT 17010，Persiaran Seriemas，Kota Seriemas，71800 Nilai，Negeri Sembilan",
+        "电话：606-794 2630",
+        "传真：606-794 2662",
+        "邮件：-"
+      ],
+      [
+        "英文（或者源语言）校名：Kuala Lumpur Metropolitan University College",
+        "院校中文校名：吉隆坡首都大学学院",
+        "官方网站：www.klmuc.edu.my",
+        "院校性质：大学学院",
+        "地址：Tingkat 1-3, Wisma Sachdev 16-2，Jalan Raja Laut，50350 Kuala Lumpur",
+        "电话：603-2694 9455",
+        "传真：603-2694 9477",
+        "邮件：afif.abduljalil@klmuc.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Lincoln University College",
+        "院校中文校名：林肯大学学院",
+        "官方网站：www.lincoln.edu.my",
+        "院校性质：大学学院",
+        "地址：Blok A, Mayang Plaza，No. 1, Jalan SS 26/2，47301 Petaling Jaya，Selangor",
+        "电话：603-7806 3478",
+        "传真：603-7806 3479",
+        "邮件：info@lincoln.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Linton University College",
+        "院校中文校名：林登大学学院",
+        "官方网站：www.linton.edu.my",
+        "院校性质：",
+        "地址：Persiaran UTL，Bandar Universiti Teknologi Legenda,Batu 12，71700 Mantin, Negeri Sembilan",
+        "电话：606-758 7888",
+        "传真：606-758 7599",
+        "邮件：kul_corp@ktgeducation.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Southern University College",
+        "院校中文校名：南方大学学院",
+        "官方网站：www.southern.edu.my",
+        "院校性质：私立大学",
+        "地址：PTD 64888, 15 KM，Jalan Skudai, P.O. Box 76，81300 Skudai, Johor",
+        "电话：607-558 6605",
+        "传真：607-556 3306",
+        "邮件： sec@sc.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：TATI University College",
+        "院校中文校名：TATI大学学院",
+        "官方网站：www.tatiuc.edu.my",
+        "院校性质：大学学院",
+        "地址：Jalan Panchor, Telok Kalong，24000, Kemamam，Terengganu",
+        "电话：609-863 3863",
+        "传真：609-863 5863",
+        "邮件： pra@tatiuc.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Tunku Abdul Rahman University College",
+        "院校中文校名：拉曼大学学院",
+        "官方网站：www.tarc.edu.my",
+        "院校性质：私立大学",
+        "地址：Jalan Genting Kelang，Setapak，53300 Kuala Lumpur",
+        "电话：603-4145 0123",
+        "传真：603-4142 3166",
+        "邮件： info@tarc.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：University College Bestari",
+        "院校中文校名：北斯达利大学学院",
+        "官方网站：www.ucbestari.edu.my",
+        "院校性质：大学学院",
+        "地址：Putera Jaya, Bandar Permaisuri，22100, Setiu，Terengganu",
+        "电话：609-609 7103",
+        "传真：609-609 7107",
+        "邮件： info@ucbestari.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：University College of Islam Malacca",
+        "院校中文校名：马六甲伊斯兰大学学院",
+        "官方网站：www.kuim.edu.my",
+        "院校性质：大学学院",
+        "地址：Batu 28, Kuala Sungai Baru，78200, Melaka",
+        "电话：606-387 8420",
+        "传真：606-387 8368",
+        "邮件：sitinoraini@kuim.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：University College of Technology Sarawak",
+        "院校中文校名：沙捞越科技大学学院",
+        "官方网站：www.ucts.edu.my",
+        "院校性质：私立大学",
+        "地址：Lot 868,Persiaran Brooke 96000 Sibu,Sarawak",
+        "电话：6084-367 300",
+        "传真：6084-367 306",
+        "邮件：drhakim@ucts.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Widad University College",
+        "院校中文校名：Widad大学学院",
+        "官方网站：www.universitycollegeshahputra.edu.my",
+        "院校性质：私立大学",
+        "地址：BIM Point Bandar Indera Mahkota 25200 Kuantan Pahang MALAYSIA",
+        "电话：609-573 7777",
+        "传真：609-573 8899",
+        "邮件：webmaster@shahputra.edu.cn"
+      ],
+      [
+        "英文（或者源语言）校名：Akademi Seni Budaya dan Warisan Kebangsaan",
+        "院校中文校名：国际艺术学院",
+        "官方网站：www.aswara.edu.my",
+        "院校性质：私立院校",
+        "地址：464 Jalan Tun Ismail，50480 Kuala Lumpur，MALAYSIA",
+        "电话：603-2697 1777 / 26975916",
+        "传真：603-2697 5452",
+        "邮件：info@aswara.edu.my"
+      ],
+      [
+        "英文（或者源语言）校名：Institut Pendidikan Guru",
+        "院校中文校名：师范学院",
+        "官方网站：www.moe.gov.my/ipgm/portal",
+        "院校性质：私立院校",
+        "地址：Aras 1, Enterprise Building 3, Blok，2200, Jalan Persiaran APEC Cyber 6，63000 Cyberjaya，Selangor",
+        "电话：603-8884 1000",
+        "传真：603-8884 1081",
+        "邮件：bpg.aduan@moe.gov.my"
+      ],
+      [
+        "英文（或者源语言）校名：Heriot-Watt University Malaysia",
+        "中文校名：赫瑞-瓦特大学马来西亚分校",
+        "官方网站：https://www.hw.ac.uk/malaysia/index.htm",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Monash University Malaysia",
+        "中文校名：莫纳什大学马来西亚分校",
+        "官方网站：www.monash.edu.my",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Swinburne University of Technology Sarawak Campus",
+        "中文校名：斯文本科技大学马来西亚沙捞越校区",
+        "官方网站：www.swinburne.edu.my",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：The University of Nottingham Malaysia Campus",
+        "中文校名：诺丁汉大学马来西亚分校",
+        "官方网站：www.nottingham.edu.my",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Han Chiang University College of Communication",
+        "中文校名：韩江传媒大学学院",
+        "官方网站：https://www.hcu.edu.my",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Kolej Universiti Poly-Tech MARA",
+        "中文校名：科莱大学多科玛拉分校",
+        "官方网站：https://www.kuptm.edu.my",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University College of Yayasan Pahang (UCYP)",
+        "中文校名：彭亨教育基金大学学院",
+        "官方网站：https:// www.ucyp.edu.my/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：North Borneo University College",
+        "中文校名：北婆罗洲大学学院",
+        "官方网站：https://www.nbuc.edu.my",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Kolej Universiti New Era",
+        "中文校名：新纪元大学学院",
+        "官方网站：https://www.newera.edu.my",
+        "备注："
+      ],
+      []
+    ]
+  }
+}

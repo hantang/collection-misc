@@ -1,0 +1,1455 @@
+{
+  "name": "意大利",
+  "title": "意大利",
+  "time": "2020年03月04日",
+  "main_info": [
+    "意大利的学位目前分学士学位和博士学位二级。大学本科毕业获学士学位，学士学位获得者可以直接申请读博士学位。大学本科阶段包括3年的基础课程和2年的专业课程。",
+    "意大利高等院校正逐渐采用依据欧洲学分转换体系（European Credit Transfer System, ECTS）设定的学分制及三级学位制度。一个学分对应25个小时的学习，60个学分对应一年的学习。本科学制3年，须完成180个学分，毕业后可获得学士学位（意大利语为Laurea-L）。硕士学位（意大利语为Laurea Magistrale-LM）学制两年，须学满300个学分（包括本科学习期间取得的180个学分）。博士学位（意大利语为Dottorato di Ricerca-DR）学制至少3年。",
+    "意大利现有各类高等院校218所。",
+    "意大利的高等院校大多数都用意大利语教学，但目前也有一些学校用英语授课。",
+    ""
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        "英文（或者源语言）校名：Università degli Studi di BARI ALDO MORO",
+        "中文校名：巴里“阿尔多·莫罗”大学",
+        "官方网址：http://www.uniba.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Politecnico di BARI",
+        "中文校名：巴里理工大学",
+        "官方网址：http://www.poliba.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi della BASILICATA",
+        "中文校名：巴西利卡塔大学",
+        "官方网址：http://www.unibas.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di BERGAMO",
+        "中文校名：贝加莫大学",
+        "官方网址：http://www.unibg.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di BOLOGNA",
+        "中文校名：博洛尼亚大学",
+        "官方网址：http://www.unibo.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di BRESCIA",
+        "中文校名：布雷西亚大学",
+        "官方网址：http://www.unibs.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di CAGLIARI",
+        "中文校名：卡利亚里大学",
+        "官方网址：http://www.unica.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università della CALABRIA",
+        "中文校名：卡拉布里亚大学",
+        "官方网址：http://www.unical.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di CAMERINO",
+        "中文校名：卡梅里诺大学",
+        "官方网址：http://www.unicam.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di CASSINO e del LAZIO MERIDIONALE",
+        "中文校名：卡西诺-南拉齐奥大学",
+        "官方网址：http://www.unicas.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di CATANIA",
+        "中文校名：卡塔尼亚大学",
+        "官方网址：http://www.unict.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi \"Magna Graecia\" di CATANZARO",
+        "中文校名：卡坦扎罗“大希腊”大学",
+        "官方网址：http://www.unicz.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi \"G. d'Annunzio\" CHIETI-PESCARA",
+        "中文校名：基耶蒂-佩斯卡拉“G.邓南遮”大学",
+        "官方网址：http://www.unich.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di FERRARA",
+        "中文校名：费拉拉大学",
+        "官方网址：http://www.unife.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di FIRENZE",
+        "中文校名：佛罗伦萨大学",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di FOGGIA",
+        "中文校名：福贾大学",
+        "官方网址：http://www.unifg.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di GENOVA",
+        "中文校名：热那亚大学",
+        "官方网址：http://www.unige.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi INSUBRIA Varese-Como",
+        "中文校名：瓦雷泽-科莫因苏布里亚大学",
+        "官方网址：http://www.uninsubria.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi dell'AQUILA",
+        "中文校名：拉奎拉大学",
+        "官方网址：http://www.univaq.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di MACERATA",
+        "中文校名：马切拉塔大学",
+        "官方网址：http://www.unimc.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di MESSINA",
+        "中文校名：墨西拿大学",
+        "官方网址：http://www.unime.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di MILANO",
+        "中文校名：米兰大学",
+        "官方网址：http://www.unimi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di MILANO - BICOCCA",
+        "中文校名：米兰比可卡大学",
+        "官方网址：http://www.unimib.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Politecnico di MILANO",
+        "中文校名：米兰理工大学",
+        "官方网址：http://www.polimi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di MODENA e REGGIO EMILIA",
+        "中文校名：摩德纳-雷焦艾米利亚大学",
+        "官方网址：http://www.unimo.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi del MOLISE",
+        "中文校名：莫利塞大学",
+        "官方网址：http://www.unimol.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di NAPOLI \"Federico II\"",
+        "中文校名：那不勒斯费德里科二世大学",
+        "官方网址：http://www.unina.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi della Campagna “Luigi Vanvitelli”",
+        "中文校名：“路易吉•万维特里”坎帕尼亚大学",
+        "官方网址：http://www.unicampania.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di NAPOLI \"Parthenope\"",
+        "中文校名：那不勒斯“帕耳忒诺珀”大学",
+        "官方网址：http://www.uniparthenope.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di NAPOLI \"L'Orientale\"",
+        "中文校名：那不勒斯东方大学",
+        "官方网址：http://www.iuo.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di PADOVA",
+        "中文校名：帕多瓦大学",
+        "官方网址：http://www.unipd.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di PALERMO",
+        "中文校名：巴勒莫大学",
+        "官方网址：http://www.unipa.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di PARMA",
+        "中文校名：帕尔马大学",
+        "官方网址：http://www.unipr.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di PAVIA",
+        "中文校名：帕维亚大学",
+        "官方网址：http://www.unipv.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di PERUGIA",
+        "中文校名：佩鲁贾大学",
+        "官方网址：http://www.unipg.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università per Stranieri di PERUGIA",
+        "中文校名：佩鲁贾外国人大学",
+        "官方网址：http://www.unistrapg.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi del PIEMONTE ORIENTALE \"Amedeo Avogadro\"-Vercelli",
+        "中文校名：韦尔切利-东皮埃蒙特“阿莫德欧·阿沃嘉德罗”大学",
+        "官方网址：http://www.unipmn.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università di PISA",
+        "中文校名：比萨大学",
+        "官方网址：http://www.unipi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Scuola Normale Superiore di PISA",
+        "中文校名：比萨高等师范学校",
+        "官方网址：http://www.sns.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Scuola Superiore di Studi Universitari e Perfezionamento Sant'Anna",
+        "中文校名：比萨圣安娜高等学校",
+        "官方网址：http://www.sssup.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università Politecnica delle MARCHE",
+        "中文校名：马尔凯理工大学",
+        "官方网址：http://www.univpm.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi \"Mediterranea\" di REGGIO CALABRIA",
+        "中文校名：雷焦卡拉布里亚“地中海”大学",
+        "官方网址：http://www.unirc.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di ROMA \"Foro Italico\"",
+        "中文校名：罗马体育大学",
+        "官方网址：http://www.uniroma4.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di ROMA \"La Sapienza\"",
+        "中文校名：罗马第一大学“智慧”",
+        "官方网址：http://www.uniroma1.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di ROMA \"Tor Vergata\"",
+        "中文校名：罗马第二大学“托•维尔加塔”",
+        "官方网址：http://www.uniroma2.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi ROMA TRE",
+        "中文校名：罗马第三大学",
+        "官方网址：http://www.uniroma3.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università del SALENTO",
+        "中文校名：萨伦托大学",
+        "官方网址：http://www.unisalento.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di SALERNO",
+        "中文校名：萨莱诺大学",
+        "官方网址：http://www.unisa.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi del SANNIO di BENEVENTO",
+        "中文校名：贝内文托桑尼奥大学",
+        "官方网址：http://www.unisannio.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di SASSARI",
+        "中文校名：萨萨里大学",
+        "官方网址：http://www.uniss.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di SIENA",
+        "中文校名：锡耶纳大学",
+        "官方网址：http://www.unisi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università per Stranieri di SIENA",
+        "中文校名：锡耶纳外国人大学",
+        "官方网址：http://www.unistrasi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di TERAMO",
+        "中文校名：特拉莫大学",
+        "官方网址：http://www.unite.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di TORINO",
+        "中文校名：都灵大学",
+        "官方网址：http://www.unito.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Politecnico di TORINO",
+        "中文校名：都灵理工大学",
+        "官方网址：http://www.polito.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di TRENTO",
+        "中文校名：特兰托大学",
+        "官方网址：http://www.unitn.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di TRIESTE",
+        "中文校名：的里雅斯特大学",
+        "官方网址：http://www.units.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Scuola Internazionale Superiore di Studi Avanzati di TRIESTE",
+        "中文校名：的里雅斯特国际高等研究学校",
+        "官方网址：http://www.sissa.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi della TUSCIA",
+        "中文校名：图西亚大学",
+        "官方网址：http://www.unitus.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di UDINE",
+        "中文校名：乌迪内大学",
+        "官方网址：http://www.uniud.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di Urbino Carlo Bo",
+        "中文校名：乌尔比诺“卡尔洛·波”大学",
+        "官方网址：http://www.uniurb.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università \"Cà Foscari\" VENEZIA",
+        "中文校名：威尼斯“卡•福斯卡里”大学",
+        "官方网址：http://www.unive.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università IUAV di VENEZIA",
+        "中文校名：威尼斯建筑大学　",
+        "官方网址：http://www.iuav.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di VERONA",
+        "中文校名：维罗纳大学",
+        "官方网址：http://www.univr.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Scuola IMT - Istituzioni, Mercati, Tecnologie - Alti Studi - LUCCA",
+        "中文校名：卢卡IMT高等研究学校",
+        "官方网址：http://www.imtlucca.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：I.U.S.S. - Istituto Universitario di Studi Superiori - PAVIA",
+        "中文校名：帕维亚IUSS高等研究院",
+        "官方网址：http://www.iusspavia.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Gran Sasso Science Institute - Scuola di Dottorato Internazionale",
+        "中文校名：格兰萨索科学研究院",
+        "官方网址：http://www.gssi.infn.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：LUM \"Jean Monnet\"",
+        "中文校名：“让·莫内”地中海自由大学",
+        "官方网址：http://www.lum.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Libera Università di BOLZANO",
+        "中文校名：博尔扎诺自由大学",
+        "官方网址：http://www.unibz.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università \"Carlo Cattaneo\" - LIUC",
+        "中文校名：“卡罗·卡塔内奥”自由大学",
+        "官方网址：http://www.liuc.it"
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi di SCIENZE GASTRONOMICHE",
+        "中文校名：美食科学大学",
+        "官方网址：http://www.unisg.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：UKE - Università Kore di ENNA",
+        "中文校名：恩纳“科雷”大学",
+        "官方网址：http://www.unikore.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università Commerciale \"Luigi Bocconi\" MILANO",
+        "中文校名：米兰路易吉•博科尼大学",
+        "官方网址：http://www.unibocconi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università Cattolica del Sacro Cuore",
+        "中文校名：米兰圣心天主教大学",
+        "官方网址：http://www.unicatt.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：HUMANITAS University",
+        "中文校名：胡安妮塔斯医科大学",
+        "官方网址：http://www.hunimed.eu/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Libera Università di Lingue e Comunicazione IULM-MI",
+        "中文校名：米兰IULM语言传媒自由大学",
+        "官方网址：http://www.iulm.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Libera Università \"Vita Salute S.Raffaele\" MILANO",
+        "中文校名：米兰生命-健康“圣•拉斐尔”自由大学",
+        "官方网址：http://www.unisr.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi Suor Orsola Benincasa - NAPOLI",
+        "中文校名：那不勒斯S.奥索拉•贝宁卡萨大学",
+        "官方网址：http://www.unisob.na.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università per Stranieri \"Dante Alighieri\" di REGGIO CALABRIA",
+        "中文校名：雷焦卡拉布里亚“但丁·阿利吉耶里”外国人大学",
+        "官方网址：http://www.unistrada.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi EUROPEA di ROMA",
+        "中文校名：罗马欧洲大学",
+        "官方网址：http://www.unier.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università \"Campus Bio-Medico\" di ROMA",
+        "中文校名：罗马生物医学自由大学",
+        "官方网址：http://www.unicampus.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Libera Univ. Inter.le Studi Sociali \"Guido Carli\" LUISS-ROMA",
+        "中文校名：罗马LUISS“圭多·卡利”社会研究自由国际大学",
+        "官方网址：http://www.luiss.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università degli Studi Internazionali di ROMA (UNINT)",
+        "中文校名：罗马UNINT外国语大学",
+        "官方网址：http://www.unint.eu/it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Libera Università degli Studi \"Maria SS.Assunta\" - LUMSA",
+        "中文校名：罗马LUMSA“升天圣母玛利亚”自由大学",
+        "官方网址：http://www.lumsa.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Saint Camillus International University of Health Sciences",
+        "中文校名：圣卡米卢斯国际健康科学大学",
+        "官方网址：http://www.unicamillus.org",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：LINK CAMPUS University",
+        "中文校名：联合校园大学",
+        "官方网址：http://www.unilink.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Università della VALLE D'AOSTA",
+        "中文校名：瓦莱达奥斯塔大学",
+        "官方网址：http://www.univda.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di BARI",
+        "中文校名：巴里美术学院",
+        "官方网址：http://www.accademiabelleartiba.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di BARI",
+        "中文校名：博洛尼亚美术学院",
+        "官方网址：http://www.ababo.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di CARRARA",
+        "中文校名：卡拉拉美术学院",
+        "官方网址：http://www.accademiacarrara.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di CATANIA",
+        "中文校名：卡塔尼亚美术学院",
+        "官方网址：http://www.accademiadicatania.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di CATANZARO",
+        "中文校名：卡坦扎罗美术学院　　",
+        "官方网址：http://www.abacatanzaro.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di FIRENZE",
+        "中文校名：佛罗伦萨美术学院",
+        "官方网址：http://www.accademia.firenze.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di FOGGIA",
+        "中文校名：福贾美术学院",
+        "官方网址：http://www.abafg.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di FROSINONE",
+        "中文校名：弗罗西诺内美术学院",
+        "官方网址：http://www.accademiabellearti.fr.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di L'AQUILA",
+        "中文校名：拉奎拉美术学院",
+        "官方网址：http://www.accademiabellearti.laquila.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di LECCE",
+        "中文校名：莱切美术学院",
+        "官方网址：http://www.accademiabelleartilecce.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di MACERATA",
+        "中文校名：马切拉塔美术学院",
+        "官方网址：http://www.abamc.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di MILANO \"Brera\"",
+        "中文校名：米兰布雷拉美术学院",
+        "官方网址：http://www.accademiadibrera.milano.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Accademia di Belle Arti di NAPOLI",
+        "中文校名：那不勒斯美术学院",
+        "官方网址：http://www.accademiadinapoli.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di PALERMO",
+        "中文校名：巴勒莫美术学院",
+        "官方网址：http://www.accademiadipalermo.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di REGGIO CALABRIA",
+        "中文校名：雷焦卡拉布里亚美术学院",
+        "官方网址：http://www.accademiabelleartirc.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di ROMA",
+        "中文校名：罗马美术学院",
+        "官方网址：http://www.accademiabelleartiroma.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di SASSARI",
+        "中文校名：萨萨里美术学院",
+        "官方网址：http://www.hdemiass.org",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di TORINO \"Albertina\"",
+        "中文校名：都灵“阿尔伯蒂娜”美术学院",
+        "官方网址：http://www.accademialbertina.torino.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名： ACCADEMIA DI BELLE ARTI di URBINO",
+        "中文校名：乌尔比诺美术学院",
+        "官方网址：http://www.accademiadiurbino.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI di VENEZIA",
+        "中文校名：威尼斯美术学院",
+        "官方网址：http://www.accademiavenezia.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di BERGAMO \"Carrara\"",
+        "中文校名：贝加莫“卡拉拉”美术学院",
+        "官方网址：http://www.accademiabellearti.bg.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di BRESCIA \"LABA”",
+        "中文校名：布雷西亚LABA自由美术学院",
+        "官方网址：http://www.laba.edu",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di BRESCIA \"Santagiulia\"",
+        "中文校名：布雷西亚“圣•朱莉亚”美术学院",
+        "官方网址：http://www.accademiasantagiulia.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di COMO \"Aldo Galli\"",
+        "中文校名：科莫“阿尔多·加利”美术学院",
+        "官方网址：http://www.accademiagalli.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di CUNEO",
+        "中文校名：库内奥美术学院",
+        "官方网址：http://www.accademiabellearticuneo.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di GENOVA \"Accademia Ligustica\"",
+        "中文校名：热那亚“利古斯蒂卡”美术学院",
+        "官方网址：http://www.accademialigustica.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA DI MILANO \"ACME\"",
+        "中文校名：米兰ACME美术学院",
+        "官方网址：http://www.acmemilano.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di MILANO \"NABA\"",
+        "中文校名：米兰NABA美术学院",
+        "官方网址：http://www.naba.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di NOVARA \"ACME\"",
+        "中文校名：诺瓦拉ACME美术学院",
+        "官方网址：http://www.acmenovara.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di PERUGIA \"Pietro Vannucci\"",
+        "中文校名：佩鲁贾“彼得·瓦努齐”美术学院",
+        "官方网址：http://www.abaperugia.org",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di RAVENNA",
+        "中文校名：拉维纳美术学院",
+        "官方网址：http://www.accademiabellearti.ra.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di ROMA \"Rome University of Fine Arts\"",
+        "中文校名：罗马RUFA美术学院",
+        "官方网址：http://www.unirufa.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di S.AGATA LI BATTIATI (CT) \"ABADIR\"",
+        "中文校名：圣·阿迦达•里•巴蒂阿迪“ABADIR”美术学院",
+        "官方网址：http://www.abadir.net",
+        "备注：限招专业：Progettazione Artistica per l’Impresa  （2017/2018学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di S.MARTINO DELLE SCALE  \"Abadir”",
+        "中文校名：圣•马迪诺•德莱•斯卡莱美术学院",
+        "官方网址：http://www.abbaziadisanmartino.it/accademia",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di SANREMO (IM) \"Istituto I. Duncan\"",
+        "中文校名：圣雷莫“伊·顿坎”美术学院",
+        "官方网址：http://www.accademiabelleartisanremo.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di SIRACUSA \"Rosario Gagliardi\"",
+        "中文校名：锡拉库萨“罗萨里奥·嘉里亚迪”美术学院",
+        "官方网址：http://madeprogram.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di STEFANACONI - VIBO VALENTIA \"Fidia\" *",
+        "中文校名：斯蒂凡高尼-维博瓦伦蒂亚“费迪亚”美术学院",
+        "官方网址：http://www.accademiafidia.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di VERONA",
+        "中文校名：维罗纳美术学院",
+        "官方网址：www.accademiabelleartiverona.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA DI BELLE ARTI LEGALMENTE RICONOSCIUTA di VITERBO \"Lorenzo da Viterbo\"",
+        "中文校名：维泰博“洛伦佐·达·维特博”美术学院",
+        "官方网址：http://www.abav.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di ADRIA \"Antonio Buzzolla\"",
+        "中文校名：阿德里亚“安东尼·布佐拉”音乐学院",
+        "官方网址：http://www.conservatorioadria.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di ALESSANDRIA \"Antonio Vivaldi\"",
+        "中文校名：亚历山德里亚“安东尼奥·维瓦尔第”音乐学院",
+        "官方网址：http://www.conservatoriovivaldi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di AVELLINO \"Domenico Cimarosa\"",
+        "中文校名：阿韦利诺“多梅尼克·契马罗萨”音乐学院",
+        "官方网址：http://www.conservatoriocimarosa.org",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di BARI \"Niccolò Piccinni\"",
+        "中文校名：巴里“尼可洛·比契尼”音乐学院",
+        "官方网址：http://www.conservatoriopiccinni.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di BENEVENTO \"Nicola Sala\"",
+        "中文校名：贝内文托“尼古拉·萨拉”音乐学院",
+        "官方网址：www.conservatorio.bn.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di BOLOGNA \"Giovan B. Martini\"",
+        "中文校名：博洛尼亚“约翰·巴蒂斯塔·马尔蒂尼”音乐学院　",
+        "官方网址：http://www.conservatorio-bologna.com/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di BOLZANO \"Claudio Monteverdi\"",
+        "中文校名：博尔扎诺“克劳迪奥·蒙特威尔地”音乐学院",
+        "官方网址：http://cons.bz.it/IT/institute/Pages/default.aspx",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di BRESCIA \"Luca Marenzio\"",
+        "中文校名：布雷西亚“卢卡·玛仁齐奥”音乐学院",
+        "官方网址：http://www.conservatorio.brescia.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di BRESCIA \"Luca Marenzio\" - sezione staccata di DARFO BOARIO TERME",
+        "中文校名：布雷西亚“卢卡·玛仁齐奥”音乐学院达尔富分校",
+        "官方网址：http://www.conservatorio.brescia.it/darfo/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di CAGLIARI \"Pierluigi da Palestrina\"",
+        "中文校名：卡利亚里“皮耶路易·达·巴勒斯特里纳”音乐学院",
+        "官方网址：http://www.conservatoriocagliari.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di CAMPOBASSO \"Lorenzo Perosi\"",
+        "中文校名：坎波巴索“洛伦佐·佩洛西”音乐学院",
+        "官方网址：http://www.conservatorioperosi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di CASTELFRANCO VENETO  \"Agostino Steffani\"",
+        "中文校名：卡斯特尔弗兰科-威内托“阿戈斯蒂诺·斯特法尼”音乐学院",
+        "官方网址：http://www.steffani.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di CESENA  \"Bruno Maderna\"",
+        "中文校名：切塞纳“布鲁诺·马德纳”音乐学院",
+        "官方网址：http://www.conservatoriomaderna-cesena.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di COMO \"Giuseppe Verdi\"",
+        "中文校名：科莫“朱塞佩·威尔第”音乐学院",
+        "官方网址：http://www.conservatoriocomo.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di COSENZA \"Stanislao Giacomantonio\"",
+        "中文校名：科森扎“斯塔尼斯·贾科莫安东尼”音乐学院",
+        "官方网址：http://portale.conservatoriodicosenza.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di CUNEO \"G.F. Ghedini\"",
+        "中文校名：库内奥“G.F.戈迪尼”音乐学院",
+        "官方网址：http://www.conservatoriocuneo.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di FERMO  \"Giovambattista Pergolesi\"",
+        "中文校名：费尔莫“约翰巴蒂斯塔·贝格勒西”音乐学院",
+        "官方网址：http://www.conservatorio.net",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di FERRARA \"Girolamo Frescobaldi\"",
+        "中文校名：费拉拉“哲罗姆·弗莱斯克巴尔迪”音乐学院",
+        "官方网址：http://www.conservatorioferrara.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di FIRENZE \"Luigi Cherubini\"",
+        "中文校名：佛罗伦萨“路易齐·科如毕尼”音乐学院",
+        "官方网址：http://www.conservatorio.firenze.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di FOGGIA \"Umberto Giordano\"",
+        "中文校名：福贾“翁贝托·乔尔丹诺”音乐学院",
+        "官方网址：http://www.conservatoriofoggia.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di FOGGIA \"Umberto Giordano\" - sezione staccata di RODI GARGANICO",
+        "中文校名：福贾“翁贝托·乔尔丹诺”音乐学院罗迪加尔加尼科分校",
+        "官方网址：http://www.conservatoriorodi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di FROSINONE \"Licinio Refice\"",
+        "中文校名：弗洛西诺内“利契尼奥·瑞费切”音乐学院",
+        "官方网址：http://conspaganini.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di GENOVA \"Nicolò Paganini\"",
+        "中文校名：热那亚“尼可罗·帕格尼尼”音乐学院",
+        "官方网址：http://www.conservatoriopaganini.org/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Conservatorio di Musica di L'AQUILA \"Alfredo Casella\"",
+        "中文校名：拉奎拉“阿尔弗莱多·卡塞拉”音乐学院",
+        "官方网址：http://www.consaq.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di LA SPEZIA \"Giacomo Puccini\"",
+        "中文校名：拉斯佩齐亚“贾科莫·普契尼”音乐学院",
+        "官方网址：http://www.conservatoriopuccini.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di LATINA \"Ottorino Respighi\"",
+        "中文校名：拉蒂纳“奥拓里诺·莱斯皮基”音乐学院",
+        "官方网址：http://www.conservatorio.latina.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di LECCE \"Tito Schipa\"",
+        "中文校名：莱切“提多·斯基帕”音乐学院",
+        "官方网址：http://www.conservatoriolecce.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di LECCE \"Tito Schipa\" - sezione staccata di CEGLIE MESSAPICA",
+        "中文校名：莱切“提多·斯基帕”音乐学院切里耶麦萨比卡分校",
+        "官方网址：http://www.conservatoriolecce.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di MANTOVA \"Lucio Campiani\"",
+        "中文校名：曼托瓦“鲁齐奥·坎毕亚尼”音乐学院",
+        "官方网址：http://www.conservatoriomantova.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di MATERA \"Egidio R. Duni\"",
+        "中文校名：马泰拉“艾吉迪奥·瑞·顿尼”音乐学院",
+        "官方网址：http://www.conservatoriomatera.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di MESSINA \"Arcangelo Corelli\"",
+        "中文校名：墨西拿“阿克安杰罗·科雷利”音乐学院",
+        "官方网址：www.consme.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di MILANO \"Giuseppe Verdi\"",
+        "中文校名：米兰“朱塞佩·威尔第”音乐学院",
+        "官方网址：http://www.consmilano.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di MONOPOLI  \"Nino Rota\"",
+        "中文校名：莫诺波里“尼诺·罗塔”音乐学院",
+        "官方网址：http://www.conservatoriodimonopoli.org",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di NAPOLI \"S. Pietro a Majella\"",
+        "中文校名：那不勒斯“圣彼得马洁拉”音乐学院",
+        "官方网址：http://www.sanpietroamajella.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di NOVARA \"Guido Cantelli\"",
+        "中文校名：诺瓦拉“圭多·坎特利”音乐学院",
+        "官方网址：http://consno.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di PADOVA \"Cesare Pollini\"",
+        "中文校名：帕多瓦“契萨莱·坡里尼”音乐学院",
+        "官方网址：http://www.conservatoriopollini.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di PALERMO \"Vincenzo Bellini\"",
+        "中文校名：巴勒莫“文森佐·贝利尼”音乐学院",
+        "官方网址：http://www.conservatoriobellini.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di PARMA \"Arrigo Boito\"",
+        "中文校名：帕尔马“阿利戈·波弋多”音乐学院",
+        "官方网址：http://www.conservatorio.pr.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di PERUGIA \"Francesco Morlacchi\"",
+        "中文校名：佩鲁贾“弗朗西斯科·莫尔拉齐”音乐学院",
+        "官方网址：http://www.conservatorioperugia.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di PESARO \"Gioacchino Rossini\"",
+        "中文校名：佩萨罗“吉奥阿基诺·罗西尼”音乐学院",
+        "官方网址：http://www.conservatoriorossini.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di PESCARA \"Luisa d’Annunzio\"",
+        "中文校名：佩斯卡拉“路易莎·邓南遮”音乐学院",
+        "官方网址：http://www.conservatoriopescara.gov.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di PIACENZA \"Giuseppe Nicolini\"",
+        "中文校名：皮亚琴察“朱塞佩·尼科里尼”音乐学院",
+        "官方网址：http://www.conservatorio.piacenza.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di POTENZA \"Gesualdo da Venosa\"",
+        "中文校名：波坦察“杰苏阿尔多·达·维诺萨”音乐学院",
+        "官方网址：http://www.conservatoriopotenza.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di REGGIO CALABRIA \"Francesco Cilea\"",
+        "中文校名：雷焦卡拉布里亚“弗朗西斯科·齐列阿”音乐学院",
+        "官方网址：http://digilander.libero.it/conservatoriocilea/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di ROMA \"Santa Cecilia\"",
+        "中文校名：罗马“圣·切契利娅”音乐学院",
+        "官方网址：http://www.conservatoriosantacecilia.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di ROVIGO \"Francesco Venezze\"",
+        "中文校名：罗维戈“弗朗西斯科·维奈策”音乐学院",
+        "官方网址：http://www.conservatoriorovigo.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di SALERNO \"G. Martucci\"",
+        "中文校名：萨莱诺“G.玛尔杜齐”音乐学院",
+        "官方网址：http://www.consalerno.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di SASSARI \"Luigi Canepa\"",
+        "中文校名：萨萨里“路易齐·卡内帕”音乐学院",
+        "官方网址：http://www.conservatorio.sassari.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Statale Superiore di Studi Musicali e Coreutici \"Gaetano Braga\" di TERAMO",
+        "中文校名：特拉莫“嘉艾塔诺·布拉加”高等音乐研究院",
+        "官方网址：http://www.istitutobraga.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di TORINO \"Giuseppe Verdi\"",
+        "中文校名：都灵“朱塞佩·威尔第”音乐学院",
+        "官方网址：http://www.conservatoriotorino.eu/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di TRAPANI \"Antonio Scontrino\"",
+        "中文校名：特拉帕尼“安东尼奥·斯孔特立诺”音乐学院",
+        "官方网址：http://www.constp.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di TRENTO \"Francesco A. Bonporti\"",
+        "中文校名：特兰托“弗朗西斯科·安东尼奥·博波提”音乐学院",
+        "官方网址：http://www.conservatorio.tn.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di TRENTO \"Francesco A. Bonporti\" - sezione staccata di RIVA DEL GARDA",
+        "中文校名：特兰托“弗朗西斯科·安东尼奥·博波提”音乐学院加达湖岸分校",
+        "官方网址：http://www.conservatorio.tn.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di TRIESTE \"Giuseppe Tartini\"",
+        "中文校名：的里雅斯特“朱塞佩·塔尔蒂尼”音乐学院",
+        "官方网址：http://www.conservatorio.trieste.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di UDINE \"Jacopo Tomadini\"",
+        "中文校名：乌迪内“贾科波·托马蒂尼”音乐学院",
+        "官方网址：http://www.conservatorio.udine.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di VENEZIA \"Benedetto Marcello\"",
+        "中文校名：威尼斯“贝内迪托·马尔切罗-帕拉佐·皮萨尼”音乐学院",
+        "官方网址：http://www.conservatoriovenezia.net/portale/index.php/it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di VERONA \"E. F. dall’Abaco\"",
+        "中文校名：维罗纳“费里切·艾·达拉巴科”音乐学院",
+        "官方网址：http://www.conservatorioverona.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di VIBO VALENTIA \"Fausto Torrefranca\"",
+        "中文校名：维博瓦伦蒂亚“法奥斯托·托雷弗兰卡”音乐学院",
+        "官方网址：http://www.conservatoriovibovalentia.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：CONSERVATORIO di VICENZA \"Arrigo Pedrollo\"",
+        "中文校名：维琴察“阿里科·佩德罗”音乐学院",
+        "官方网址：http://www.consvi.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di AOSTA della Valle d'Aosta",
+        "中文校名：瓦莱达奥斯塔高等音乐研究院",
+        "官方网址：https://www.imaosta.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di BERGAMO \"Gaetano Donizetti\"",
+        "中文校名：贝加莫“嘉艾塔诺·多尼泽蒂”高等音乐研究院",
+        "官方网址：http://www.issmdonizetti.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di CALTANISSETTA \"Vincenzo Bellini\"",
+        "中文校名：卡尔塔尼塞塔“文森佐·贝利尼”高等音乐研究院",
+        "官方网址：http://www.istitutobellini.cl.gov.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di CATANIA \"Vincenzo Bellini\"",
+        "中文校名：卡塔尼亚“文森佐·贝利尼”高等音乐研究院",
+        "官方网址：http://www.istitutobellini.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di CREMONA \"Claudio Monteverdi\"",
+        "中文校名：克雷莫纳“克劳迪奥·蒙特威尔地”高等音乐研究院",
+        "官方网址：http://www.istitutomonteverdi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di GALLARATE  \"Giacomo Puccini\"",
+        "中文校名：加拉拉泰“贾科莫·普契尼”高等音乐研究院",
+        "官方网址：http://www.issmpuccinigallarate.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di LIVORNO \"Pietro Mascagni\"",
+        "中文校名：利沃诺“彼得·马斯卡尼”高等音乐研究院",
+        "官方网址：http://www.istitutomascagni.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di LUCCA \"Luigi Boccherini\"",
+        "中文校名：卢卡“路易齐·博戈里尼”高等音乐研究院",
+        "官方网址：http://www.boccherini.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di MODENA e CARPI \"Orazio Vecchi - Antonio Tonelli\"",
+        "中文校名：摩德纳及卡尔皮“奥拉齐奥·维齐-安东尼奥·托内利”高等音乐研究院",
+        "官方网址：http://www.comune.modena.it/oraziovecchi",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di NOCERA TERINESE  \"P.I. Tchaikovsky\"",
+        "中文校名：诺切拉泰里内塞“柴可夫斯基”高等音乐研究院",
+        "官方网址：http://www.tchaikovsky.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di PAVIA \"Franco Vittadini\"",
+        "中文校名：帕维亚“弗朗科·维塔蒂尼”高等音乐研究院",
+        "官方网址：http://www.istitutovittadini.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di RAVENNA \"Giuseppe Verdi\"",
+        "中文校名：拉维纳“朱塞佩·威尔第”高等音乐研究院",
+        "官方网址：http://www.istitutoverdi.ra.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di REGGIO EMILIA e CASTELNOVO NE' MONTI \"Achille Peri e Merulo",
+        "中文校名：雷焦•艾米利亚及卡斯特诺沃内蒙迪“阿齐勒·佩里和梅鲁罗”高等音乐研究院",
+        "官方网址：http://www.istitutoperi.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di RIBERA  \"Arturo Toscanini\"",
+        "中文校名：里贝拉“阿尔图洛·托斯卡尼尼”高等音乐研究院",
+        "官方网址：http://www.istitutotoscanini.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di RIMINI \"G. Lettimi\"",
+        "中文校名：里米尼“嘉·雷迪米”高等音乐研究院",
+        "官方网址：http://www.istitutolettimi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di SIENA \"Rinaldo Franci\"",
+        "中文校名：锡耶纳“R.弗朗齐”高等音乐研究院",
+        "官方网址：http://www.istitutofranci.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di TARANTO \"Giovanni Paisiello\"",
+        "中文校名：塔兰托“乔万尼·帕伊塞罗”高等音乐研究院",
+        "官方网址：http://www.paisiello.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE DI STUDI MUSICALI di TERNI \"Giulio Briccialdi\"",
+        "中文校名：特尔尼“朱立奥·布里齐阿尔第”高等音乐研究院",
+        "官方网址：http://www.istitutofranci.com",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Accademia della Moda (NAPOLI)",
+        "中文校名：时尚学院（那不勒斯校区）",
+        "官方网址：www.accademiamoda.it",
+        "备注：限招专业：Graphic design e comunicazione visiva（2015/2016 学年起）；Design e architettura degli interni（2016/2017 学年起）；Design della Moda （2013/2014学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Accademia della Moda（MILANO）",
+        "中文校名：时尚学院（米兰校区）",
+        "官方网址：www.accademiamoda.it",
+        "备注：限招专业：Design della Moda （2017/2018学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Fondazione Siena Jazz",
+        "中文校名：锡耶纳爵士基金会",
+        "官方网址：http://www.sienajazz.it",
+        "备注：限招专业：Basso elettrico；Contrabbasso jazz；Clarinetto jazz；Saxofono jazz；Tromba jazz；Pianoforte jazz；Batteria e percussioni jazz；Canto jazz；Chitarra jazz；Trombone jazz （2011/2012学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Saint Louis Music Center – College of Music",
+        "中文校名：罗马圣路易音乐中心-音乐学校",
+        "官方网址：http://www.slmc.it",
+        "备注：限招专业：一级学位：Basso elettrico；Contrabbasso jazz；Saxofono jazz；Trombone jazz；Batteria e percussioni jazz；Tromba jazz；Canto jazz；Pianoforte jazz；Violino jazz；Composizione；Basso elettrico - indirizzo popular music；Batteria e percussioni jazz - indirizzo popular music；Canto jazz -indirizzo popular music；Chitarra jazz - indirizzo popular music；Pianoforte jazz - indirizzo popular music；Musica elettronica -indirizzo compositivo；Musica elettronica – indirizzo regia e tecnologia del suono；Chitarra Jazz；二级学位：Composizione e Arrangiamento Jazz （2012/2013学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Europeo del Design (IED) Milano（sede Milano）",
+        "中文校名：欧洲设计学院（米兰分校）（米兰校区）",
+        "官方网址：http://www.ied.it",
+        "备注：限招专业：illustrazione; Design - indirizzo Product design; Design - indirizzo Interior design; Design della moda - indirizzo Fashion design; Design della moda - indirizzo Design del gioiello; Design della moda - indirizzo Fashion stylist; Design della comunicazione visiva – indirizzo Graphic design; Design della comunicazione visiva - indirizzo Comunicazione pubblicitaria;  Fotografia; Nuove tecnologie dell'arte - indirizzo Media design; Nuove tecnologie dell'arte - indirizzo Video design; Nuove tecnologie dell'arte - indirizzo Sound design; Nuove tecnologie dell'arte - indirizzo Computer generated animation （2010/2011学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Europeo del Design (IED) Milano（sede Firenze）",
+        "中文校名：欧洲设计学院（米兰分校）（佛罗伦萨校区）",
+        "官方网址：http://www.ied.it是否同意使馆意见进行增加或变更同意",
+        "备注：限招专业：Design; Design della moda; Design della comunicazione visive （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Europeo del Design (IED) Torino",
+        "中文校名：欧洲设计学院（都灵分校）",
+        "官方网址：http://www.ied.it",
+        "备注：限招专业：Illustrazione; Design - indirizzo Product design; Design - indirizzo Interior design; Design - Indirizzo Trasportation Design; Design della Moda - Indirizzo Design del Gioiello; Design della Moda - indirizzo Fashion design; Design della Comunicazione Visiva - indirizzo Graphic Design; Design della Comunicazione; Fotografia; Media Design; Video Design （2012/2013学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Europeo del Design (IED) Roma",
+        "中文校名：欧洲设计学院（罗马分校）",
+        "官方网址：http://www.ied.it",
+        "备注：限招专业Illustrazione; Design - indirizzo Product design; Design - indirizzo Interior design; Design della moda - indirizzo Fashion design; Design della moda - indirizzo Design del gioiello; Design della moda - indirizzo Fashion stylist; Design della comunicazione visiva - indirizzo Graphic design; Design della comunicazione; Fotografia; Nuove tecnologie dell'arte - indirizzo Media design; Nuove tecnologie dell'arte - indirizzo Video design; Nuove tecnologie dell'arte - indirizzo Sound design; Nuove tecnologie dell'arte - indirizzo Computer generated animation （2010/2011学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Europeo del Design (IED) Cagliari",
+        "中文校名：欧洲设计学院（卡利亚里分校）",
+        "官方网址：http://www.ied.it",
+        "备注：限招专业：Design - indirizzo Product design; Design - indirizzo Interior design; Design della moda – indirizzo fashion design; Media Design （2013/2014学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto d’Arte Applicata e Design (IAAD)",
+        "中文校名：IAAD应用艺术与设计学校",
+        "官方网址：http://www.iaad.it",
+        "备注：限招专业：Design, con indirizzo Product design; Design, con indirizzo Interior design; Design, con indirizzo Textile and fashion design; Progettazione Grafica ed Editoriale - indirizzo Design della Comunicazione; Design, con indirizzo Design dei Mezzi di Trasporto;（2012/2013学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Accademia Italiana di Arte, Moda e Design（sede Firenze）",
+        "中文校名：意大利艺术、时尚与设计学院（佛罗伦萨分校）",
+        "官方网址：http://www.accademiaitaliana.com",
+        "备注：限招专业：Fotografia; Design; Fashion Design; Graphic Design 2012/2013学年"
+      ],
+      [
+        "英文（或者源语言）校名：Accademia Italiana di Arte, Moda e Design（sede Roma）",
+        "中文校名：意大利艺术、时尚与设计学院（罗马分校）",
+        "官方网址：http://www.accademiaitaliana.com",
+        "备注：限招专业：Design; Fashion Design（2012/2013学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Accademia di Costume e Moda",
+        "中文校名：时尚与服装学院",
+        "官方网址：http://www.accademiacostumeemoda.it",
+        "备注：限招专业：Costume e moda"
+      ],
+      [
+        "英文（或者源语言）校名：Scuola di musica di Fiesole",
+        "中文校名：菲耶索莱音乐学校",
+        "官方网址：https://www.scuolamusicafiesole.it/it",
+        "备注：限招专业：Canto; Pianoforte; Clarinetto; Strumenti a percussion; Corno; Maestro collaboratore; Fagotto; Contrabbasso; Flauto; Viola; Oboe; Violino; Tromba; Violoncello; Trombone; Chitarra; Saxofono; Composizione"
+      ],
+      [
+        "英文（或者源语言）校名：Milano Civica Scuola di Musica",
+        "中文校名：米兰克劳迪奥•阿巴多市立音乐学院",
+        "官方网址：http://www.fondazionemilano.eu",
+        "备注：限招专业：Arpa; Chitarra jazz; Arpa rinascimentale e barocca; Basso elettrico; Batteria e percussioni jazz; Canto; Canto jazz; Canto rinascimentale e barocco; Chitarra; Clarinetto; Clarinetto jazz; Clarinetto storico; Clavicembalo e tastiere storiche; Composizione; Contrabbasso; Contrabbasso jazz; Cornetto; Corno ; Corno naturale; Didattica della musica; Direzione di coro e composizione corale; Direzione d'orchestra; Fagotto barocco; Fagotto; Fisarmonica; Flauto; Flauto dolce; Flauto traversiere; Liuto; Maestro collaboratore; Mandolino; Musica elettronica; Musica vocale da camera; Oboe barocco e classico; Oboe; Organo; Pianoforte; Pianoforte jazz; Saxofono; Saxofono jazz; Strumentazione per orchestra di fiati; Strumenti a percussione; Tromba; Tromba jazz; Tromba rinascimentale e barocca; Trombone; Trombone jazz; Trombone rinascimentale e barocco; Viola; Viola da gamba; Violino barocco; Violino; Violoncello barocco; Violoncello （2013/2014学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Accademia Internazionale di Teatro",
+        "中文校名：（罗马）国际戏剧学院",
+        "官方网址：http://www.scuoladiteatro.it",
+        "备注：限招专业：（Recitazione 2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Pantheon Design & Technology",
+        "中文校名：万神殿设计与科技学院",
+        "官方网址：http://www.pantheonmultimedia.com",
+        "备注：限招专业：Design; Applicazioni digitali per le arti visive （2013/2014学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Quasar progetto S.R.L",
+        "中文校名：葵泽设计学院",
+        "官方网址：http://www.istitutoquasar.com",
+        "备注：限招专业：Habitat Design ; Grafica e Comunicazione Visiva ; Interaction Design （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Marangoni",
+        "中文校名：马兰欧尼学院",
+        "官方网址：http://www.istitutomarangoni.com",
+        "备注：限招专业：Visual Design; Interior Design; Product Design; Fashion Design & Accessories （2016/2017学年起）;佛罗伦萨校区限招专业同米兰校区，2018/2019学年起"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Poliarte",
+        "中文校名：多元艺术学院",
+        "官方网址：http://poliarte.net",
+        "备注：限招专业：Interior design（2016/2017学年）; Industrial Design（2016/2017学年）; Graphic e Web Design（2016/2017学年）; Fashion Design（2016/2017学年）"
+      ],
+      [
+        "英文（或者源语言）校名：Accademia di Belle Arti “G.B. Tiepolo”",
+        "中文校名：乔凡尼·巴蒂斯塔·提埃坡罗美术学院",
+        "官方网址： http://www.accademiatiepolo.it",
+        "备注：限招专业：Design grafico per l'impresa （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Civica Scuola di Teatro Paolo Grassi",
+        "中文校名：保罗格拉希市立戏剧学校",
+        "官方网址：http://www.fondazionemilano.eu",
+        "备注：\"限招专业：Recitazione – indirizzo (2016/2017学年); TeatroRegia – indirizzo Teatro (2016/2017学年）\""
+      ],
+      [
+        "英文（或者源语言）校名：Accademia di Belle Arti \"Michelangelo\"",
+        "中文校名：“米开朗琪罗”美术学院",
+        "官方网址：http://www.abama.it",
+        "备注：限招专业：Pittura; Scultura; Decorazioni; Scenografia （2017/2018学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Libera Accademia di Belle Arti di Firenze",
+        "中文校名：佛罗伦萨自由美术学院",
+        "官方网址：http://www.laba.biz",
+        "备注：限招专业：Pittura; Fashion Design; Graphic Design & Multimedia; Design; Fotografia （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：CPM Music Institute",
+        "中文校名：CPM音乐学院",
+        "官方网址：http://www.cpm.it",
+        "备注：限招专业：Popular Music ad indirizzo \"Pianoforte Jazz e tastiere\"; Popular Music ad indirizzo \"Batteria Jazz\"; Popular Music ad indirizzo \"Chitarra Jazz\"; Popular Music ad indirizzo \"Canto Jazz\"; Popular Music ad indirizzo \"Basso Elettrico\" （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：SAE Italia International Technology College",
+        "中文校名：SAE意大利国际技术学校",
+        "官方网址：http://www.sae.edu",
+        "备注：限招专业：Produzione audio; Produzione cinetelevisiva e nuovi media （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto Modartech",
+        "中文校名：时尚传播学院",
+        "官方网址：http://www.modartech.com/",
+        "备注：限招专业：Fashion Design （2017/2018学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Libera Accademia di Belle Arti di Rimini",
+        "中文校名：里米尼自由美术学院",
+        "官方网址：http://www.accademia.rimini.it",
+        "备注：限招专业：Fashion Design; Graphic Design Multimedia; Design; Fotografia （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Istituto DUOFIN ART - Accademia delle Arti e Nuove Tecnologie",
+        "中文校名：“多芬”艺术和新技术学院",
+        "官方网址：http://www.accademiadellearti.it",
+        "备注：限招专业：Design; Graphic Design （2016/2017学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：Trentino Art Academy",
+        "中文校名：特伦蒂诺艺术学院",
+        "官方网址：http://www.trentinoartacademy.it",
+        "备注：限招专业：Design, Fashion Design, Graphic Design （2017/2018学年起）"
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA NAZIONALE DI DANZA di ROMA",
+        "中文校名：罗马国家舞蹈学院",
+        "官方网址：http://www.accademianazionaledanza.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ACCADEMIA NAZIONALE DI ARTE DRAMMATICA di ROMA \"Silvio d'Amico\"",
+        "中文校名：罗马“西尔维奥·达米柯”国家戏剧艺术学院",
+        "官方网址： http://www.accademiasilviodamico.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE PER LE INDUSTRIE ARTISTICHE (ISIA) di FAENZA",
+        "中文校名：法恩扎艺术工业高等学院",
+        "官方网址：http://www.isiafaenza.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE PER LE INDUSTRIE ARTISTICHE (ISIA) di FIRENZE",
+        "中文校名：佛罗伦萨艺术工业高等学院",
+        "官方网址：http://www.isiadesign.fi.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE PER LE INDUSTRIE ARTISTICHE (ISIA) di ROMA",
+        "中文校名：罗马艺术工业高等学院",
+        "官方网址：http://www.isiaroma.it/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE PER LE INDUSTRIE ARTISTICHE (ISIA) di URBINO",
+        "中文校名：乌尔比诺艺术工业高等学院",
+        "官方网址：http://www.isiaurbino.it",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：ISTITUTO SUPERIORE PER LE INDUSTRIE ARTISTICHE (ISIA) DI PESCARA",
+        "中文校名：佩斯卡拉艺术工业高等学院",
+        "官方网址：http://www.isiadesign.pe.it",
+        "备注："
+      ]
+    ]
+  }
+}

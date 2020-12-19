@@ -1,0 +1,310 @@
+{
+  "name": "克罗地亚",
+  "title": "克罗地亚",
+  "time": "2018年3月26日",
+  "main_info": [
+    "克罗地亚高等教育由克科学教育部主管。克已加入博洛尼亚进程，高校普遍实行学士、硕士和博士三级学位制度及欧洲学分转换系统（ECTS）。",
+    "克高等教育分两种形式：学术教育(university study)和专业教育（professional study）。大学提供学术教育，并在国家高等教育委员会（National Council for Higher Education）许可前提下提供专业教育，培养学术人才和高素质劳动力；其他高等教育机构提供专业教育，培养高素质劳动力。学术教育第一阶段本科，学制3-4年；第二阶段硕士，学制1-2年；第三阶段博士，学制3年；大学也可开办学制1-2年的专业领域博士（postgraduate specialist study）。专业教育第一阶段学制2-3年；第二阶段专业硕士（specialist professional graduate study）学制1-2年。",
+    "克高等教育机构包括7所大学、16所公立高校（Public Polytechnics and Schools of Professional Higher Education）和28所私立高校（Private Polytechnics and Schools of Professional Higher Education）。",
+    "克科学活动与高等教育法(The Scientific Activity and Higher Education Act)及建立高等教育机构条例(the Regulation on the Measures and Criteria for Establishing Higher Education Institutions)对高等教育机构的设立标准、设立程序、学历学位证书的颁发以及高等教育质量保障框架和措施作了相关规定。克国家高等教育委员会负责对克高等教育机构的教学质量和课程设置进行监督。"
+  ],
+  "school_types": [],
+  "school_list": {
+    "": [
+      [
+        "英文（或者源语言）校名：University of Zagreb",
+        "中文校名：萨格勒布大学",
+        "官方网址：http：//www.unizg.hr/",
+        "备注：萨格勒布大学天主教神学学院有宗教背景"
+      ],
+      [
+        "英文（或者源语言）校名：University of Split",
+        "中文校名：斯普利特大学",
+        "官方网址： http://www.unist.hr/",
+        "备注： 斯普利特大学天主教神学学院有宗教背景"
+      ],
+      [
+        "英文（或者源语言）校名：Josip Juraj Strossmayer University of Osijek",
+        "中文校名：奥西耶克约瑟夫.尤拉伊.斯托斯马耶尔大学",
+        "官方网址：http：//www.unios.hr/",
+        "备注：奥西耶克大爷天主教神学学院（贾科沃市）有宗教背景"
+      ],
+      [
+        "英文（或者源语言）校名：University of Rijeka",
+        "中文校名：里耶卡大学",
+        "官方网址：http：//www.uniri.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Juraj Dobrila University of Pula",
+        "中文校名：普拉尤拉伊.多布里拉大学",
+        "官方网址：http://www.unipu.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University of Zadar",
+        "中文校名：扎达尔大学",
+        "官方网址：http://www.unizd.hr/eng",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University of Dubrovnik",
+        "中文校名：杜布罗夫尼克大学",
+        "官方网址：http：//www.unidu.hr/index_eng.php",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University North",
+        "中文校名：北方大学",
+        "官方网址：http： //www.unin.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名： Libertas International University",
+        "中文校名：利伯塔国际大学",
+        "官方网址：http : //www.libertas.hr",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Catholic University of Croatia",
+        "中文校名：克罗地亚天主教大学",
+        "官方网址：http： //www.unicath.hr/",
+        "备注：有宗教背景"
+      ],
+      [
+        "英文（或者源语言）校名：Polytechnic in Požega",
+        "中文校名：波热加理工学院",
+        "官方网址：http://www.vup.hr/index_en.aspx",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名： Marko Marulić Polytechnic of Knin",
+        "中文校名：克宁马尔科.马吕利奇理工学院",
+        "官方网址：http://www.veleknin.hr/veleknin/web/index.php/eng",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：College for Management in Tourism and Informatics in Virovitica",
+        "中文校名：维罗维蒂察旅游与信息管理学院",
+        "官方网址：http：//www.vsmti.hr/en/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Polytechnic of Šibenik",
+        "中文校名：希贝尼克理工学院",
+        "官方网址：http : //www.vus.hr/?page_id=7809&lang=en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名： Polytechnic 'Nikola Tesla' in Gospić",
+        "中文校名：戈斯皮奇“尼古拉•特斯拉”理工学院",
+        "官方网址：http : //www.velegs-nikolatesla.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Međimurje Polytechnic in Čakovec",
+        "中文校名：梅吉穆列（查科韦茨）理工学院",
+        "官方网址：http： //www.mev.hr/?lang=eng",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：College of Slavonski Brod",
+        "中文校名：斯拉沃尼亚布罗德学院",
+        "官方网址：https://www.vusb.hr/en/home/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Križevci College of Agriculture",
+        "中文校名：克里热维茨农业学院",
+        "官方网址：http : //www.vguk.hr",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名： Zagreb University of Applied Sciences",
+        "中文校名：萨格勒布应用科学大学",
+        "官方网址：http： //www.tvz.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：VERN' University of Applied Sciences",
+        "中文校名：VERN应用科学大学",
+        "官方网址：http://www.vern.hr/english/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Zagreb School of Economics and Management",
+        "中文校名：萨格勒布经济与管理学院",
+        "官方网址：http：//www.zsem.hr/en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Business School PAR",
+        "中文校名：PAR商学院",
+        "官方网址：http : //www.par.hr",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Edward Bernays College of Communication Management",
+        "中文校名：爱德华伯纳斯传播管理学院",
+        "官方网址：http： //www.bernays.hr",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University College Effectus - College for Finance and Law",
+        "中文校名：执行大学学院-金融法学院",
+        "官方网址：http://www.effectus-uciliste.net/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University College of Management and Design Aspira",
+        "中文校名：“Aspira”管理和设计大学学院",
+        "官方网址：http://www.aspira.hr/？lang=en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：RRiF College of financial Management",
+        "中文校名：RRiF财务管理学院",
+        "官方网址：http：//www.rvs.hr/en/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Dag Hammarskjöld - University College of International Relations and Diplomacy",
+        "中文校名：达格•哈马舍尔德国际关系和外交学院大学",
+        "官方网址： http://www.diplomacija.hr/en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Baltazar University of Applied Sciences",
+        "中文校名：巴尔塔扎尔应用科学大学",
+        "官方网址：https://english.bak.hr",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：RIT Croatia",
+        "中文校名：克罗地亚RIT",
+        "官方网址：http：//www.croatia.rit.edu",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Algebra University College",
+        "中文校名：代数大学学院",
+        "官方网址：https://algebra.university/about-us/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Polytechnic Pula – College of Applied Sciences",
+        "中文校名：普拉理工学院-应用科学学院",
+        "官方网址：http://www.politehnika-pula.hr/english",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University of Applied Sciences Velika Gorica",
+        "中文校名：大戈里察应用科学大学",
+        "官方网址：http://www.vvg.hr/?lang=en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：College for Information Technologies (VSITE)",
+        "中文校名：信息技术学院",
+        "官方网址：https：//www.vsite.hr/?q=en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Technical College in Bjelovar",
+        "中文校名：别洛瓦尔技术学院",
+        "官方网址：http:en.vtsbj.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：College of Inspection and Personnel Management in Split",
+        "中文校名：斯普利特检验和人事管理学院",
+        "官方网址：http://hr.vsikmp.hr/en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Zagreb School of Business",
+        "中文校名：萨格勒布商学院",
+        "官方网址：http：//www.vpsz.hr/en/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：College of Applied Sciences \"Lavoslav Ružička\" in Vukovar",
+        "中文校名：武科瓦尔应用科学学院",
+        "官方网址：http://www.vevu.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University of Applied Health Sciences",
+        "中文校名：健康应用科学大学",
+        "官方网址：http://www.zvu.hr/?lang=en",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名： Polytechnic of Karlovac",
+        "中文校名：卡尔洛瓦茨理工学院",
+        "官方网址：http://www.vuka.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Polytechnic of Rijeka",
+        "中文校名：里耶卡理工学院",
+        "官方网址：http : //www.veleri.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：European Business School Zagreb",
+        "中文校名：萨格勒布欧洲商学院",
+        "官方网址：http://www.ebus.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Police College",
+        "中文校名：警察学院",
+        "官方网址：http : //www.policija.hr/6676.aspx",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Polytechnic Hrvatsko Zagorje in Krapina",
+        "中文校名：克拉皮纳克罗地亚扎戈列理工学院",
+        "官方网址：http : //www.vhzk.hr/",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：College of Occupational Safety and Health",
+        "中文校名：职业安全与健康学院",
+        "官方网址：http://www.vss.hr/main.php?lang=en&kategorija=16",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：AGORA University College",
+        "中文校名：AGORA大学学院",
+        "官方网址：http : //www.vsa.hr",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：Evangelical Theological Seminary",
+        "中文校名：福音派神学院",
+        "官方网址：http://www.evtos.hr/en/home/",
+        "备注：有宗教背景"
+      ],
+      [
+        "英文（或者源语言）校名：Faculty of Theology \"Matija Vlačić Ilirik\"",
+        "中文校名：马提亚.弗拉西斯.伊利里亚 神学院",
+        "官方网址：http：//www.tfmvi.hr/en/home/",
+        "备注：有宗教背景"
+      ],
+      [
+        "英文（或者源语言）校名：College of Multimedia and Telecommunication Technology",
+        "中文校名：多媒体和电视传播技术学院",
+        "官方网址：http：//www.tv-akademija.com/en/index.php",
+        "备注："
+      ],
+      [
+        "英文（或者源语言）校名：University College of Economics, Entrepreneurship and Management \"Nikola Šubić Zrinski“",
+        "中文校名：尼古拉.苏比克.兹林斯基大学学院",
+        "官方网址：http://www.zrinski.org/nikola-en/",
+        "备注："
+      ]
+    ]
+  }
+}

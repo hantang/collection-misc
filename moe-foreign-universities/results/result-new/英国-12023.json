@@ -1,0 +1,1072 @@
+{
+  "name": "英国",
+  "title": "英国",
+  "time": "2020年07月16日",
+  "main_info": [
+    "由于历史和传统原因，英国高等教育在本科阶段存在着较大的地区差异。在英格兰、威 尔士和北爱尔兰地区，学生完成普通中等教育后，经过2年A-Level（中学高级水平课程）学习和考试，进入本科阶段学习，本科学制为3年，授予学士学 位；在苏格兰地区，学生完成普通中等教育后，经过1年学习，获得苏格兰高级课程证书后进入本科阶段学习，本科学制为4年，授予学士学位。英国的硕士学制通 常为1年，博士学制为3年。",
+    "英国高等教育学历学位的层级按地区分为两个体系。英格兰、威尔士和北爱尔兰高等教育学历体系 （Framework for Higher Education Qualifications in England, Wales and Northern Ireland , 简称FHEQ）第6级为普通学士学位、荣誉学士学位及相当水平的学历学位资格；第7级为硕士学位及相当水平的学历学位资格；第8级为博士学位及相当水平的 学历学位资格。苏格兰学分和学历体系（The Scottish Credit and Qualifications Framework,简称SCQF）第9级为普通学士学位及相当水平的学历学位资格，第10级为荣誉学士学位及相当水平的学历学位资格，第11和12级分别为硕士和博士学位及相当水平的学历学位资格。",
+    "英国高等教育机构依据皇家特许或法规设立并自主办学。英国高等教育机构的学位授予权，须经皇家特许、议会法案或者枢密院予以批准。目前有150余所院校获准授予各种不同类型的学位。",
+    "英国高等教育质量保障署（QAA）成立于1997年，是英国负责监督高等教育质量标准的机构，它负责对申请学位授予权的高校进行审查。高等教育质量保障署制定高等教育质量标准，并组织同行评议，发布评议报告，全面评估高等教育机构的表现，提出改进建议，为学生和广 大公众提供可靠的公共信息来源。高等教育质量保障署实施的高等教育评估旨在保证英国高等教育机构达到基本学术标准。",
+    ""
+  ],
+  "school_types": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "W",
+    "Y"
+  ],
+  "school_list": {
+    "A": [
+      [
+        "学校名称：University of Aberdeen",
+        "中文译名：阿伯丁大学",
+        "官方网址：http://www.abdn.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Abertay University",
+        "中文译名：阿伯泰大学",
+        "官方网址：http://www.abertay.ac.uk/",
+        "备注：又名University of Abertay Dundee"
+      ],
+      [
+        "学校名称：Aberystwyth University (Prifysgol Aberystwyth)",
+        "中文译名：亚伯大学",
+        "官方网址：http://www.aber.ac.uk/en/",
+        "备注："
+      ],
+      [
+        "学校名称：Anglia Ruskin University",
+        "中文译名：安格利亚鲁斯金大学",
+        "官方网址：http://www.anglia.ac.uk/ruskin/en/home.html",
+        "备注："
+      ],
+      [
+        " 学校名称：The Archbishop of Canterbury",
+        "中文译名：坎特伯雷大教主大学",
+        "官方网址：http://www.archbishopofcanterbury.org/",
+        "备注："
+      ],
+      [
+        "学校名称：Arts University Bournemouth",
+        "中文译名：伯恩茅斯艺术大学",
+        "官方网址：http://aub.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of the Arts, London",
+        "中文译名：伦敦艺术大学",
+        "官方网址：http://www.arts.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Ashridge Business School",
+        "中文译名：阿什里奇商学院",
+        "官方网址：http://www.ashridge.org.uk/website/content.nsf",
+        "备注：又名Ashridge(Bonar Law Memorial) Trust"
+      ],
+      [
+        "学校名称：Aston University",
+        "中文译名：阿斯顿大学",
+        "官方网址：http://www.aston.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Anglo-European College of Chiropractic",
+        "中文译名：英欧脊椎推拿疗法学院",
+        "官方网址：http://www.aecc.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Arden University",
+        "中文译名：雅顿大学",
+        "官方网址：https://arden.ac.uk/",
+        "备注：曾用名 Resource Development International"
+      ]
+    ],
+    "B": [
+      [
+        "学校名称：Bangor University (Prifysgol Bangor)",
+        "中文译名：班戈大学",
+        "官方网址：http://www.bangor.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Bath",
+        "中文译名：巴斯大学",
+        "官方网址：http://www.bath.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Bath Spa University",
+        "中文译名：巴斯斯巴大学",
+        "官方网址：http://www.bathspa.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Bedfordshire",
+        "中文译名：贝德福特大学",
+        "官方网址：http://www.beds.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Birkbeck, University of London",
+        "中文译名：伦敦大学伯贝克学院",
+        "官方网址：http://www.bbk.ac.uk/front-page",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：University of Birmingham",
+        "中文译名：伯明翰大学",
+        "官方网址：http://www.birmingham.ac.uk/index.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：Birmingham City University",
+        "中文译名：伯明翰城市大学",
+        "官方网址：http://www.bcu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University College Birmingham",
+        "中文译名：伯明翰大学学院",
+        "官方网址：http://www.ucb.ac.uk/home.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：Bishop Grosseteste University",
+        "中文译名：格罗斯泰斯特主教大学",
+        "官方网址：http://www.bishopg.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Bolton",
+        "中文译名：博尔顿大学",
+        "官方网址：http://www.bolton.ac.uk/Home.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：Bournemouth University",
+        "中文译名：伯恩茅斯大学",
+        "官方网址：http://home.bournemouth.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：BPP University",
+        "中文译名：英博夏尔大学",
+        "官方网址：http://www.bpp.com/bpp-university/lp/university-college/10707",
+        "备注："
+      ],
+      [
+        "学校名称：University of Bradford",
+        "中文译名：布拉德福德大学",
+        "官方网址：http://www.bradford.ac.uk/external/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Brighton",
+        "中文译名：布莱顿大学",
+        "官方网址：http://www.brighton.ac.uk/index.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：University of Bristol",
+        "中文译名：布里斯托大学",
+        "官方网址：http://www.bris.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Brunel University London",
+        "中文译名：伦敦布鲁内尔大学",
+        "官方网址：https://www.brunel.ac.uk/",
+        "备注：英国政府认可院校，受该国质量保障机构QAA（The Quality Assurance Agency）保障，原名为“布鲁内尔大学（Brunel University）”。"
+      ],
+      [
+        "学校名称：University of Buckingham",
+        "中文译名：白金汉大学",
+        "官方网址：http://www.buckingham.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：British School of Osteopathy",
+        "中文译名：英国整骨学校",
+        "官方网址：http://www.bso.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Buckinghamshire New University",
+        "中文译名：白金汉郡新大学",
+        "官方网址：http://bucks.ac.uk/",
+        "备注：目前已恢复招收国际学生资质的高等教育机构"
+      ]
+    ],
+    "C": [
+      [
+        "学校名称：University of Cambridge",
+        "中文译名：剑桥大学",
+        "官方网址：http://www.cam.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Canterbury Christ Church University",
+        "中文译名：坎特伯雷大学",
+        "官方网址：http://www.canterbury.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Cardiff Metropolitan University (Prifysgol Metropolitan Caerdydd)",
+        "中文译名：卡迪夫城市大学",
+        "官方网址：http://www3.uwic.ac.uk/English/Pages/home2.aspx",
+        "备注：原名称为University of Wales Institute Cardiff (Athrofa Prifysgol Cymru Caerdydd)"
+      ],
+      [
+        "学校名称：Cardiff University (Prifysgol Caerdydd)",
+        "中文译名：卡迪夫大学",
+        "官方网址：http://www.cf.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Central Lancashire",
+        "中文译名：中央兰开夏大学",
+        "官方网址：http://www.uclan.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Chester",
+        "中文译名：切斯特大学",
+        "官方网址：http://www.chester.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Chichester",
+        "中文译名：奇切斯特大学",
+        "官方网址：http://www.chi.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：City, University of London",
+        "中文译名：伦敦大学城市学院",
+        "官方网址：http://www.city.ac.uk/",
+        "备注：英国伦敦大学城市学院于2016年9月1日正式加入伦敦大学，英文校名由“City University London”变更为“City, University of London”，中文校名由“城市大学”变更为“伦敦大学城市学院”。"
+      ],
+      [
+        "学校名称：Coventry University",
+        "中文译名：考文垂大学",
+        "官方网址：http://www.coventry.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Cranfield University",
+        "中文译名：克兰菲尔德大学",
+        "官方网址：http://www.cranfield.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University for the Creative Arts",
+        "中文译名：创意艺术大学",
+        "官方网址：http://www.ucreative.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Cumbria",
+        "中文译名：坎布里亚大学",
+        "官方网址：http://www.cumbria.ac.uk/Home.aspx",
+        "备注："
+      ]
+    ],
+    "D": [
+      [
+        "学校名称：De Montfort University",
+        "中文译名：德蒙福特大学",
+        "官方网址：http://www.dmu.ac.uk/home.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：University of Derby",
+        "中文译名：德比大学",
+        "官方网址：http://www.derby.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Dundee",
+        "中文译名：邓迪大学",
+        "官方网址：http://www.dundee.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Durham University",
+        "中文译名：杜伦大学",
+        "官方网址：https://www.dur.ac.uk/",
+        "备注：原名称为University of Durham"
+      ]
+    ],
+    "E": [
+      [
+        "学校名称：University of East Anglia",
+        "中文译名：东英吉利亚大学",
+        "官方网址：http://www.uea.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of East London",
+        "中文译名：东伦敦大学",
+        "官方网址：http://www.uel.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Edge Hill University",
+        "中文译名：知山大学",
+        "官方网址：http://www.edgehill.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：The University of Edinburgh",
+        "中文译名：爱丁堡大学",
+        "官方网址：http://www.ed.ac.uk/home",
+        "备注："
+      ],
+      [
+        "学校名称：Edinburgh Napier University",
+        "中文译名：爱丁堡龙比亚大学",
+        "官方网址：http://www.napier.ac.uk/Pages/home.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：University of Essex",
+        "中文译名：埃塞克斯大学",
+        "官方网址：http://www.essex.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Exeter",
+        "中文译名：埃克塞特大学",
+        "官方网址：http://www.exeter.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University College of Estate Management",
+        "中文译名：地产管理大学学院",
+        "官方网址：https://www.ucem.ac.uk",
+        "备注："
+      ]
+    ],
+    "F": [
+      [
+        "学校名称：Falmouth University",
+        "中文译名：法尔茅斯大学",
+        "官方网址：http://www.falmouth.ac.uk/",
+        "备注："
+      ]
+    ],
+    "G": [
+      [
+        "学校名称：University of Glasgow",
+        "中文译名：格拉斯哥大学",
+        "官方网址：http://www.gla.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Glasgow Caledonian University",
+        "中文译名：格拉斯哥卡利多尼亚大学",
+        "官方网址：http://www.gcu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Gloucestershire",
+        "中文译名：格鲁斯特大学",
+        "官方网址：http://www.glos.ac.uk/Pages/default.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：Glyndwr University (Prifysgol Glyndŵr)",
+        "中文译名：格林多大学",
+        "官方网址：http://www.glyndwr.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Goldsmiths, University of London",
+        "中文译名：伦敦大学金史密斯学院",
+        "官方网址：http://www.gold.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：University of Greenwich",
+        "中文译名：格林威治大学",
+        "官方网址：http://www2.gre.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Guildhall School of Music and Drama",
+        "中文译名：吉尔德霍尔音乐与戏剧学院",
+        "官方网址：http://www.gsmd.ac.uk/",
+        "备注："
+      ]
+    ],
+    "H": [
+      [
+        "学校名称：Harper Adams University",
+        "中文译名：哈珀亚当斯大学",
+        "官方网址：http://www.harper-adams.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Heriot-Watt University",
+        "中文译名：赫瑞•瓦特大学",
+        "官方网址：http://www.hw.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Hertfordshire",
+        "中文译名：赫特福德大学",
+        "官方网址：http://www.herts.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Heythrop College, University of London",
+        "中文译名：伦敦大学海斯洛普学院",
+        "官方网址：http://www.heythrop.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：University of the Highlands and Islands",
+        "中文译名：高地与群岛大学",
+        "官方网址：http://www.uhi.ac.uk/en",
+        "备注："
+      ],
+      [
+        "学校名称：University of Huddersfield",
+        "中文译名：哈德斯菲尔德大学",
+        "官方网址：http://www.hud.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Hull",
+        "中文译名：赫尔大学",
+        "官方网址：http://www2.hull.ac.uk/",
+        "备注："
+      ]
+    ],
+    "I": [
+      [
+        "学校名称：The London Institute of Banking and Finance",
+        "中文译名：伦敦银行与金融学院",
+        "官方网址：http://www.libf.ac.uk/",
+        "备注：从ifs University College更名而来"
+      ],
+      [
+        "学校名称：Imperial College of Science, Technology and Medicine (also known as Imperial College London)",
+        "中文译名：帝国理工学院",
+        "官方网址：http://www3.imperial.ac.uk/",
+        "备注：该校于2007年正式脱离伦敦大学"
+      ],
+      [
+        "学校名称：Institute of Education, University of London",
+        "中文译名：伦敦大学教育学院",
+        "官方网址：http://www.ioe.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ]
+    ],
+    "K": [
+      [
+        "学校名称：Keele University",
+        "中文译名：基尔大学",
+        "官方网址：http://www.keele.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Kent",
+        "中文译名：肯特大学",
+        "官方网址：http://www.kent.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：King's College London",
+        "中文译名：伦敦国王学院",
+        "官方网址：http://www.kcl.ac.uk/index.aspx",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：Kingston University",
+        "中文译名：金斯顿大学",
+        "官方网址：http://www.kingston.ac.uk/",
+        "备注："
+      ]
+    ],
+    "L": [
+      [
+        "学校名称：Lancaster University",
+        "中文译名：兰卡斯特大学",
+        "官方网址：http://www.lancaster.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：The University of Law",
+        "中文译名：英国法学大学",
+        "官方网址：http://www.law.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Leeds",
+        "中文译名：利兹大学",
+        "官方网址：http://www.leeds.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Leeds Beckett University",
+        "中文译名：利兹贝克特大学",
+        "官方网址：http://www.leedsbeckett.ac.uk",
+        "备注：2014年9月22日更名"
+      ],
+      [
+        "学校名称：Leeds Trinity University",
+        "中文译名：利兹三一大学",
+        "官方网址：http://www.leedstrinity.ac.uk/pages/default.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：Leeds Arts University",
+        "中文译名：利兹艺术大学",
+        "官方网址：https://www.leeds-art.ac.uk/",
+        "备注：受英国质量保障机构QAA（The Quality Assurance Agency）保障"
+      ],
+      [
+        "学校名称：University of Leicester",
+        "中文译名：莱斯特大学",
+        "官方网址：http://www.le.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Lincoln",
+        "中文译名：林肯大学",
+        "官方网址：http://www.lincoln.ac.uk/home/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Liverpool",
+        "中文译名：利物浦大学",
+        "官方网址：http://www.liv.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Liverpool Hope University",
+        "中文译名：利物浦赫普大学",
+        "官方网址：http://www.hope.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Liverpool John Moores University",
+        "中文译名：利物浦约翰摩尔大学",
+        "官方网址：http://www.ljmu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of London",
+        "中文译名：伦敦大学",
+        "官方网址：http://www.lon.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：London Business School",
+        "中文译名：伦敦商学院",
+        "官方网址：http://www.london.edu/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：London Metropolitan University",
+        "中文译名：伦敦城市大学",
+        "官方网址：http://www.londonmet.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：London School of Hygiene and Tropical Medicine",
+        "中文译名：伦敦卫生与热带医药学院",
+        "官方网址：http://www.lshtm.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：The London School of Economics and Political Science, The (LSE)",
+        "中文译名：伦敦政治经济学院",
+        "官方网址：http://www.lse.ac.uk/home.aspx",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：London South Bank University",
+        "中文译名：伦敦南岸大学",
+        "官方网址：http://www.lsbu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University College London",
+        "中文译名：伦敦大学学院",
+        "官方网址：http://www.ucl.ac.uk/",
+        "备注：可同时授予伦敦大学学位。School of Pharmacy已于2012年合并到该校。"
+      ],
+      [
+        "学校名称：Loughborough University",
+        "中文译名：拉夫堡大学",
+        "官方网址：http://www.lboro.ac.uk/",
+        "备注："
+      ]
+    ],
+    "M": [
+      [
+        "学校名称：University of Manchester",
+        "中文译名：曼彻斯特大学",
+        "官方网址：http://www.manchester.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Manchester Metropolitan University",
+        "中文译名：曼彻斯特城市大学",
+        "官方网址：http://www2.mmu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Middlesex University",
+        "中文译名：密德萨斯大学",
+        "官方网址：http://www.mdx.ac.uk/",
+        "备注："
+      ]
+    ],
+    "N": [
+      [
+        "学校名称：Newcastle University",
+        "中文译名：纽卡斯尔大学",
+        "官方网址：http://www.ncl.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Newman University, Birmingham",
+        "中文译名：纽曼大学",
+        "官方网址：http://www.newman.ac.uk/",
+        "备注：英国内政部签证及移民署暂停该校向欧盟外国际学生发放Tier4学生签证担保人资质"
+      ],
+      [
+        "学校名称：The University of Northampton",
+        "中文译名：北安普顿大学",
+        "官方网址：http://www.northampton.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Northumbria University Newcastle",
+        "中文译名：诺森比亚大学",
+        "官方网址：https://www.northumbria.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Norwich University of the Arts",
+        "中文译名：诺里奇艺术大学",
+        "官方网址：http://www.nua.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Nottingham",
+        "中文译名：诺丁汉大学",
+        "官方网址：http://www.nottingham.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Nottingham Trent University",
+        "中文译名：诺丁汉特伦特大学",
+        "官方网址：http://www.ntu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：NCG",
+        "中文译名：无",
+        "官方网址：http://www.ncgrp.co.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Royal College of Nursing",
+        "中文译名：皇家护理学院",
+        "官方网址：https://www.rcn.org.uk",
+        "备注："
+      ]
+    ],
+    "O": [
+      [
+        "学校名称：The Open University",
+        "中文译名：开放大学",
+        "官方网址：http://www.open.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Oxford",
+        "中文译名：牛津大学",
+        "官方网址：http://www.ox.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Oxford Brookes University",
+        "中文译名：牛津布鲁克斯大学",
+        "官方网址：http://www.brookes.ac.uk/",
+        "备注："
+      ]
+    ],
+    "P": [
+      [
+        "学校名称：Plymouth University",
+        "中文译名：普利茅斯大学",
+        "官方网址：http://www5.plymouth.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Portsmouth",
+        "中文译名：朴次茅斯大学",
+        "官方网址：http://www.port.ac.uk/",
+        "备注："
+      ]
+    ],
+    "Q": [
+      [
+        "学校名称：Queen Margaret University, Edinburgh",
+        "中文译名：爱丁堡玛格丽特女王大学",
+        "官方网址：http://www.qmu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Queen Mary, University of London",
+        "中文译名：伦敦玛丽女王大学",
+        "官方网址：http://www.qmul.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：Queen's University Belfast",
+        "中文译名：贝尔法斯特女王大学",
+        "官方网址：http://www.qub.ac.uk/",
+        "备注："
+      ]
+    ],
+    "R": [
+      [
+        "学校名称：University of Reading",
+        "中文译名：雷丁大学",
+        "官方网址：http://www.reading.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Regent's University London",
+        "中文译名：伦敦摄政大学",
+        "官方网址：http://www.regents.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Robert Gordon University, Aberdeen",
+        "中文译名：罗伯特戈登大学",
+        "官方网址：http://www.rgu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Roehampton",
+        "中文译名：罗汉普顿大学",
+        "官方网址：http://www.roehampton.ac.uk/home/",
+        "备注："
+      ],
+      [
+        "学校名称：Royal Academy of Music",
+        "中文译名：英国皇家音乐学院",
+        "官方网址：http://www.ram.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：Royal Agricultural University",
+        "中文译名：英国皇家农业大学",
+        "官方网址：http://www.rau.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Royal Central School of Speech and Drama (University of London)",
+        "中文译名：中央演讲与戏剧学院",
+        "官方网址：http://www.cssd.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：Royal College of Art",
+        "中文译名：英国皇家艺术学院",
+        "官方网址：http://www.rca.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Royal College of Music",
+        "中文译名：皇家音乐学院",
+        "官方网址：http://www.rcm.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Royal Conservatoire of Scotland",
+        "中文译名：苏格兰皇家音乐戏剧学院",
+        "官方网址：http://www.rcs.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Royal Holloway, University of London",
+        "中文译名：伦敦大学皇家霍洛威学院",
+        "官方网址：https://www.royalholloway.ac.uk/home.aspx",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：Royal Northern College of Music",
+        "中文译名：皇家北方音乐学院",
+        "官方网址：http://www.rncm.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：The Royal Veterinary College",
+        "中文译名：皇家兽医学院",
+        "官方网址：http://www.rvc.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：Richmond, The American International University in London",
+        "中文译名：伦敦里士满美国国际大学",
+        "官方网址：www.richmond.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Ravensbourne University London",
+        "中文译名：伦敦雷文斯本大学",
+        "官方网址：www.ravensbourne.ac.uk",
+        "备注："
+      ]
+    ],
+    "S": [
+      [
+        "学校名称：University of Salford",
+        "中文译名：索尔福德大学",
+        "官方网址：http://www.salford.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：School of Oriental and African Studies (SOAS), University of London",
+        "中文译名：伦敦大学亚非学院",
+        "官方网址：http://www.soas.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：University of Sheffield",
+        "中文译名：谢菲尔德大学",
+        "官方网址：http://www.sheffield.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Sheffield Hallam University",
+        "中文译名：谢菲尔德哈勒姆大学",
+        "官方网址：http://www.shu.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of South Wales (Prifysgol De Cymru)",
+        "中文译名：南威尔士大学",
+        "官方网址：http://www.southwales.ac.uk/",
+        "备注：University of Glamorgan(Prifysgol Morgannwg已于2013年4月合并到该校)"
+      ],
+      [
+        "学校名称：University of Southampton",
+        "中文译名：南安普顿大学",
+        "官方网址：http://www.southampton.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Southampton Solent University",
+        "中文译名：南安普顿索伦特大学",
+        "官方网址：http://www.solent.ac.uk/home.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：University of St Andrews",
+        "中文译名：圣安德鲁斯大学",
+        "官方网址：http://www.st-andrews.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：St George's, University of London",
+        "中文译名：伦敦大学圣乔治医学院",
+        "官方网址：http://www.sgul.ac.uk/",
+        "备注：可同时授予伦敦大学学位"
+      ],
+      [
+        "学校名称：University of St Mark and St John, Plymouth",
+        "中文译名：圣马克与圣约翰大学",
+        "官方网址：http://www.marjon.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Staffordshire University",
+        "中文译名：斯泰福厦大学",
+        "官方网址：http://www.staffs.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Stirling",
+        "中文译名：斯特灵大学",
+        "官方网址：http://www.stir.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Strathclyde",
+        "中文译名：思克莱德大学",
+        "官方网址：http://www.strath.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Sunderland",
+        "中文译名：桑德兰大学",
+        "官方网址：http://www.sunderland.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Surrey",
+        "中文译名：萨里大学",
+        "官方网址：http://www.surrey.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Sussex",
+        "中文译名：萨赛克斯大学",
+        "官方网址：http://www.sussex.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Swansea University (Prifysgol Abertawe)",
+        "中文译名：斯旺西大学",
+        "官方网址：http://www.swansea.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Suffolk",
+        "中文译名：萨福克大学",
+        "官方网址：https://www.uos.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：St Mary’s University, Twickenham",
+        "中文译名：特威克南圣玛丽大学",
+        "官方网址：https://www.stmarys.ac.uk/home.aspx",
+        "备注：办学质量受保障机构QAA（The Quality Assurance Agency）保障"
+      ]
+    ],
+    "T": [
+      [
+        "学校名称：Teesside University",
+        "中文译名：提赛德大学",
+        "官方网址：http://www.tees.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Trinity Laban Conservatoire of Music and Dance",
+        "中文译名：圣三一拉邦音乐舞蹈学院",
+        "官方网址：http://www.trinitylaban.ac.uk/",
+        "备注："
+      ]
+    ],
+    "U": [
+      [
+        "学校名称：Ulster University",
+        "中文译名：奥斯特大学",
+        "官方网址：https://www.ulster.ac.uk/",
+        "备注：英国政府认可院校，受该国质量保障机构QAA（The Quality Assurance Agency）保障"
+      ]
+    ],
+    "W": [
+      [
+        "学校名称：University of Wales (Prifysgol Cymru)",
+        "中文译名：威尔士大学",
+        "官方网址：http://www.wales.ac.uk/en/Home.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：University of Wales Trinity Saint David (Prifysgol Cymru Y Drindod Dewi Sant)",
+        "中文译名：威尔士三一圣大卫大学",
+        "官方网址：http://www.uwtsd.ac.uk/",
+        "备注：Swansea Metropolitan University和Trinity University College已于2010年11月合并到该校"
+      ],
+      [
+        "学校名称：University of Warwick",
+        "中文译名：华威大学",
+        "官方网址：http://www2.warwick.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of the West of England, Bristol",
+        "中文译名：西英格兰大学",
+        "官方网址：http://www.uwe.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of West London",
+        "中文译名：西伦敦大学",
+        "官方网址：http://www.uwl.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of the West of Scotland",
+        "中文译名：西苏格兰大学",
+        "官方网址：http://www.uws.ac.uk/home/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Westminster",
+        "中文译名：威斯敏斯特大学",
+        "官方网址：http://www.westminster.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：The University of Winchester",
+        "中文译名：温切斯特大学",
+        "官方网址：http://www.winchester.ac.uk/pages/home.aspx",
+        "备注："
+      ],
+      [
+        "学校名称：University of Wolverhampton",
+        "中文译名：胡弗汉顿大学",
+        "官方网址：http://www.wlv.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：University of Worcester",
+        "中文译名：伍斯特大学",
+        "官方网址：http://www.worcester.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：Writtle University College",
+        "中文译名：瑞特大学学院",
+        "官方网址：http://writtle.ac.uk/",
+        "备注："
+      ]
+    ],
+    "Y": [
+      [
+        "学校名称：University of York",
+        "中文译名：约克大学",
+        "官方网址：http://www.york.ac.uk/",
+        "备注："
+      ],
+      [
+        "学校名称：York St John University",
+        "中文译名：约克圣约翰大学",
+        "官方网址：http://www.yorksj.ac.uk/",
+        "备注："
+      ]
+    ]
+  }
+}

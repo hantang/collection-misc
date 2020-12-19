@@ -1,0 +1,800 @@
+{
+  "name": "波兰",
+  "title": "波兰",
+  "time": "2014年10月20日",
+  "main_info": [
+    "波兰高等教育包括三个阶段的学习，第一阶段本科教育，学制6-8个学期，授予学士学位；第二阶段硕士教育，学制3-4个学期，授予硕士学位；第三阶段博士教育，学制6-8个学期，授予博士学位。还有一种长周期学习，即本硕连读项目，学制为10-12个学期，授予硕士学位。",
+    "波兰高等教育机构依据《高等教育法》（2005年7月27日颁布实施）设立。根据该法规定，公立高等教育机构的设立、撤销、合并或更名，须经国会法案批准；非公立高等教育机构的设立和学位授予，则须经主管高等教育的科学和高等教育部长批准。波兰高等教育机构是欧洲学分转换体系（ECTS）成员。外国学生在波兰高等教育机构取得的ECTS学分可以得到其他ECTS成员国的认可。大多数波兰高等教育机构提供英语授课。",
+    "波兰认证委员会（Polish Accreditation Committee）负责对波兰高等教育机构的教学质量进行监督。委员会的宗旨是督促波兰高等教育机构（公立和非公立）改进教学质量，提高教学标准，以达到欧洲和全球先进水平。委员会还对高等教育机构实施学术质量评估，如果得出负面评价，科学和高等教育部长有权撤销或中止其进行研究的权利。"
+  ],
+  "school_types": [
+    "（一）综合大学",
+    "（二）技术大学",
+    "（三）体育大学",
+    "（四）医科大学",
+    "（五）经济大学",
+    "（六）艺术学院",
+    "（七）农业大学",
+    "（八）教育大学",
+    "（九）海事大学",
+    "（十）非公立大学        （此类大学为新增，中文译名为波方提供）"
+  ],
+  "school_list": {
+    "（一）综合大学": [
+      [
+        "1、 学校名称：Uniwersytet Warszawski",
+        "英文译名：University of Warsaw",
+        "中文译名：华沙大学",
+        "官方网址：www.uw.edu.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Uniwersytet w Białymstoku",
+        "英文译名：University of Bialystok",
+        "中文译名：比亚威斯托克大学",
+        "官方网址：www.uwb.edu.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Uniwersytet Gdański",
+        "英文译名：University of Gdansk",
+        "中文译名：格但斯克大学",
+        "官方网址：www.univ.gda.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Uniwersytet im. Adama Mickiewicza w Poznaniu",
+        "英文译名：Adam Mickiewicz University in Poznan",
+        "中文译名：波兹南密茨凯维奇大学",
+        "官方网址：www.amu.edu.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Uniwersytet Jagielloński w Krakowie",
+        "英文译名：Jagiellonian University in Cracow",
+        "中文译名：雅盖隆大学",
+        "官方网址：www.uj.edu.pl",
+        "备注："
+      ],
+      [
+        "6、 学校名称：Uniwersytet Łódzki",
+        "英文译名：University of Lodz",
+        "中文译名：罗兹大学",
+        "官方网址：www.uni.lodz.pl",
+        "备注："
+      ],
+      [
+        "7、 学校名称：Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+        "英文译名：Maria Curie- Sklodowska University in Lublin",
+        "中文译名：居里夫人大学",
+        "官方网址：www.umcs.lublin.pl",
+        "备注："
+      ],
+      [
+        "8、 学校名称：Uniwersytet Mikołaja Kopernika w Toruniu",
+        "英文译名：Nicolaus Copernicus University in Torun",
+        "中文译名：托伦哥白尼大学",
+        "官方网址：www.umk.pl",
+        "备注："
+      ],
+      [
+        "9、 学校名称：Uniwersytet Opolski",
+        "英文译名：University of Opole",
+        "中文译名：奥波莱大学",
+        "官方网址：www.uni.opole.pl",
+        "备注："
+      ],
+      [
+        "10、 学校名称：Uniwersytet Szczeciński",
+        "英文译名：University of Szczecin",
+        "中文译名：什切青大学",
+        "官方网址：www.us.szc.pl",
+        "备注："
+      ],
+      [
+        "11、 学校名称：Uniwersytet Śląski w Katowicach",
+        "英文译名：University of Silesia in Katowice",
+        "中文译名：卡托维兹西里西亚大学",
+        "官方网址：www.us.edu.pl",
+        "备注："
+      ],
+      [
+        "12、 学校名称：Uniwersytet Rzeszowski",
+        "英文译名：University of Rzeszow",
+        "中文译名：热舒夫大学",
+        "官方网址：www.univ.rzeszow.pl",
+        "备注："
+      ],
+      [
+        "13、 学校名称：Uniwersytet Warmińsko-Mazurski w Olsztynie",
+        "英文译名：University of Warmia and Mazury in Olsztyn",
+        "中文译名：奥尔什丁瓦尔米亚玛祖里大学",
+        "官方网址：www.uwm.edu.pl",
+        "备注："
+      ],
+      [
+        "14、 学校名称：Uniwersytet Wrocławski",
+        "英文译名：University of Wroclaw",
+        "中文译名：弗罗茨瓦夫大学",
+        "官方网址：www.uni.wroc.pl",
+        "备注："
+      ],
+      [
+        "15、 学校名称：Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",
+        "英文译名：Cardinal Stefan Wyszynski University",
+        "中文译名：华沙维申斯基红衣主教大学",
+        "官方网址：www.uksw.edu.pl",
+        "备注："
+      ],
+      [
+        "16、 学校名称：Uniwersytet Zielonogórski",
+        "英文译名：University of Zielona Gora",
+        "中文译名：绿山大学",
+        "官方网址：www.uz.zgora.pl",
+        "备注："
+      ],
+      [
+        "17、 学校名称：Katolicki Uniwersytet Lubelski Jana Pawła II w Lublinie",
+        "英文译名：John Paul II Catholic University of Lublin",
+        "中文译名：卢布林天主教大学",
+        "官方网址：www.kul.lublin.pl",
+        "备注："
+      ],
+      [
+        "18、 学校名称：Uniwersytet Kazimierza Wielkiego w Bydgoszczy",
+        "英文译名：Kazimierz Wielki University in Bydgoszcz",
+        "中文译名：比得哥熙卡基米日维尔基大学",
+        "官方网址：www.ukw.edu.pl",
+        "备注："
+      ]
+    ],
+    "（二）技术大学": [
+      [
+        "1、 学校名称：Politechnika Warszawska",
+        "英文译名：Warsaw University of Technology",
+        "中文译名：华沙技术大学",
+        "官方网址：www.pw.edu.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Politechnika Białostocka",
+        "英文译名：Bialystok University of Technology",
+        "中文译名：比亚威斯托克技术大学",
+        "官方网址：www.pb.edu.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Akademia Techniczno-Humanistyczna w Bielsku-Białej",
+        "英文译名：University of Bielsko-Biala",
+        "中文译名：别耳斯科-比亚瓦技术人文学院",
+        "官方网址：www.ath.bielsko.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Politechnika Częstochowska",
+        "英文译名：Czestochowa University of Technology",
+        "中文译名：琴希托霍瓦技术大学",
+        "官方网址：www.pcz.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Politechnika Gdańska",
+        "英文译名：Gdansk University of Technology",
+        "中文译名：格但斯克技术大学",
+        "官方网址：www.pg.gda.pl",
+        "备注："
+      ],
+      [
+        "6、 学校名称：Politechnika Śląska",
+        "英文译名：Silesian University of Technology",
+        "中文译名：西里西亚技术大学（格利维策）",
+        "官方网址：www.polsl.pl",
+        "备注："
+      ],
+      [
+        "7、 学校名称：Politechnika Świętokrzyska w Kielcach",
+        "英文译名：Kielce University of Technology",
+        "中文译名：凯尔采技术大学",
+        "官方网址：www.tu.kielce.pl",
+        "备注："
+      ],
+      [
+        "8、 学校名称：Politechnika Krakowska im. Tadeusza Kościuszki",
+        "英文译名：Tadeusz Kosciuszko Cracow University of Technology",
+        "中文译名：克拉科夫技术大学",
+        "官方网址：www.pk.edu.pl",
+        "备注："
+      ],
+      [
+        "9、 学校名称：Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+        "英文译名：AGH University of Science and Technology",
+        "中文译名：克拉科夫AGH科技大学",
+        "官方网址：www.agh.edu.pl",
+        "备注："
+      ],
+      [
+        "10、 学校名称：Politechnika Lubelska",
+        "英文译名：Lublin University of Technology",
+        "中文译名：卢布林技术大学",
+        "官方网址：www.pollub.pl",
+        "备注："
+      ],
+      [
+        "11、 学校名称：Politechnika Łódzka",
+        "英文译名：Lodz University of Technology",
+        "中文译名：罗兹技术大学",
+        "官方网址：www.p.lodz.pl",
+        "备注："
+      ],
+      [
+        "12、 学校名称：Politechnika Opolska",
+        "英文译名：Opole University of Technology",
+        "中文译名：奥波莱技术大学",
+        "官方网址：www.po.opole.pl",
+        "备注："
+      ],
+      [
+        "13、 学校名称：Politechnika Poznańska",
+        "英文译名：Poznan University of Technology",
+        "中文译名：波兹南技术大学",
+        "官方网址：www.put.edu.pl",
+        "备注："
+      ],
+      [
+        "14、 学校名称：Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu",
+        "英文译名：Kazimierz Pulaski University of Technology and Humanities in Radom",
+        "中文译名：拉多姆技术与人文大学",
+        "官方网址：www.uniwersytetradom.pl",
+        "备注："
+      ],
+      [
+        "15、 学校名称：Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+        "英文译名：Rzeszow University of Technology",
+        "中文译名：热舒夫技术大学",
+        "官方网址：www.prz.rzeszow.pl",
+        "备注："
+      ],
+      [
+        "16、 学校名称：Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+        "英文译名：West Pomeranian University of Technology in Szczecin",
+        "中文译名：西波美拉尼亚技术大学",
+        "官方网址：www.zut.edu.pl",
+        "备注："
+      ],
+      [
+        "17、 学校名称：Politechnika Wrocławska",
+        "英文译名：Wroclaw University of Technology",
+        "中文译名：弗罗茨瓦夫技术大学",
+        "官方网址：www.pwr.wroc.pl",
+        "备注："
+      ],
+      [
+        "18、 学校名称：Politechnika Koszalińska",
+        "英文译名：Koszalin University of Technology",
+        "中文译名：科沙林技术大学",
+        "官方网址：www.tu.koszalin.pl",
+        "备注："
+      ]
+    ],
+    "（三）体育大学": [
+      [
+        "1、 学校名称：Akademia Wychowania Fizycznego i Sportu w Gdańsku",
+        "英文译名：Jedrzej Sniadecki Academy of Physical Education and Sport in Gdansk",
+        "中文译名：格但斯克体育学院",
+        "官方网址：www.awf.gda.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach",
+        "英文译名：Jerzy Kukuczka Academy of Physical Education in Katowice",
+        "中文译名：卡托维兹体育学院",
+        "官方网址：www.awf.katowice.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Akademia Wychowania Fizycznego w Krakowie",
+        "英文译名：University School of Physical Education in Cracow",
+        "中文译名：克拉科夫体育学院",
+        "官方网址：www.awf.krakow.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu",
+        "英文译名：University School of Physical Education in Poznan",
+        "中文译名：波兹南体育学院",
+        "官方网址：www.awf.poznan.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie",
+        "英文译名：Jozef Pilsudski University of Physical Education in Warsaw",
+        "中文译名：华沙体育学院",
+        "官方网址：www.awf.edu.pl",
+        "备注："
+      ],
+      [
+        "6、 学校名称：Akademia Wychowania Fizycznego we Wrocławiu",
+        "英文译名：University School of Physical Education in Wroclaw",
+        "中文译名：弗罗茨瓦夫体育学院",
+        "官方网址：www.aef.wroc.pl",
+        "备注："
+      ]
+    ],
+    "（四）医科大学": [
+      [
+        "1、 学校名称：Uniwersytet Medyczny w Białymstoku",
+        "英文译名：Medical University of Bialystok",
+        "中文译名：亚威斯托克医科大学",
+        "官方网址：www.amb.edu.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy",
+        "英文译名：Nicolaus Copernicus University – Ludwik Rydygier Collegium Medicum in Bydgoszcz",
+        "中文译名：哥白尼医科大学",
+        "官方网址：www.amb.bydgoszcz.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Gdański Uniwersytet Medyczny",
+        "英文译名：Medical University of Gdansk",
+        "中文译名：格但斯克医科大学",
+        "官方网址：www.amg.gda.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Śląski Uniwersytet Medyczny w Katowicach",
+        "英文译名：Medical University of Silesia",
+        "中文译名：西里西亚医科大学",
+        "官方网址：www.slam.katowice.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Uniwersytet Medyczny w Lublinie",
+        "英文译名：Medical University of Lublin",
+        "中文译名：卢布林医科大学",
+        "官方网址：www.umlub.pl",
+        "备注："
+      ],
+      [
+        "6、 学校名称：Uniwersytet Medyczny w Łodzi",
+        "英文译名：Medical University of Lodz",
+        "中文译名：罗兹医科大学",
+        "官方网址：www.umed.pl",
+        "备注："
+      ],
+      [
+        "7、 学校名称：Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu",
+        "英文译名：Poznan University of Medical Sciences",
+        "中文译名：波兹南医科大学",
+        "官方网址：www.amp.edu.pl",
+        "备注："
+      ],
+      [
+        "8、 学校名称：Pomorski Uniwersytet Medyczny w Szczecinie",
+        "英文译名：Pomeranian Medical University",
+        "中文译名：波莫瑞医科大学",
+        "官方网址：www.pam.szczecin.pl",
+        "备注："
+      ],
+      [
+        "9、 学校名称：Warszawski Uniwersytet Medyczny",
+        "英文译名：Medical University of Warsaw",
+        "中文译名：华沙医科大学",
+        "官方网址：www.wum.edu.pl",
+        "备注："
+      ],
+      [
+        "10、 学校名称：Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+        "英文译名：Wroclaw Medical University",
+        "中文译名：弗罗茨瓦夫医科大学",
+        "官方网址：www.am.wroc.pl",
+        "备注："
+      ],
+      [
+        "11、 学校名称：Collegium Medicum Uniwersytetu Jagiellońskiego w Krakowie",
+        "英文译名：Jagiellonian University Medical College in Cracow",
+        "中文译名：克拉科夫雅盖隆大学医学院",
+        "官方网址：www.cm-uj.krakw.pl",
+        "备注："
+      ]
+    ],
+    "（五）经济大学": [
+      [
+        "1、 学校名称：Uniwersytet Ekonomiczny w Katowicach",
+        "英文译名：University of Economics in Katowice",
+        "中文译名：卡特维兹经济大学",
+        "官方网址：www.ue.katowice.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Uniwersytet Ekonomiczny w Krakowie",
+        "英文译名：Cracow University of Economics",
+        "中文译名：克拉科夫经济大学",
+        "官方网址：www.uek.krakow.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Uniwersytet Ekonomiczny w Poznaniu",
+        "英文译名：Poznan University of Economics",
+        "中文译名：波兹南经济大学",
+        "官方网址：www.ue.poznan.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Szkoła Główna Handlowa w Warszawie",
+        "英文译名：Warsaw School of Economics",
+        "中文译名：华沙经济学院",
+        "官方网址：www.sgh.waw.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Uniwersytet Ekonomiczny we Wrocławiu",
+        "英文译名：Wroclaw University of Economics",
+        "中文译名：弗罗茨瓦夫经济大学",
+        "官方网址：www.ue.wroc.pl",
+        "备注："
+      ]
+    ],
+    "（六）艺术学院": [
+      [
+        "1、 学校名称：Akademia Sztuk Pięknych w Gdańsku",
+        "英文译名：Academy of Fine Arts in Gdansk",
+        "中文译名：格但斯克美术学院",
+        "官方网址：www.asp.gda.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Akademia Sztuk Pięknych w Katowicach",
+        "英文译名：Academy of Fine Arts in Katowice",
+        "中文译名：卡托维兹美术学院",
+        "官方网址：www.asp.katowice.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",
+        "英文译名：Jan Matejko Academy of Fine Arts in Cracow",
+        "中文译名：克拉科夫美术学院",
+        "官方网址：www.asp.krakow.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Akademia Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi",
+        "英文译名：Strzeminski Academy of Arts Lodz",
+        "中文译名：罗兹斯特热敏斯基美术学院",
+        "官方网址：www.asp.lodz.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Uniwersytet Artystyczny w Poznaniu",
+        "英文译名：University of Arts in Poznan",
+        "中文译名：波兹南艺术大学",
+        "官方网址：www.uap.edu.pl",
+        "备注："
+      ],
+      [
+        "6、 学校名称：Akademia Sztuk Pięknych w Warszawie",
+        "英文译名：Academy of Fine Arts in Warsaw",
+        "中文译名：华沙美术学院",
+        "官方网址：www.asp.waw.pl",
+        "备注："
+      ],
+      [
+        "7、 学校名称：Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu",
+        "英文译名：Eugeniusz Geppert Academy of Art and Design in Wroclaw",
+        "中文译名：弗罗茨瓦夫艺术与设计学院",
+        "官方网址：www.asp.wroc.pl",
+        "备注："
+      ],
+      [
+        "8、 学校名称：Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy",
+        "英文译名：Feliks Nowowiejski Academy of Music in Bydgoszcz",
+        "中文译名：比得哥熙音乐学院",
+        "官方网址：www.amuz.bydgoszcz.pl",
+        "备注："
+      ],
+      [
+        "9、 学校名称：Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku",
+        "英文译名：Stanislaw Moniuszko Academy of Music in Gdansk",
+        "中文译名：格但斯克音乐学院",
+        "官方网址：www.amuz.gda.pl",
+        "备注："
+      ],
+      [
+        "10、 学校名称：Akademia Muzyczna im. Karola Szymanowskiego w Katowicach",
+        "英文译名：The Karol Szymanowski Academy of Music in Katowice",
+        "中文译名：卡特维兹音乐学院",
+        "官方网址：www.am.katowice.pl",
+        "备注："
+      ],
+      [
+        "11、 学校名称：Akademia Muzyczna w Krakowie",
+        "英文译名：Academy of Music in Cracow",
+        "中文译名：克拉科夫音乐学院",
+        "官方网址：www.amuz.krakow.pl",
+        "备注："
+      ],
+      [
+        "12、 学校名称：Akademia Muzyczna im. Grażyny i Kiejstuta Bacewiczów w Łodzi",
+        "英文译名：Grazyna and Kiejstut Bacewicz Academy of Music in Lodz",
+        "中文译名：罗兹音乐学院",
+        "官方网址：www.amuz.lodz.pl",
+        "备注："
+      ],
+      [
+        "13、 学校名称：Akademia Muzyczna im. Ignacego Jana Paderewskiego w Poznaniu",
+        "英文译名：Ignacy Jan Paderewski Academy of Music in Poznan",
+        "中文译名：波兹南音乐学院",
+        "官方网址：www.amuz.edu.pl",
+        "备注："
+      ],
+      [
+        "14、 学校名称：Uniwersytet Muzyczny Fryderyka Chopina w Warszawie",
+        "英文译名：Frederic Chopin University of Music in Warsaw",
+        "中文译名：华沙肖邦音乐大学",
+        "官方网址：www.chopin.edu.pl",
+        "备注："
+      ],
+      [
+        "15、 学校名称：Akademia Muzyczna im. Karola Lipińskiego we Wrocławiu",
+        "英文译名：Karol Lipinski Academy of Music in Wroclaw",
+        "中文译名：利平斯基音乐学院",
+        "官方网址：www.amuz.wroc.pl",
+        "备注："
+      ],
+      [
+        "16、 学校名称：Państwowa Wyższa Szkoła Teatralna im. Ludwika Solskiego w Krakowie",
+        "英文译名：Ludwik Solski Academy for the Dramatic Arts",
+        "中文译名：国家克拉科夫戏剧艺术学院",
+        "官方网址：www.pwst.krakow.pl",
+        "备注："
+      ],
+      [
+        "17、 学校名称：Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna im. Leona Schillera w Łodzi",
+        "英文译名：Polish National Film, Television and Theatre School in Lodz",
+        "中文译名：波兰电影与戏剧艺术学院",
+        "官方网址：www.filmschool.lodz.pl",
+        "备注："
+      ],
+      [
+        "18、 学校名称：Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie",
+        "英文译名：Aleksander Zelwerowicz National Academy of Dramatic Art in Warsaw",
+        "中文译名：华沙艺术戏剧学院",
+        "官方网址：www.at.edu.pl",
+        "备注："
+      ]
+    ],
+    "（七）农业大学": [
+      [
+        "1、 学校名称：Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",
+        "英文译名：University of Agriculture in Cracow",
+        "中文译名：克拉科夫农业大学",
+        "官方网址：www.ur.krakow.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Uniwersytet Przyrodniczy w Lublinie",
+        "英文译名：University of Life Sciences in Lublin",
+        "中文译名：卢布林生命科学大学",
+        "官方网址：www.up.lublin.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Uniwersytet Przyrodniczy w Poznaniu",
+        "英文译名：Poznan University of Life Sciences",
+        "中文译名：波兹南生命科学大学",
+        "官方网址：www.up.poznan.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",
+        "英文译名：Warsaw University of Life Sciences - SGGW",
+        "中文译名：华沙生命科学大学",
+        "官方网址：www.sggw.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Uniwersytet Przyrodniczy we Wrocławiu",
+        "英文译名：Wroclaw University of Environmental and Life Sciences",
+        "中文译名：弗罗茨瓦夫环境与生命科学大学",
+        "官方网址：www.up.wroc.pl",
+        "备注："
+      ],
+      [
+        "6、 学校名称：Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",
+        "英文译名：University of Technology and Life Sciences in Bydgoszcz",
+        "中文译名：比得哥什技术与生命科学大学",
+        "官方网址：www.utp.edu.pl",
+        "备注："
+      ],
+      [
+        "7、 学校名称：Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",
+        "英文译名：Siedlce University of Natural Sciences and Humanities",
+        "中文译名：谢德尔策人文与生命科学大学",
+        "官方网址：www.uph.edu.pl",
+        "备注："
+      ]
+    ],
+    "（八）教育大学": [
+      [
+        "1、 学校名称：Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej w Warszawie",
+        "英文译名：Maria Grzegorzewska Academy of Special Education",
+        "中文译名：华沙特殊教育学院",
+        "官方网址：www.aps.edu.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Akademia im. Jana Długosza w Częstochowie",
+        "英文译名：Jan Dlugosz University in Czestochowa",
+        "中文译名：琴斯托霍瓦师范大学",
+        "官方网址：www.ajd.czest.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Uniwersytet Jana Kochanowskiego w Kielcach",
+        "英文译名：Jan Kochanowski University in Kielce",
+        "中文译名：凯尔采师范大学",
+        "官方网址：www.ujk.edu.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",
+        "英文译名：Pedagogical University of Cracow",
+        "中文译名：克拉科夫师范大学",
+        "官方网址：www.up.krakow.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Akademia Pomorska w Słupsku",
+        "英文译名：Pomeranian University in Slupsk",
+        "中文译名：斯乌普斯克波莫瑞师范大学",
+        "官方网址：www.apsl.edu.pl",
+        "备注："
+      ]
+    ],
+    "（九）海事大学": [
+      [
+        "1、 学校名称：Akademia Morska w Gdyni",
+        "英文译名：Gdynia Maritime University",
+        "中文译名：格的尼亚海事大学",
+        "官方网址：www.am.gdynia.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Akademia Morska w Szczecinie",
+        "英文译名：Maritime University of Szczecin",
+        "中文译名：什切青海事大学",
+        "官方网址：www.am.szczecin.pl",
+        "备注："
+      ]
+    ],
+    "（十）非公立大学        （此类大学为新增，中文译名为波方提供）": [
+      [
+        "1、 学校名称：Wyższa Szkoła Biznesu w Dąbrowie Górniczej",
+        "英文译名：Academy of Business in Dabrowa Gornicza",
+        "中文译名：栋布罗瓦古尔尼恰商学院",
+        "官方网址：www.wsb.edu.pl",
+        "备注："
+      ],
+      [
+        "2、 学校名称：Krakowska Akademia im. Andrzeja Frycza Modrzewskiego w Krakowie",
+        "英文译名：Andrzej Frycz Modrzewski Cracow University",
+        "中文译名：克拉科夫ANDRZEJ FRYCZ MODRZEWSKI大学",
+        "官方网址：www.ka.edu.pl",
+        "备注："
+      ],
+      [
+        "3、 学校名称：Collegium Civitas w Warszawie",
+        "英文译名：Collegium Civitas in Warsaw",
+        "中文译名：华沙CIVITAS学院",
+        "官方网址：www.civitas.edu.pl",
+        "备注："
+      ],
+      [
+        "4、 学校名称：Górnośląska Wyższa Szkoła Handlowa im. Wojciecha Korfantego w Katowicach",
+        "英文译名：Katowice School of Economics",
+        "中文译名：上西里西亚经济学院",
+        "官方网址：www.gwsh.pl",
+        "备注："
+      ],
+      [
+        "5、 学校名称：Akademia Leona Koźmińskiego w Warszawie",
+        "英文译名：Kozminski University in Warsaw",
+        "中文译名：华沙科依敏斯基大学",
+        "官方网址：www.kozminski.edu.pl",
+        "备注："
+      ],
+      [
+        "6、 学校名称：Uczelnia Łazarskiego w Warszawie",
+        "英文译名：Lazarski University in Warsaw",
+        "中文译名：华沙LAZARSKI大学",
+        "官方网址：www.lazarski.pl",
+        "备注："
+      ],
+      [
+        "7、 学校名称：Pedagogium Wyższa Szkoła Nauk Społecznych w Warszawie",
+        "英文译名：Pedagogium The College of Social Sciences in Warsaw",
+        "中文译名：华沙PEDAGOGIUM社会科学学院",
+        "官方网址：www.pedagogium.pl",
+        "备注："
+      ],
+      [
+        "8、 学校名称：Wyższa Szkoła Filologiczna we Wrocławiu",
+        "英文译名：Philological School of Higher Education in Wroclaw",
+        "中文译名：弗罗茨瓦夫外国语学院",
+        "官方网址：www.wsf.edu.pl",
+        "备注："
+      ],
+      [
+        "9、 学校名称：Akademia Finansów i Biznesu Vistula",
+        "英文译名：Vistula University in Warsaw",
+        "中文译名：华沙VISTULA大学",
+        "官方网址：www.vistula.edu.pl",
+        "备注："
+      ],
+      [
+        "10、 学校名称：Akademia Humanistyczna im. Aleksandra Gieysztora w Pułtusku",
+        "英文译名：Pultusk Academy of Humanities",
+        "中文译名：普乌图斯克人文学院",
+        "官方网址：www.wsh.edu.pl",
+        "备注："
+      ],
+      [
+        "11、 学校名称：Wyższa Szkoła Prawa i Administracji w Przemyślu",
+        "英文译名：School of Law and Public Administration in Przemysl",
+        "中文译名：普热梅希尔法律与公共行政学学院",
+        "官方网址：www.wspia.eu",
+        "备注："
+      ],
+      [
+        "12、 学校名称：Wyższa Szkoła Zarządzania Marketingowego i Języków Obcych w Katowicach",
+        "英文译名：Silesian School of Economics and Languages",
+        "中文译名：卡特维兹行销管理与外国语学院",
+        "官方网址：www.gallus.pl",
+        "备注："
+      ],
+      [
+        "13、 学校名称：Społeczna Akademia Nauk z siedzibą w Łodzi",
+        "英文译名：Social Sciences Academy in Lodz",
+        "中文译名：罗兹社会科学学院",
+        "官方网址：www.lodz.spoleczna.pl",
+        "备注："
+      ],
+      [
+        "14、 学校名称：Wyższa Szkoła Finansów i Zarządzania w Warszawie",
+        "英文译名：University of Finance and Management in Warsaw",
+        "中文译名：华沙金融与管理大学",
+        "官方网址：www.vizja.pl",
+        "备注："
+      ],
+      [
+        "15、 学校名称：Akademia Humanistyczno-Ekonomiczna w Łodzi",
+        "英文译名：University of Humanities and Economics in Lodz",
+        "中文译名：罗兹人文与经济院校",
+        "官方网址：www.ahe.lodz.pl",
+        "备注："
+      ],
+      [
+        "16、 学校名称：Dolnośląska Szkoła Wyższa z siedzibą we Wrocławiu",
+        "英文译名：University of Lower Silesia",
+        "中文译名：下西里西亚院校",
+        "官方网址：www.dsw.edu.pl",
+        "备注："
+      ],
+      [
+        "17、 学校名称：SWPS Uniwersystet Humanistycznospoleczny",
+        "英文译名：University of Social Sciences and Humanities in Warsaw",
+        "中文译名：华沙人文社科大学",
+        "官方网址：www.swps.pl",
+        "备注："
+      ],
+      [
+        "18、 学校名称：Wyższa Szkoła Informatyki i Zarządzania z siedzibą w Rzeszowie",
+        "英文译名：University of Information Technology and Management in Rzeszow",
+        "中文译名：:热舒夫信息与管理高等学校",
+        "官方网址：https://www.wsiz.rzeszow.pl/pl/Strony/WSIiZ.aspx",
+        "备注："
+      ]
+    ]
+  }
+}
